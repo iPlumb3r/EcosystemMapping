@@ -13,4 +13,4 @@ To Be Completed ...
 
 Where Used
 -
-E2M is used for the projet <a href="https://github.com/iPlumb3r/EntangledBootstrap">"Entangled Bootstrap" Repository</a>
+E2M is - intensively - used by the <a href="https://github.com/iPlumb3r/EntangledBootstrap">"Entangled Bootstrap" Repository</a> initiative
