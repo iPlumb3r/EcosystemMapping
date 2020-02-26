@@ -7,7 +7,7 @@ WHO ? Does WHAT ? HOW ? For WHAT ? & WHY ?
 
 Mantra
 -
-The Intension is more important than the Extension   
+The __Intension__ is more important than the __Extension__   
 _(The reason why a thing is here is more important than the nature of this thing)_
 
 Motivation
