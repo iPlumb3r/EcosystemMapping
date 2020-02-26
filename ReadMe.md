@@ -1,6 +1,7 @@
 Ecosystem Mapping Model (E2M)
 ==
-A Model for answering key question about any Ecosystem : WHO ? Do WHAT ? HOW ? For WHAT & WHY ?
+A Model for answering key questiosn about any Ecosystem :    
+WHO ? Do WHAT ? HOW ? For WHAT & WHY ?
 
 Mantra
 -
