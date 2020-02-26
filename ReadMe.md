@@ -7,8 +7,10 @@ WHO ? Does WHAT ? HOW ? For WHAT ? & WHY ?
 
 Mantra
 -
-The __Intension__ is more important than the __Extension__   
+The __"Intension"__ is more important than the __"Extension"__   
 _(The reason why a thing is here is more important than the nature of this thing)_
+
+More here : <a href="https://github.com/iPlumb3r/EntangledBootstrap/blob/master/1_Semantic/Model_EN.md">2-level Model</a>
 
 Motivation
 -
