@@ -6,10 +6,11 @@ What is it ?
 A conceptionary is a "flat" list of the #Concept of the knowledge domain with some useful associated informations :
 
 * ID (1-1)
-* Prefered Label (1-1) for each language
-* Alternative Label (0-*) for each language
-* Description (0-1) for each language
-* Comment (0-*) for each language
+And, for each language :
+* Prefered Label (1-1)
+* Alternative Label (0-*)
+* Description (0-1)
+* Comment (0-*) 
 
 __Important note__ :   
 Each entry of the conceptionary is NOT a #Term ...   
