@@ -14,5 +14,4 @@ To Be Completed ...
 
 Ontology
 - 
-To Be Completed ...
-
+<a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">Here</a>
