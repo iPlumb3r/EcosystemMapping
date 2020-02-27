@@ -24,7 +24,7 @@ Alternative Label(s)
 <table>
     <thead>
         <tr>
-            <th>Englisg</th>
+            <th>English</th>
             <th>French</th>
         </tr>
     </thead>
