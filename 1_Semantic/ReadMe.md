@@ -2,7 +2,7 @@ Semantic
 ==
 This is the place for explaining "What are we  - exactly - talking about ?"
 
-Conceptionnary
+Conceptionary
 - 
 
 To Be Completed ...
