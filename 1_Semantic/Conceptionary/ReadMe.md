@@ -1,7 +1,7 @@
 Conceptionary
 ==
 
-Purpose
+What is it ?
 -
 A conceptionary is a "flat" list of the #Concept of the knowledge domain with some useful associated informations :
 
@@ -16,6 +16,11 @@ Each entry of the conceptionary is NOT a #Term ...
 ... this is a #Concept
 
 Cf <a href="https://www.semanticarts.com/the-importance-of-distinguishing-between-terms-and-concepts/">The Importance of Distinguishing between Terms and Concepts</a> 
+
+What's the point ?
+-
+A conceptionary is like "a stone in the middle of the river" is the process to built an ontology.
+Less formal than an ontology, the conceptionary let appears future formal relations, in a textual flavor, inside the description section.
 
 Convention
 -
