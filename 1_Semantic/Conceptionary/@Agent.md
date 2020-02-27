@@ -75,4 +75,33 @@ Il peut également s'agir de tout ce qui peut être impliqué dans une activité
 Individuals
 -
 
+Some examples : 
+<table>
+    <thead>
+        <tr>
+            <th>Individual</th>
+            <th>Type</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>W3C</td>
+            <td>An Organization / Consortium</td>
+        </tr>
+        <tr>
+            <td>Holo.Host</td>
+            <td>An Organization / Company</td>
+        </tr>
+        <tr>
+            <td>Tim Berner Lee</td>
+            <td>A Person</td>
+        </tr>
+        <tr>
+            <td>The InfoCentral Project</td>
+            <td>A Project</td>
+        </tr>
+    </tbody>
+</table>
+
+Some more examples :   
 <a href="https://www.topincs.com/iPlumb3rSandBox/.index?tt=1219">Samples in the SandBox EBR</a>
