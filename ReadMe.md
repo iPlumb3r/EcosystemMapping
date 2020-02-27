@@ -5,9 +5,13 @@ WHO ? Does WHAT ? HOW ? For WHAT ? & WHY ?
 
 ![Questions](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/Who-DoesWhat-How-ForWhat-Why.png)
 
-Mantra
+Mantras
 -
-The __"Intension"__ is more important than the __"Extension"__   
+> "Essentially, all models are __wrong__, but some are __useful__" - Georges Box
+
+> The "Separation Of Concerns" principle is your friend 
+
+> The __"Intension"__ is more important than the __"Extension"__   
 _(The reason why a thing is in the map is more important than the nature of this thing)_
 
 More here : <a href="https://github.com/iPlumb3r/EntangledBootstrap/blob/master/1_Semantic/Model_EN.md">2-level Model</a>
