@@ -11,7 +11,7 @@ A conceptionary is a "flat" list of the #Concept of the knowledge domain with so
 * Description (0-1)
 * Comment (0-*)
 
-__Important remark__ : 
+__Important remark__ :   
 Each entry of the conceptionary is NOT a #Term ...   
 ... this is a #Concept
 
