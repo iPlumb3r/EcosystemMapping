@@ -13,8 +13,8 @@ The following convention is applied :
 
 Intentional Concepts : 
 -
-<a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>   
-<a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a>   
-<a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Technology.md">@Technology</a>   
-<a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Market.md">@Market</a>   
-<a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Finality.md">@Finality</a>   
+<a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a> (=> Who ?)
+<a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a> (=> What ?)   
+<a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Technology.md">@Technology</a> (=> How ?)   
+<a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Market.md">@Market</a> (=> For What ?)   
+<a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Finality.md">@Finality</a> (=> Why ?)   
