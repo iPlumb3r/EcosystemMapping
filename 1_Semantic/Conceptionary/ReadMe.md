@@ -3,7 +3,16 @@ Conceptionary
 
 Purpose
 -
-To Be Completed ...
+A conceptionary is a "flat" list of the concepts of the knowledge domain with some useful associatiated information :
+* ID
+* Prefered Label (1-1)
+* Alternative Label (0-*)
+* Description (0-1)
+* Comment (0-*)
+
+__Important remark__ : 
+Each entry of the conceptionary is NOT a #Term ...
+... this is a #Concept
 
 Convention
 -
