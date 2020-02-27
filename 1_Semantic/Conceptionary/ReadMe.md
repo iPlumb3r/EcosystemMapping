@@ -5,11 +5,11 @@ Purpose
 -
 A conceptionary is a "flat" list of the #Concept of the knowledge domain with some useful associated informations :
 
-* ID
-* Prefered Label (1-1)
-* Alternative Label (0-*)
-* Description (0-1)
-* Comment (0-*)
+* ID (1-1)
+* Prefered Label (1-1) for each language
+* Alternative Label (0-*) for each language
+* Description (0-1) for each language
+* Comment (0-*) for each language
 
 __Important note__ :   
 Each entry of the conceptionary is NOT a #Term ...   
@@ -19,7 +19,7 @@ Cf <a href="https://www.semanticarts.com/the-importance-of-distinguishing-betwee
 
 Convention
 -
-The following convention is applied : 
+The following convention is applied to the ID of each concept : 
 * Intentional concepts are prefixed by a "@" : e.g. "<a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>"
 * Extentional concepts are prefixed by a "§" : e.g. "<a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Person.md">§Person</a>"
 
