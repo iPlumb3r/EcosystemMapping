@@ -5,7 +5,7 @@ What is it ?
 -
 A conceptionary is a "flat" list of the #Concept of the knowledge domain with some useful associated informations :
 
-* ID (1-1)
+* ID (1-1)   
 And, for each language :
 * Prefered Label (1-1)
 * Alternative Label (0-*)
