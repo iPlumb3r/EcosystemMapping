@@ -21,7 +21,7 @@ Cf <a href="https://www.semanticarts.com/the-importance-of-distinguishing-betwee
 
 What's the point ?
 -
-A conceptionary is like _"a stone in the middle of the river"_ is the process to built an __ontology__.   
+A __conceptionary__ is like _"a stone in the middle of the river"_ is the process to built an __ontology__.   
 Less formal than an __ontology__, the __conceptionary__ let appears future formal relations - in a textual flavor - inside the description section.
 
 Convention
