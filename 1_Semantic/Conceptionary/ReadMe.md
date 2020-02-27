@@ -3,7 +3,7 @@ Conceptionary
 
 What is it ?
 -
-A __conceptionary__ is a "flat" list of the __concepts__ of the __knowledge domain__ with some useful associated informations :
+A __conceptionary__ is a "flat" list of the __concepts__ related to a given __knowledge domain__ with some useful associated informations :
 
 * ID (1-1)   
 
