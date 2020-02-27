@@ -12,7 +12,7 @@ Mantras
 > The __"Separation Of Concerns"__ principle is your friend   
 (And the <a href="https://github.com/iPlumb3r/Dicho-Scope/blob/master/Introduction_EN.md">Dicho-Scope</a> is your tool)
 
-> The __"Intention"__ is more important than the __"Extension"__   
+> The __"intention"__ is more important than the __"extension"__   
 _(The reason why a thing is in the map is more important than the nature of this thing)_
 
 More here : <a href="https://github.com/iPlumb3r/EntangledBootstrap/blob/master/1_Semantic/Model_EN.md">2-level Model</a>
