@@ -14,7 +14,7 @@ Whole Ontology (Intentional + Extensional facets)
 ![TM Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/TM_Ontology%40E2M_2020-02-27.png)
 
 
-Zoom on the Extensional Facet
+Zoom on the Extensional Facet "kernel"
 -
 
 ![TM Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/TM_Ontology%40E2M-e_2020-02-27.png)
