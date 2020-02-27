@@ -65,7 +65,7 @@ Comment(s)
     <tbody>
         <tr>
             <td>In some case it could also be - for example - an AI-Software running instance or an autonomous self-driving car
-In could also be anything than could be involved in an activity of a buisness process</td>
+In could also be anything than could be involved in an activity of a business process</td>
             <td>Dans certains cas, il peut également s'agir, par exemple, d'une instance de logiciel d'intelligence artificielle ou d'une voiture autonome
 Il peut également s'agir de tout ce qui peut être impliqué dans une activité d'un processus d'entreprise</td>
         </tr>
