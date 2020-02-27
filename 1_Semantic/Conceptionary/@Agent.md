@@ -47,8 +47,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Person.md">§Person</a>, <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Organization.md">§Organization</a> or <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Project.md">§Project</a> who act, potentialy involved in an activity of a business process</td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Person.md">§Person</a>, <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Organization.md">§Organization</a> or <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Project.md">§Project</a> qui agit, potnetilement impliqué dans une activité d'un processus métier</td>
         </tr>
     </tbody>
 </table>
