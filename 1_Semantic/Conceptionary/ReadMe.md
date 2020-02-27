@@ -4,6 +4,7 @@ Conceptionary
 Purpose
 -
 A conceptionary is a "flat" list of the #Concept of the knowledge domain with some useful associated informations :
+
 * ID
 * Prefered Label (1-1)
 * Alternative Label (0-*)
@@ -13,6 +14,8 @@ A conceptionary is a "flat" list of the #Concept of the knowledge domain with so
 __Important remark__ : 
 Each entry of the conceptionary is NOT a #Term ...
 ... this is a #Concept
+
+Cf <a href="https://www.semanticarts.com/the-importance-of-distinguishing-between-terms-and-concepts/">The Importance of Distinguishing between Terms and Concepts</a> 
 
 Convention
 -
