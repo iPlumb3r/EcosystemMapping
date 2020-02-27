@@ -83,20 +83,20 @@ Some examples :
     </thead>
     <tbody>
         <tr>
-            <td>W3C</td>
-            <td>An Organization / Consortium</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
-            <td>Holo.Host</td>
-            <td>An Organization / Company</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
-            <td>Tim Berner Lee</td>
-            <td>A Person</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
-            <td>The InfoCentral Project</td>
-            <td>A Project</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
