@@ -14,7 +14,6 @@ _(And the <a href="https://github.com/iPlumb3r/Dicho-Scope/blob/master/Introduct
 
 >>> The __"intention"__ is more important than the __"extension"__   
 _(The reason why a thing is in the map is more important than the nature of this thing)_
-
 More here : <a href="https://github.com/iPlumb3r/EntangledBootstrap/blob/master/1_Semantic/Model_EN.md">2-level Model</a>
 
 Motivation
