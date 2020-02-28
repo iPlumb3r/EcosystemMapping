@@ -1,4 +1,4 @@
-#Technology
+@Technology
 ==
 
 Prefered Label
