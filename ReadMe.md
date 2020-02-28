@@ -10,7 +10,7 @@ Mantras
 > "Essentially, all models are __wrong__, but some are __useful__" - Georges Box
 
 > The __"Separation Of Concerns"__ principle is your friend   
-_(And the <a href="https://github.com/iPlumb3r/Dicho-Scope/blob/master/Introduction_EN.md">Dicho-Scope</a> is your tool)_
+_(And the <a href="https://github.com/iPlumb3r/Dicho-Scope/blob/master/Introduction_EN.md">Dicho-Scope</a> is your favorite - conceptual - tool)_
 
 > The __"intention"__ is more important than the __"extension"__   
 _(The reason why a thing is in the map is more important than the nature of this thing)_
