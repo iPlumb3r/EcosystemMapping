@@ -14,7 +14,7 @@ _(And the <a href="https://github.com/iPlumb3r/Dicho-Scope/blob/master/Introduct
 
 >>> The __"intention"__ is more important than the __"extension"__   
 _(The reason why a thing is in the map is more important than the nature of this thing)_   
-More about that here : <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/ReasonWhyA2-LevelModel_EN.md">Reason Why for 2-Level Model</a>
+More about that here : <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/ReasonWhyA2-LevelModel_EN.md">Reason Why for a 2-Level Model</a>
 
 Motivation
 -
