@@ -1,4 +1,4 @@
-Reason Why for 2-Level model ?
+Reason Why for a 2-Level model ?
 ==
 
 General
