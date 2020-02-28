@@ -1,4 +1,4 @@
-Pourquoi un modèle à 2 niveaux
+Pourquoi un modèle à 2 niveaux ?
 ==
 
 Généralités
