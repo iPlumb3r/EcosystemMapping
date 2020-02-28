@@ -66,7 +66,7 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>In some case it could also be - for example - an AI-Software running instance (which provide - for example - useful taxonomies) or an autonomous self-driving car (which provide taxi services)</td>
+            <td>In some case it could also be - for example - an AI-Software running instance (which provide useful taxonomies) or an autonomous self-driving car (which provide taxi services)</td>
             <td>Dans certains cas, il peut également s'agir, par exemple, d'une instance de logiciel d'intelligence artificielle ou d'une voiture autonome</td>
         </tr>
         <tr>
