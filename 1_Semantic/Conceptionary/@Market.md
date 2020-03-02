@@ -12,8 +12,8 @@ Prefered Label
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Market</td>
+            <td>Marché</td>
         </tr>
     </tbody>
 </table>
@@ -29,8 +29,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td></td>
+            <td>Débouché</td>
         </tr>
     </tbody>
 </table>
@@ -47,7 +47,7 @@ Description
     <tbody>
         <tr>
             <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Cible incarné par une §Branch, un §Domain ou une §Area (=exacte intersection entre une §Branch et un §Domain) </td>
         </tr>
     </tbody>
 </table>
