@@ -46,8 +46,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Tangible or intangible <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Resource.md">§Resource</a> produced by a  <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a></td>
-            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Resource.md">§Resource</a> tangible ou intangible produite par un <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a></td>
+            <td>Tangible or intangible <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Resource.md">§Resource</a> produced by a  <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>.</td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Resource.md">§Resource</a> tangible ou intangible produite par un <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>.</td>
         </tr>
     </tbody>
 </table>
@@ -63,8 +63,8 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>And which may be consumed by another <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a> or used as a means of <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Technology.md">@Technology</a></td>
-            <td>Et susceptible d'être consommé par un autre <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a> ou bien de servir de moyen de <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Technology.md">@Technology</a></td></td>
+            <td>And which may be consumed by another <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a> or used as a means of <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Technology.md">@Technology</a>.</td>
+            <td>Et susceptible d'être consommé par un autre <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a> ou bien de servir de moyen de <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Technology.md">@Technology</a>.</td>
         </tr>
     </tbody>
 </table>
