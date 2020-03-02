@@ -88,7 +88,7 @@ Some examples :
         </tr>
         <tr>
             <td>Food</td>
-            <td>Brahch</td>
+            <td>Branch</td>
         </tr>
         <tr>
             <td>Food x Conception</td>
