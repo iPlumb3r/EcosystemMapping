@@ -63,7 +63,7 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
+            <td>and which may be consumed by another <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>or used as a means of <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Technology.md">@Technology</a></td>
             <td>Bla bla</td>
         </tr>
     </tbody>
