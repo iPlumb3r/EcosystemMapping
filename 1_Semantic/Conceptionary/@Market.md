@@ -29,7 +29,7 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td></td>
+            <td>-</td>
             <td>Débouché</td>
         </tr>
     </tbody>
