@@ -78,25 +78,29 @@ Some examples :
     <thead>
         <tr>
             <th>Individual</th>
-            <th>Type</th>
+            <th>(Extentional) Type</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td> </td>
-            <td> </td>
+            <td>Ecosystem Mapping Model (E2M)</td>
+            <td>Concept-Based Resource / Model</td>
         </tr>
         <tr>
-            <td> </td>
-            <td> </td>
+            <td>Entangled Boostrap Repository (EBR)</td>
+            <td>Bit-Based Resource / Application</td>
         </tr>
         <tr>
-            <td> </td>
-            <td> </td>
+            <td>Topincs</td>
+            <td>Bit-Based Resource / SaaS</td>
         </tr>
         <tr>
-            <td> </td>
-            <td> </td>
+            <td>A Tesla Car</td>
+            <td>Atom-Based Resource / Car</td>
+        </tr>
+        <tr>
+            <td>A Massage</td>
+            <td>Energy-Based Resource / Service</td>
         </tr>
     </tbody>
 </table>
