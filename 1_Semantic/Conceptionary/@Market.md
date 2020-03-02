@@ -78,25 +78,21 @@ Some examples :
     <thead>
         <tr>
             <th>Individual</th>
-            <th>Type</th>
+            <th>(Extended) Type</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Conception</td>
+            <td>Domain</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Food</td>
+            <td>Brahch</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
+            <td>Food x Conception</td>
+            <td>Area</td>
         </tr>
     </tbody>
 </table>
