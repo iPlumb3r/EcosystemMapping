@@ -30,7 +30,7 @@ Alternative Label(s)
     <tbody>
         <tr>
             <td>Artifact, Resource, Product, ...</td>
-            <td>Artefact, Resource, Produit, .../td>
+            <td>Artefact, Resource, Produit, ...</td>
         </tr>
     </tbody>
 </table>
@@ -46,8 +46,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Tangible or intangible <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Resource.md">§Resource</a> produced by a  <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a></td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Resource.md">§Resource</a> tangible ou intangible produite par un <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a></td>
         </tr>
     </tbody>
 </table>
