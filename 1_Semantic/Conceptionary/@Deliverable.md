@@ -12,8 +12,8 @@ Prefered Label
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Deliverable</td>
+            <td>Livrable</td>
         </tr>
     </tbody>
 </table>
@@ -29,8 +29,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Artifact, Resource, Product, ...</td>
+            <td>Artefact, Resource, Produit, .../td>
         </tr>
     </tbody>
 </table>
