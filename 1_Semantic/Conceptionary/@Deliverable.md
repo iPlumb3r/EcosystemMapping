@@ -46,8 +46,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Tangible ("As Built") or intangible ("As To Be Built", "As Designed" or "As Defined") <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Resource.md">§Resource</a> produced by a  <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>.</td>
-            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Resource.md">§Resource</a> tangible ("Tel Que Fabriqué") ou intangible ("Tel Que A Fabriquer", "Tel Que Conçu" ou "Tel Que Defini")  produite par un <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>.</td>
+            <td>Tangible ("As Built") or intangible ("As To Be Built", "As Designed" or "As Defined") <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Resource.md">§Resource</a> produced by a  <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a> in order to target certain <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Market.md">@Market</a>.</td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Resource.md">§Resource</a> tangible ("Tel Que Fabriqué") ou intangible ("Tel Que A Fabriquer", "Tel Que Conçu" ou "Tel Que Defini")  produite par un <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a> dans le but de cibler certains <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Market.md">@Market</a>.</td>
         </tr>
     </tbody>
 </table>
