@@ -20,4 +20,4 @@ Zoom on the Deliverable Zone of the Intentional Facet
 Extensional Facet
 -
 
-![TM Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/TM_Ontology%40E2M-e_2020-02-28.png)
+![TM Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/TM_Ontology%40E2M-e_2020-03-03.png)
