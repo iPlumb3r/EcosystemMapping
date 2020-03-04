@@ -63,7 +63,7 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>Also describe the <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a> beyond simply responding to a <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Market.md">@Market</a>.</td>
+            <td>Also describe the <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a> finality beyond simply responding to a <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Market.md">@Market</a>.</td>
             <td>Décrit aussi la finalité des <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a> au delà de la simple réponse à un  <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Market.md">@Market</a>.</td>
         </tr>
     </tbody>
