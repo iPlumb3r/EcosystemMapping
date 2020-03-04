@@ -30,7 +30,7 @@ Alternative Label(s)
     <tbody>
         <tr>
             <td>Technical product, Reference product, Generic product, Technical need, ...</td>
-            <td>Prodcuit technique, Produit de référence, Produit générique, besoin technique, ...</td>
+            <td>Produit technique, Produit de référence, Produit générique, besoin technique, ...</td>
         </tr>
     </tbody>
 </table>
@@ -45,8 +45,8 @@ Description
         </tr>
     </thead>
     <tbody>
-             <td>Technical product, Reference product, Generic product, Technical need, ...</td>
-            <td>Prodcuit technique, Produit de référence, Produit générique, besoin technique, ...</td>
+            <td>Technical product, Reference product, Generic product, Technical need, ...</td>
+            <td>Produit uniquement défini par les caractéristiques techniques qui le caractérise, indépendement de la manière dont il est fabriqué</td>
     </tbody>
 </table>
 
@@ -60,10 +60,8 @@ Comment(s)
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>And which may be consumed by another <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a> or used as a means of <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Technology.md">@Technology</a>.</td>
-            <td>Et susceptible d'être consommé par un autre <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a> ou bien de servir de moyen de <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Technology.md">@Technology</a>.</td>
-        </tr>
+            <td>-</td>
+            <td>Traditionellement défini par un ensemble de caractéristique à obtenir, avec généralement une moyenne et des tolérences sur chaque caractéristique</td>
     </tbody>
 </table>
 
