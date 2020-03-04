@@ -88,7 +88,7 @@ Synthèse
             <td>WHY ?</td>
             <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Finality.md">@Finality</a></td>
             <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7BasicNeed.md">§BasicNeed</a>, 
-<a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7AGoal.md">§Goal</a> & <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7AObjective.md">§Objective</a> </td>
+<a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Goal.md">§Goal</a> & <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7AObjective.md">§Objective</a> </td>
         </tr>
     </tbody>
 </table>
