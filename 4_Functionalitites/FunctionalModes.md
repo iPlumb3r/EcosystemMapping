@@ -1,4 +1,4 @@
-Functinal Mode
+Functinal Modes
 ==
 
 All required functions for the EBR (Cf next sections) are defined in order to be compliant with one or the other (or both) of the following functional modes : 
