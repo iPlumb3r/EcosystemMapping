@@ -45,8 +45,8 @@ Description
         </tr>
     </thead>
     <tbody>
-            <td>A product that is defined by "what it does," regardless of "what it is."</td>
-            <td>Produit qui se défini par "ce qu'il fait", indépendement de "ce qu'il est"</td>
+            <td>A product that is described by "what it does," regardless of "what it is."</td>
+            <td>Produit qui se décrit par "ce qu'il fait", indépendement de "ce qu'il est"</td>
     </tbody>
 </table>
 
