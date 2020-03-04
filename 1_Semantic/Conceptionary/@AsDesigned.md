@@ -88,7 +88,7 @@ Some examples :
             <td>§Bit-BasedResource / Web App / SaaS</td>
         </tr>
         <tr>
-            <td>A Min Mapping Application</td>
+            <td>A Mind Mapping Application</td>
             <td>§Bit-BasedResource / iDevice App</td>
         </tr>
         <tr>
