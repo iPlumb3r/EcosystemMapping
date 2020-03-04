@@ -63,8 +63,8 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>-</td>
-            <td>-</td>
+            <td>It is - generally - not residual in the resulting <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a>.</td>
+            <td>Elle n'est - généralement - pas résiduelle dans le  <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a> résultant.</td>
         </tr>
     </tbody>
 </table>
