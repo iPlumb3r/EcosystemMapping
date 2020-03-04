@@ -63,8 +63,8 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
     </tbody>
 </table>
@@ -83,20 +83,20 @@ Some examples :
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Extrusion</td>
+            <td>Process</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Ultra-High Temperature Pasteurization</td>
+            <td>Process</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Model-Driven Engineering</td>
+            <td>Methodology</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Effectuation</td>
+            <td>Methodology</td>
         </tr>
     </tbody>
 </table>
