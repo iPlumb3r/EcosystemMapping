@@ -88,11 +88,11 @@ Some examples :
         </tr>
         <tr>
             <td>Favoriser les circuit courts</td>
-            <td>$Goal</td>
+            <td>§Goal</td>
         </tr>
         <tr>
             <td>Acheter 80% du panier mensuel en local</td>
-            <td>$Objective</td>
+            <td>§Objective</td>
         </tr>
         <tr>
             <td></td>
