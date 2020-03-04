@@ -92,7 +92,7 @@ Some examples :
     <tbody>
         <tr>
             <td>Ecosystem Mapping Model (E2M)</td>
-            <td>Concept-Based Resource / Model</td>
+            <td>§Concept-BasedResource / Model</td>
         </tr>
         <tr>
             <td>Entangled Boostrap Repository (EBR)</td>
@@ -100,15 +100,15 @@ Some examples :
         </tr>
         <tr>
             <td>Topincs</td>
-            <td>Bit-Based Resource / SaaS</td>
+            <td>§Bit-BasedResource / SaaS</td>
         </tr>
         <tr>
             <td>A Tesla Car</td>
-            <td>Atom-Based Resource / Car</td>
+            <td>§Atom-BasedResource / Car</td>
         </tr>
         <tr>
             <td>A Massage</td>
-            <td>Energy-Based Resource / Service</td>
+            <td>§Energy-BasedResource / Service</td>
         </tr>
     </tbody>
 </table>
