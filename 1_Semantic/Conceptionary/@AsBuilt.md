@@ -29,8 +29,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Real product, tangible product, individual product, ...</td>
-            <td>Produit réel, produit tangible, produit invididualisé, ...</td>
+            <td>Real product, Tangible product, Individual product, ...</td>
+            <td>Produit réel, Produit tangible, Produit invididualisé, ...</td>
         </tr>
     </tbody>
 </table>
