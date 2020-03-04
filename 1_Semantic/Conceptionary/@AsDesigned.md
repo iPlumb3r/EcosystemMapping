@@ -45,8 +45,8 @@ Description
         </tr>
     </thead>
     <tbody>
-            <td>Technical product, Reference product, Generic product, Technical need, ...</td>
-            <td>Produit uniquement défini par les caractéristiques techniques qui le caractérise, indépendement de la manière dont il est fabriqué</td>
+            <td>A product that can be described by "what it is", regardless of "how it is made".</td>
+            <td>Produit qui se décrit par "ce qu'il est", indépendement de son "mode d'obtention"</td>
     </tbody>
 </table>
 
