@@ -12,8 +12,8 @@ Prefered Label
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Technology</td>
+            <td>Technologie</td>
         </tr>
     </tbody>
 </table>
@@ -29,8 +29,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Mean, Process, ...</td>
+            <td>Moyen, Procédé, ...</td>
         </tr>
     </tbody>
 </table>
@@ -46,8 +46,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Mean (Process and/or Machine) utilized for obtaining a given @AsBuiltDeliverable or @AsToBeBuiltDeliverable</td>
+            <td>Moyen (Procédé et/ou Machine) utilisé pour obtenir a @AsBuiltDeliverable or @AsToBeBuiltDeliverable donné</td>
         </tr>
     </tbody>
 </table>
