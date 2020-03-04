@@ -46,8 +46,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Mean (Process and/or Machine) utilized for obtaining a given @AsBuiltDeliverable or @AsToBeBuiltDeliverable</td>
-            <td>Moyen (Procédé et/ou Machine) utilisé pour obtenir a @AsBuiltDeliverable or @AsToBeBuiltDeliverable donné</td>
+            <td>Mean (Process and/or Machine) utilized for obtaining a given <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a> (More often an @AsBuiltDeliverable or an @AsToBeBuiltDeliverable</td>
+            <td>Moyen (Procédé et/ou Machine) utilisé pour obtenir un <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a> donné (Le plus souvent un @AsBuiltDeliverable ou un  @AsToBeBuiltDeliverable</td>
         </tr>
     </tbody>
 </table>
