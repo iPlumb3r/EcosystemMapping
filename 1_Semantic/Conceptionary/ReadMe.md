@@ -56,8 +56,8 @@ Synthèse
 <table>
     <thead>
         <tr>
-            <th>Icon</th>
             <th>Question</th>
+            <th>Icon</th>
           <th>Intentional Concept</th>
           <th>Extensional Concept(s)</th>
         </tr>
@@ -65,7 +65,7 @@ Synthèse
     <tbody>
         <tr>
             <td>WHO ?</td>
-            <td>A2</td>
+            <td>![alt text](https://github.com/babonet13/Images/blob/master/Portainer/LinuxCommandLine.png)</td>
             <td>A3</td>
             <td>A3</td>
         </tr>
