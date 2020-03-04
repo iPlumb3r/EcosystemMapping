@@ -20,6 +20,10 @@ Motivation
 -
 To Be Completed ...
 
+Tags
+-
+#EcosystemMapping <a href="https://www.topincs.com/EntangledBootstrap/2192">#SemanticCartography</a> #MapYourEnvironment #ProductWatch #MarketWatch #TechnologicalWatch #ProductLifecycleManagement 
+
 Table of Content
 -
 <table>
