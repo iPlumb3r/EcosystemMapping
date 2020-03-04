@@ -29,8 +29,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Functional "product", Functional need, Functionality, ...</td>
-            <td>"Produit" fonctionnel, Besoin fonctionel, fonctionalité, ...</td>
+            <td>Functional "product", Functional need, Functional specification, ...</td>
+            <td>"Produit" fonctionnel, Besoin fonctionel, Spécification fonctionelle, ...</td>
         </tr>
     </tbody>
 </table>
