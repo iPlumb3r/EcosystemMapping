@@ -46,8 +46,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Describes why things should be done, in term answered §BasicNeed, §Goal and/or §Objective to be reached,</td>
-            <td>Décrit ce pourquoi les choses doivent être faite, en terme de réponse à un §BasicNeed, §Goal ou §Objective à atteindre</td>
+            <td>Describes why things are done by <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>, in term answered §BasicNeed, §Goal and/or §Objective to be reached,</td>
+            <td>Décrit ce pourquoi les <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a> font les choses, en terme de réponse à un §BasicNeed, §Goal ou §Objective à atteindre</td>
         </tr>
     </tbody>
 </table>
