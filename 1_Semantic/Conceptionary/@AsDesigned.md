@@ -29,8 +29,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Technical product, Reference product, Generic product, Technical need, ...</td>
-            <td>Produit technique, Produit de référence, Produit générique, besoin technique, ...</td>
+            <td>Technical product, Reference product, Generic product, Technical need, Technical specification, ...</td>
+            <td>Produit technique, Produit de référence, Produit générique, Besoin technique, Specification technique, ...</td>
         </tr>
     </tbody>
 </table>
