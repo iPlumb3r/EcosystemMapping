@@ -68,17 +68,12 @@ Comment(s)
     </tbody>
 </table>
 
-Sub-Concept
+Super-Concept
 -
-List of @Deliverable sub-concepts : 
-* @AsDefinedDeliverable
-* @AsDesignedDeliverable
-* @AsToBeBuiltDeliverable
-* @AsBuiltDeliverable
+ <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a>
 
 Individuals
 -
-
 
 Some examples : 
 <table>
