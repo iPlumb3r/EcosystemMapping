@@ -12,8 +12,8 @@ Prefered Label
     </thead>
     <tbody>
         <tr>
-            <td>As Designed</td>
-            <td>Tel Que Conçu</td>
+            <td>As Defined</td>
+            <td>Tel Que Défini</td>
         </tr>
     </tbody>
 </table>
@@ -29,8 +29,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Technical product, Reference product, Generic product, Technical need, ...</td>
-            <td>Produit technique, Produit de référence, Produit générique, besoin technique, ...</td>
+            <td>Functional "product", Functional need, Functionality, ...</td>
+            <td>"Produit" fonctionnel, Besoin fonctionel, fonctionalité, ...</td>
         </tr>
     </tbody>
 </table>
@@ -45,8 +45,8 @@ Description
         </tr>
     </thead>
     <tbody>
-            <td>Technical product, Reference product, Generic product, Technical need, ...</td>
-            <td>Produit uniquement défini par les caractéristiques techniques qui le caractérise, indépendement de la manière dont il est fabriqué</td>
+            <td>A product that is defined by "what it does," regardless of "what it is."</td>
+            <td>Produit qui se défini par "ce qu'il fait", indépendement de "ce qu'il est"</td>
     </tbody>
 </table>
 
@@ -60,8 +60,8 @@ Comment(s)
         </tr>
     </thead>
     <tbody>
-            <td>-</td>
-            <td>Traditionellement défini par un ensemble de caractéristique à obtenir, avec généralement une moyenne et des tolérences sur chaque caractéristique</td>
+            <td>Traditionally defined by a set of functions to be satisfied</td>
+            <td>Traditionellement défini par un ensemble de fonctions à satisfaire</td>
     </tbody>
 </table>
 
@@ -82,20 +82,16 @@ Some examples :
     </thead>
     <tbody>
         <tr>
-            <td>A Topic Maps Engine</td>
-            <td>§Bit-BasedResource / Web App / SaaS</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
-            <td>A Mind Mapping Application</td>
-            <td>§Bit-BasedResource / iDevice App</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
-            <td>A Tesla Car (model level)</td>
-            <td>§Atom-BasedResource / Car</td>
-        </tr>
-        <tr>
-            <td>A Defintion a type of Massage</td>
-            <td>§Energy-BasedResource / Service</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
