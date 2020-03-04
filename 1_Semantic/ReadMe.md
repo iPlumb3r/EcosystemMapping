@@ -19,4 +19,7 @@ Conceptual Model
 
 Ontology
 - 
-<a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">Here</a>
+Ontologies which implements E2M are available in 3 differents "flavors" :
+* <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/OWL-Ontology.md">OWL Ontology</a>
+* <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/TM-Ontology.md">Topic Maps Ontology</a>
+* <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/KL-Ontology.md">KeepLink Ontology</a>
