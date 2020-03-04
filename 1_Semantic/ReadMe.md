@@ -15,7 +15,7 @@ Conceptionary
 
 Conceptual Model
 - 
-![TM Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/ConceptualModel%40E2M_2020-02-28.png)
+![TM Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/ConceptualModel%40E2M_2020-03-04.png)
 
 Ontology
 - 
