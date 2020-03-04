@@ -56,8 +56,7 @@ Synthèse
 <table>
     <thead>
         <tr>
-            <th>Question</th>
-            <th>Icon</th>
+          <th>Question</th>
           <th>Intentional Concept</th>
           <th>Extensional Concept(s)</th>
         </tr>
