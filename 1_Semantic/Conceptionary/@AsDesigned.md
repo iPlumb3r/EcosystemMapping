@@ -84,19 +84,19 @@ Some examples :
     </thead>
     <tbody>
         <tr>
-            <td>Topincs (A running instance on the web)</td>
+            <td>A Topic Maps Engine</td>
             <td>§Bit-BasedResource / Web App / SaaS</td>
         </tr>
         <tr>
-            <td>KeepLink (A running instance on my iPhone)</td>
+            <td>A Min Mapping Application</td>
             <td>§Bit-BasedResource / iDevice App</td>
         </tr>
         <tr>
-            <td>A Tesla Car</td>
+            <td>A Tesla Car (model level)</td>
             <td>§Atom-BasedResource / Car</td>
         </tr>
         <tr>
-            <td>A Massage</td>
+            <td>A Defintion a type of Massage</td>
             <td>§Energy-BasedResource / Service</td>
         </tr>
     </tbody>
