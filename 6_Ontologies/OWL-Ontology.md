@@ -14,4 +14,4 @@ Intentional Facet (Complete)
 
 Whole Ontology (Intentional + Extensional Facets)
 -
-![OWL Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M_2020-03-04.png)
+![OWL Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M_2020-03-05.png)
