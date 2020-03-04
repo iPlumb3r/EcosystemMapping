@@ -100,7 +100,11 @@ Some examples :
         </tr>
         <tr>
             <td>Topincs</td>
-            <td>§Bit-BasedResource / SaaS</td>
+            <td>§Bit-BasedResource / Web App / SaaS</td>
+        </tr>
+        <tr>
+            <td>KeepLink</td>
+            <td>§Bit-BasedResource / iDevice App</td>
         </tr>
         <tr>
             <td>A Tesla Car</td>
