@@ -78,7 +78,7 @@ Some examples :
     <thead>
         <tr>
             <th>Individual</th>
-            <th>Type</th>
+            <th>(Extensional) Type</th>
         </tr>
     </thead>
     <tbody>
