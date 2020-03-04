@@ -23,7 +23,7 @@ Mapping your environment allows you to have both a global and detailed vision of
 
 Tags
 -
-#EcosystemMapping <a href="https://www.topincs.com/EntangledBootstrap/2192">#SemanticCartography</a> #MapYourEnvironment #EffectuationMethodology #ProductWatch #MarketWatch #TechnologicalWatch #ProductLifecycleManagement 
+#EcosystemMapping <a href="https://www.topincs.com/EntangledBootstrap/2192">#SemanticCartography</a> #MapYourEnvironment #EffectuationMethodology #CompetitiveWatch #ProductWatch #MarketWatch #TechnologyWatch #ProductLifecycleManagement 
 
 Table of Content
 -
