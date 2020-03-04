@@ -48,3 +48,50 @@ Extensional Concepts
 <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Area.md">§Area</a>      
 <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7BasicNeed.md">§BasicNeed</a>, 
 <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7AGoal.md">§Goal</a> 
+
+Synthèse
+-
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Icon</th>
+            <th>Question</th>
+          <th>Intentional Concept</th>
+          <th>Extensional Concept(s)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>WHO ?</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>WHAT ?</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>HOW ?</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>For WHAT ?</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>WHY ?</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A3</td>
+        </tr>
+    </tbody>
+</table>
