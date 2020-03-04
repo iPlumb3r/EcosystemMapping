@@ -46,8 +46,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a> that describes a <Resource> (good, service, ...) by its own, as it is embodied in the real world</td>
-            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a> réalisé dans un temps particulier, dans un lieu particulier et selon un mode de réalisation particulier</td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a> the description of which includes the manner in which it is manufactured</td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a> dont la description inclue la manière dont il est fabriqué / obtenu</td>
     </tbody>
 </table>
 
