@@ -12,8 +12,8 @@ Prefered Label
     </thead>
     <tbody>
         <tr>
-            <td>As Defined</td>
-            <td>Tel Que Défini</td>
+            <td>As Defined Deliverable</td>
+            <td>Livrable Tel Que Défini</td>
         </tr>
     </tbody>
 </table>
