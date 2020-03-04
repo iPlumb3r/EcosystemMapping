@@ -18,7 +18,8 @@ More about that here : <a href="https://github.com/iPlumb3r/EcosystemMappingMode
 
 Motivation
 -
-To Be Completed ...
+Mapping your environment allows you to have both a global and detailed vision of it ...   
+... in order to be able to better act on it
 
 Tags
 -
