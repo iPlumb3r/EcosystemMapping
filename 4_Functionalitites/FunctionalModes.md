@@ -1,4 +1,4 @@
-Functinal Modes
+Functional Modes
 ==
 
 All required functions for the EBR (Cf next sections) are defined in order to be compliant with one or the other (or both) of the following functional modes : 
@@ -38,3 +38,7 @@ Reconciliation Mode
 => This mode permit the User to solve __incoherencies__ : 
 * either by deleting "wrong" information at the #KnowledgeBase level, 
 * either by accepting new "rigth" constraints at the #Model level.
+
+Resources
+-
+Twitter check : https://twitter.com/iPlumb3r/status/1230890223778848768
