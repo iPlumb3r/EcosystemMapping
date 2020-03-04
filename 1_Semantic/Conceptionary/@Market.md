@@ -84,15 +84,15 @@ Some examples :
     <tbody>
         <tr>
             <td>Conception</td>
-            <td>Domain</td>
+            <td>§Domain</td>
         </tr>
         <tr>
             <td>Food</td>
-            <td>Branch</td>
+            <td>§Branch</td>
         </tr>
         <tr>
             <td>Food x Conception</td>
-            <td>Area</td>
+            <td>§Area</td>
         </tr>
     </tbody>
 </table>
