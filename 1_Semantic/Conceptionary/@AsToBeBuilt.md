@@ -12,8 +12,8 @@ Prefered Label
     </thead>
     <tbody>
         <tr>
-            <td>As To Be Built</td>
-            <td>Tel Que A Fabriquer</td>
+            <td>As To Be Built Deliverable</td>
+            <td>Livrable Tel Que A Fabriquer</td>
         </tr>
     </tbody>
 </table>
