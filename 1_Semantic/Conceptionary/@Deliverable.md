@@ -73,7 +73,7 @@ Sub-Concept
 -
 List of @Deliverable sub-concepts : 
 * @AsDefinedDeliverable
-* @AsDesignedDeliverable
+* <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/@AsDesigned.md">@AsDesigned</a> (As To Designed Deliverable)
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/@AsToBeBuilt.md">@AsToBeBuilt</a> (As To Be Built Deliverable)
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/@AsBuilt.md">@AsBuilt</a> (As Built Deliverable)
 
