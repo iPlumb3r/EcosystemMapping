@@ -45,8 +45,8 @@ Description
         </tr>
     </thead>
     <tbody>
-        <tr>@Deliverable that describes a <Resource> (good, service, ...) by its own, as it is embodied in the real world</td>
-        <td>Deliverable réalisé dans un temps particulier, dans un lieu particulier et selon un mode de réalisation particulier</td>
+        <tr><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a> that describes a <Resource> (good, service, ...) by its own, as it is embodied in the real world</td>
+        <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a> réalisé dans un temps particulier, dans un lieu particulier et selon un mode de réalisation particulier</td>
     </tbody>
 </table>
 
