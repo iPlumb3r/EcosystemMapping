@@ -69,6 +69,14 @@ Comment(s)
     </tbody>
 </table>
 
+Sub-Concept
+-
+List od @Deliverable sub-concepts : 
+* @AsDefinedDeliverable
+* @AsDesignedDeliverable
+* @AsToBeBuiltDeliverable
+* @AsBuiltDeliverable
+
 Individuals
 -
 
