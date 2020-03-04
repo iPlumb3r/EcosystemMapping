@@ -85,19 +85,11 @@ Some examples :
     </thead>
     <tbody>
         <tr>
-            <td>Ecosystem Mapping Model (E2M)</td>
-            <td>§Concept-BasedResource / Model</td>
-        </tr>
-        <tr>
-            <td>Entangled Boostrap Repository (EBR)</td>
-            <td>Bit-Based Resource / Application</td>
-        </tr>
-        <tr>
-            <td>Topincs</td>
+            <td>Topincs (A running instance on the web)</td>
             <td>§Bit-BasedResource / Web App / SaaS</td>
         </tr>
         <tr>
-            <td>KeepLink</td>
+            <td>KeepLink (A running instance on my iPhone)</td>
             <td>§Bit-BasedResource / iDevice App</td>
         </tr>
         <tr>
