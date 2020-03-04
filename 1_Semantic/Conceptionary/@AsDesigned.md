@@ -12,8 +12,8 @@ Prefered Label
     </thead>
     <tbody>
         <tr>
-            <td>As Designed</td>
-            <td>Tel Que Conçu</td>
+            <td>As Designed Deliverable</td>
+            <td>Livrable Tel Que Conçu</td>
         </tr>
     </tbody>
 </table>
