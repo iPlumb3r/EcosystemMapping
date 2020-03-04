@@ -65,32 +65,27 @@ Synthèse
     <tbody>
         <tr>
             <td>WHO ?</td>
-            <td>![alt text](https://github.com/babonet13/Images/blob/master/Portainer/LinuxCommandLine.png)</td>
-            <td>A3</td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a></td>
             <td>A3</td>
         </tr>
         <tr>
             <td>WHAT ?</td>
-            <td>A2</td>
-            <td>A3</td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a></td>
             <td>A3</td>
         </tr>
         <tr>
             <td>HOW ?</td>
-            <td>A2</td>
-            <td>A3</td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Technology.md">@Technology</a></td>
             <td>A3</td>
         </tr>
         <tr>
             <td>For WHAT ?</td>
-            <td>A2</td>
-            <td>A3</td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Market.md">@Market</a></td>
             <td>A3</td>
         </tr>
         <tr>
             <td>WHY ?</td>
-            <td>A2</td>
-            <td>A3</td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Finality.md">@Finality</a></td>
             <td>A3</td>
         </tr>
     </tbody>
