@@ -83,16 +83,16 @@ Some examples :
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Se nourir</td>
+            <td>§BasicNeed</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Favoriser les circuit courts</td>
+            <td>$Goal</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Acheter 80% du panier mensuel en local</td>
+            <td>$Objective</td>
         </tr>
         <tr>
             <td></td>
