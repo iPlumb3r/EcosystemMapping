@@ -71,7 +71,7 @@ Comment(s)
 
 Sub-Concept
 -
-List od @Deliverable sub-concepts : 
+List of @Deliverable sub-concepts : 
 * @AsDefinedDeliverable
 * @AsDesignedDeliverable
 * @AsToBeBuiltDeliverable
