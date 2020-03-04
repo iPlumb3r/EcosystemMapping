@@ -12,8 +12,8 @@ Prefered Label
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Finality</td>
+            <td>Finalité</td>
         </tr>
     </tbody>
 </table>
@@ -29,8 +29,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Motivation, Goal, Objective, ...</td>
+            <td>Motivation, But, Objectif, ...</td>
         </tr>
     </tbody>
 </table>
@@ -46,8 +46,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Describes why things should be done, in term answered §BasicNeed, §Goal and/or §Objective to be reached,</td>
+            <td>Décrit ce pourquoi les choses doivent être faite, en terme de réponse à un §BasicNeed, §Goal ou §Objective à atteindre</td>
         </tr>
     </tbody>
 </table>
@@ -63,8 +63,8 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
     </tbody>
 </table>
