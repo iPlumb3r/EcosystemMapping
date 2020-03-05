@@ -27,7 +27,7 @@ The Ecosysteme Mapping Model (E2M) is currently available for the following tool
             <td>Topic Maps (ISO/IEC  Standard)</td>
             <td>Web</td>
             <td>"Model-Driven" Only</td>
-            <td>Web / Multi-Utilisateur</td>
+            <td>Web / Multi-User</td>
             <td>Cf <a href="https://www.topincs.com/iPlumb3rSandBox/">"Entangled Bootstrap" Repository (EBR)</a></td>
         </tr>
         <tr>
