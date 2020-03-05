@@ -1,6 +1,6 @@
 Implementations
 ==
-The Ecosysteme Mapping Model is currently available for the following tools :
+The Ecosysteme Mapping Model (E2M) is currently available for the following tools (or tool types) :
 
 <table>
     <thead>
