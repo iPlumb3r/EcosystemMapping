@@ -44,7 +44,7 @@ The Ecosysteme Mapping Model is currently available for the following tools :
 
 OWL Tool
 -
-OWL Ontology ("Intentioanl Mudule) only is available in the <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/files">file
+OWL Ontology ("Intentioanl Mudule) only is available in the <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/files">file</a> of this repository
 <table>
     <thead>
         <tr>
@@ -55,7 +55,7 @@ OWL Ontology ("Intentioanl Mudule) only is available in the <a href="https://git
     </thead>
     <tbody>
         <tr>
-            <td>Download E2M Package for KeepLink</td>
+            <td>Download the OWL Ontology of the E2M "Intentional" Module</td>
             <td>With you iPhone/iPad brower clic on this <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/files/EcosystemMapping_v1_2020-03-05.klp">link</a></td>
             <td></td>
         </tr>
