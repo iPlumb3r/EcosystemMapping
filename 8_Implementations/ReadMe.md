@@ -76,6 +76,8 @@ Topincs
 
 A Topincs store parameterized with the EM2 model could be see here : Cf <a href="https://www.topincs.com/iPlumb3rSandBox/">"Entangled Bootstrap" Repository (EBR)</a>
 
+If you want you own follows the instructions :
+
 __Instructions__
 <table>
     <thead>
