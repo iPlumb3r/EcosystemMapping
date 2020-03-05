@@ -20,7 +20,7 @@ The Ecosysteme Mapping Model is currently available for the following tools :
             <td>Depending of the tool</td>
             <td>Depending of the tool</td>
             <td>Depending of the tool</td>
-            <td>En attente de <a href="http://semapps.org/">SemApps</a></td>
+            <td>Waiting for <a href="http://semapps.org/">SemApps</a></td>
         </tr>
         <tr>
             <td><a href="https://www.topincs.com/">Topincs</a></td>
