@@ -24,7 +24,7 @@ The Ecosysteme Mapping Model is currently available for the following tools :
         </tr>
         <tr>
             <td><a href="https://www.topincs.com/">Topincs</a></td>
-            <td>Topic Maps</td>
+            <td>Topic Maps (ISO/IEC  Standard)</td>
             <td>Web</td>
             <td>"Model-Driven" Only</td>
             <td>Web / Multi-Utilisateur</td>
