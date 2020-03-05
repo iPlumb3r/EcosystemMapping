@@ -84,14 +84,9 @@ __Instructions__
     </thead>
     <tbody>
         <tr>
-            <td>Ask Topincs Admin for a "free" Topincs store</td>
-            <td>See associated charateristics <a href="https://www.topincs.com/pricing">here</a></td>
-            <td>Ask for having your store initilized with the store with the E2M TM-Ontology</td>
-        </tr>
-        <tr>
-            <td>Ask for having your store initilized with the store with the E2M TM-Ontology</td>
-            <td>Use the contact form on this <a href="https://www.topincs.com/pricing">page</a></td>
-            <td></td>
+            <td>Create Topincs store with E2M TM-Ontology</td>
+            <td>Ask Topincs Admin for that. Use the contact form on this <a href="https://www.topincs.com/pricing">page</a></td>
+            <td>See associated charateristics <a href="https://www.topincs.com/pricing">here</a</td>
         </tr>
     </tbody>
 </table>
