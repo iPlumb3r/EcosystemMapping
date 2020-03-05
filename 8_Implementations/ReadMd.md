@@ -15,7 +15,7 @@ The Ecosysteme Mapping Model is currently available for the following tools :
     </thead>
     <tbody>
         <tr>
-            <td>Any "OWL-Compliant" ontology-driven tool (e.g. <a href="https://protege.stanford.edu/">Protégé</a>). Especially waiting for <a href="http://semapps.org/">SemApps</a></td>
+            <td>Any "OWL-Compliant" ontology-driven tool</td>
             <td>OWL (W3C Standard)</td>
             <td>Depending of the tool</td>
             <td>Depending of the tool</td>
@@ -44,7 +44,10 @@ The Ecosysteme Mapping Model is currently available for the following tools :
 
 OWL Tool
 -
-OWL Ontology ("Intentioanl Mudule) only is available in the <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/files">file</a> of this repository
+e.g. <a href="https://protege.stanford.edu/">Protégé</a>).   
+Especially waiting for <a href="http://semapps.org/">SemApps</a>   
+
+__Instructions__
 <table>
     <thead>
         <tr>
@@ -70,12 +73,34 @@ OWL Ontology ("Intentioanl Mudule) only is available in the <a href="https://git
 
 Topincs
 -
-To Be Complete ...
+__Instructions__
+<table>
+    <thead>
+        <tr>
+            <th>What Do To ?</th>
+            <th>How To Do It ?</th>
+            <th>Comment(s)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Download E2M Package for KeepLink</td>
+            <td>With you iPhone/iPad browser clic on this <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/files/EcosystemMapping_v1_2020-03-05.klp">link</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Open E2M Package for KeepLink in the KeepLink application</td>
+            <td>Clic on the corresponding file on your iPhone/iPad on choose the menu "Open in KeepLink</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
-Implementations
+
+KeepLink
 -
-EM2 is available as a KeepLink package in the <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/files">file</a> of this repository
 
+__Instructions__
 <table>
     <thead>
         <tr>
