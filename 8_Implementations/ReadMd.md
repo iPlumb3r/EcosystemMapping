@@ -59,7 +59,7 @@ Instructions
     <thead>
         <tr>
             <th>What Do To ?</th>
-            <th>How To Do It ?/th>
+            <th>How To Do It ?</th>
             <th>Comment(s)</th>
         </tr>
     </thead>
@@ -71,11 +71,12 @@ Instructions
         </tr>
         <tr>
             <td>Open E2M Package for KeepLink in the KeepLink application</td>
-            <td>B2</td>
-            <td>B3</td>
+            <td>Clic on the corrsponding file on your iPhone/iPad on choose the menu "Open in KeepLink</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
+
 
 
 ![KL Package](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/KeepLink_Package.jpg)
