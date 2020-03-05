@@ -8,19 +8,19 @@ The Ecosysteme Mapping Model is currently available for the following tools :
             <th>Tool</th>
             <th>Ontology</th>
             <th>Platform</th>      
-            <th>Supported Mode</th>
+            <th>Supported Modes</th>
             <th>Usage</th>   
             <th>Comments</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Any "OWL-Compliant" ontology-driven tool</td>
+            <td>Any "OWL-Compliant" ontology-driven tool (e.g. <a href="https://protege.stanford.edu/">Protégé</a>). Especially waiting for <a href="http://semapps.org/">SemApps</a></td>
             <td>OWL (W3C Standard)</td>
             <td>Depending of the tool</td>
             <td>Depending of the tool</td>
             <td>Depending of the tool</td>
-            <td>Waiting for <a href="http://semapps.org/">SemApps</a></td>
+            <td>OWL Ontology ("Intentioanl Mudule) only is available in the <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/files">file</a> section</td>
         </tr>
         <tr>
             <td><a href="https://www.topincs.com/">Topincs</a></td>
@@ -44,7 +44,29 @@ The Ecosysteme Mapping Model is currently available for the following tools :
 
 OWL Tool
 -
-E.g. Protégé : https://protege.stanford.edu/
+OWL Ontology ("Intentioanl Mudule) only is available in the <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/files">file
+<table>
+    <thead>
+        <tr>
+            <th>What Do To ?</th>
+            <th>How To Do It ?</th>
+            <th>Comment(s)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Download E2M Package for KeepLink</td>
+            <td>With you iPhone/iPad brower clic on this <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/files/EcosystemMapping_v1_2020-03-05.klp">link</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Open E2M Package for KeepLink in the KeepLink application</td>
+            <td>Clic on the corrsponding file on your iPhone/iPad on choose the menu "Open in KeepLink</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
 
 Topincs
 -
