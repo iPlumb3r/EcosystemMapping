@@ -42,7 +42,7 @@ Table of Content
             <td></td>
         </tr>
         tr>
-            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/8_Implementation/ReadMd.md">Implementations</a></td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/8_Implementations/ReadMd.md">Implementations</a></td>
             <td>Implementation for OWL-Compliant Tools, Topincs & KeepLink</td>
             <td></td>
         </tr>
