@@ -20,7 +20,7 @@ The Ecosysteme Mapping Model (E2M) is currently available for the following tool
             <td>Depending of the tool</td>
             <td>Depending of the tool</td>
             <td>Depending of the tool</td>
-            <td>OWL Ontology ("Intentioanl Mudule) only is available in the <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/files">file</a> section</td>
+            <td>OWL Ontology is available in the <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/files">file</a> section  ("Intentional Module" only for nw)</td>
         </tr>
         <tr>
             <td><a href="https://www.topincs.com/">Topincs</a></td>
