@@ -54,7 +54,6 @@ Implementations
 -
 EM2 is available as a KeepLink package in the <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/files">file</a> of this repository
 
-Instructions
 <table>
     <thead>
         <tr>
