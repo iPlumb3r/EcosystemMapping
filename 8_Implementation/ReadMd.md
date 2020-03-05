@@ -40,3 +40,20 @@ The Ecosysteme Mapping Model is currently available for the following tools :
         </tr>
     </tbody>
 </table>
+
+
+OWL Tool
+-
+E.g. Protégé : https://protege.stanford.edu/
+
+Topincs
+-
+To Be Complete ...
+
+Implementations
+-
+EM2 is available as a KeepLink package in the <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/files">file</a> of this repository
+
+Instructions
+
+![KL Package](https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/images)
