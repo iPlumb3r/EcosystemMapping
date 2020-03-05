@@ -28,7 +28,7 @@ The Ecosysteme Mapping Model (E2M) is currently available for the following tool
             <td>Web</td>
             <td>"Model-Driven" Only</td>
             <td>Web / Multi-User</td>
-            <td>Cf <a href="https://www.topincs.com/iPlumb3rSandBox/">"Entangled Bootstrap" Repository (EBR)</a></td>
+            <td>SaaS only</td>
         </tr>
         <tr>
             <td><a href="http://keeplink.com/">KeepLink</a></td>
@@ -73,6 +73,9 @@ __Instructions__
 
 Topincs
 -
+
+A Topincs store parameterized with the EM2 model could be see here : Cf <a href="https://www.topincs.com/iPlumb3rSandBox/">"Entangled Bootstrap" Repository (EBR)</a>
+
 __Instructions__
 <table>
     <thead>
