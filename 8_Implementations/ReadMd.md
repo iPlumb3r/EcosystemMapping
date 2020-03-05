@@ -59,7 +59,7 @@ __Instructions__
     <tbody>
         <tr>
             <td>Download the OWL Ontology of the E2M "Intentional" Module</td>
-            <td>Clic on this <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/files/EcosystemMapping_v1_2020-03-05.klp">link</a></td>
+            <td>Clic on this <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/files/EcosystemMapping_Intentional.owl">link</a></td>
             <td></td>
         </tr>
         <tr>
