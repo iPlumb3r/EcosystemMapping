@@ -56,4 +56,4 @@ EM2 is available as a KeepLink package in the <a href="https://github.com/iPlumb
 
 Instructions
 
-![KL Package](https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/images)
+![KL Package](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/KeepLink_Package.jpg)
