@@ -84,13 +84,13 @@ __Instructions__
     </thead>
     <tbody>
         <tr>
-            <td>Download E2M Package for KeepLink</td>
-            <td>With you iPhone/iPad browser clic on this <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/files/EcosystemMapping_v1_2020-03-05.klp">link</a></td>
-            <td></td>
+            <td>Ask Topincs Admin for a "free" Topincs store</td>
+            <td>See associated charateristics <a href="https://www.topincs.com/pricing">here</a></td>
+            <td>Ask for having your store initilized with the store with the E2M TM-Ontology</td>
         </tr>
         <tr>
-            <td>Open E2M Package for KeepLink in the KeepLink application</td>
-            <td>Clic on the corresponding file on your iPhone/iPad on choose the menu "Open in KeepLink</td>
+            <td>Ask for having your store initilized with the store with the E2M TM-Ontology</td>
+            <td>Use the contact form on this <a href="https://www.topincs.com/pricing">page</a></td>
             <td></td>
         </tr>
     </tbody>
