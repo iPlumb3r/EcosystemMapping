@@ -55,5 +55,27 @@ Implementations
 EM2 is available as a KeepLink package in the <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/files">file</a> of this repository
 
 Instructions
+<table>
+    <thead>
+        <tr>
+            <th>What Do To ?</th>
+            <th>How To Do It ?/th>
+            <th>Comment(s)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Download E2M Package for KeepLink</td>
+            <td>With you iPhone/iPad brower clic on this <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/files/EcosystemMapping_v1_2020-03-05.klp">link</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Open E2M Package for KeepLink in the KeepLink application</td>
+            <td>B2</td>
+            <td>B3</td>
+        </tr>
+    </tbody>
+</table>
+
 
 ![KL Package](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/KeepLink_Package.jpg)
