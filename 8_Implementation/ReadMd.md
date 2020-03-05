@@ -36,7 +36,7 @@ The Ecosysteme Mapping Model is currently available for the following tools :
             <td>iPhone / iPad</td>
             <td>"Model-Driven" & "Model-Discovery" (No Reconsiliation Mode)</td>
             <td>Mono-User ("Collaboration" Mode via Package exchange)</td>
-            <td>Package for KeepLink available in the "file" section</td>
+            <td>Package for KeepLink available in the <a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/files">file</a> section</td>
         </tr>
     </tbody>
 </table>
