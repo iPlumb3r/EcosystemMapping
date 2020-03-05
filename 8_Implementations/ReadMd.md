@@ -56,12 +56,12 @@ OWL Ontology ("Intentioanl Mudule) only is available in the <a href="https://git
     <tbody>
         <tr>
             <td>Download the OWL Ontology of the E2M "Intentional" Module</td>
-            <td>With you iPhone/iPad brower clic on this <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/files/EcosystemMapping_v1_2020-03-05.klp">link</a></td>
+            <td>Clic on this <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/files/EcosystemMapping_v1_2020-03-05.klp">link</a></td>
             <td></td>
         </tr>
         <tr>
-            <td>Open E2M Package for KeepLink in the KeepLink application</td>
-            <td>Clic on the corrsponding file on your iPhone/iPad on choose the menu "Open in KeepLink</td>
+            <td>Install the OWL Ontology of the E2M "Intentional" Module in you favorite OWL-Compliant tool</td>
+            <td>Depending of the tool</td>
             <td></td>
         </tr>
     </tbody>
@@ -87,12 +87,12 @@ EM2 is available as a KeepLink package in the <a href="https://github.com/iPlumb
     <tbody>
         <tr>
             <td>Download E2M Package for KeepLink</td>
-            <td>With you iPhone/iPad brower clic on this <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/files/EcosystemMapping_v1_2020-03-05.klp">link</a></td>
+            <td>With you iPhone/iPad browser clic on this <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/files/EcosystemMapping_v1_2020-03-05.klp">link</a></td>
             <td></td>
         </tr>
         <tr>
             <td>Open E2M Package for KeepLink in the KeepLink application</td>
-            <td>Clic on the corrsponding file on your iPhone/iPad on choose the menu "Open in KeepLink</td>
+            <td>Clic on the corresponding file on your iPhone/iPad on choose the menu "Open in KeepLink</td>
             <td></td>
         </tr>
     </tbody>
