@@ -14,8 +14,8 @@ Prefered Label
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Area</td>
+            <td>Aire</td>
         </tr>
     </tbody>
 </table>
@@ -31,8 +31,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Zone</td>
+            <td>Métier, Zone, ...</td>
         </tr>
     </tbody>
 </table>
