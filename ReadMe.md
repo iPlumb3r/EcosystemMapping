@@ -52,3 +52,8 @@ Table of Content
 Where Used
 -
 E2M is - intensively - used by the <a href="https://github.com/iPlumb3r/EntangledBootstrap">"Entangled Bootstrap" Repository</a> initiative
+
+Resources
+-
+* <a href="https://t.me/EcosystemMapping">"Public" E2M Telegram Group.</a> initiative
+
