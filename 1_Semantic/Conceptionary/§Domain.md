@@ -74,7 +74,6 @@ Comment(s)
 Individuals
 -
 
-
 Some examples : 
 <table>
     <thead>
@@ -94,10 +93,6 @@ Some examples :
         </tr>
         <tr>
             <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>/td>
             <td></td>
         </tr>
     </tbody>
