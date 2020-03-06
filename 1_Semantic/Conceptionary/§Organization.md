@@ -64,7 +64,7 @@ Comment(s)
     <tbody>
         <tr>
             <td>Can play the role of an <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>.</td>
-            <tdPeut jouer le rôle d'un <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>.</td>
+            <td>Peut jouer le rôle d'un <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>.</td>
         </tr>
     </tbody>
 </table>
