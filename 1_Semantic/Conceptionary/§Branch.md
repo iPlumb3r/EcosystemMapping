@@ -14,8 +14,8 @@ Prefered Label
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Branch</td>
+            <td>Branche</td>
         </tr>
     </tbody>
 </table>
@@ -31,8 +31,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Industrial sector, ...</td>
+            <td>Secteur industriel, Industrie, ...</td>
         </tr>
     </tbody>
 </table>
