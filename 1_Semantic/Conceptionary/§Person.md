@@ -91,9 +91,9 @@ Some examples :
         </tr>
         <tr>
             <td>Arthur Brock</td>
-            <td>A Person</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
 
-Some more examples : <a href="https://www.topincs.com/iPlumb3rSandBox/.index?tt=1219">Samples in the SandBox EBR</a>
+Some more examples : <a href="https://www.topincs.com/iPlumb3rSandBox/.index?tt=1388">Samples in the SandBox EBR</a>
