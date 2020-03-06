@@ -45,8 +45,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Human being. Can play the role of an <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>.</td>
-            <td>Etre humain. Peut jouer le rôle d'un <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>.</td>
+            <td>Human being.</td>
+            <td>Etre humain.</td>
         </tr>
     </tbody>
 </table>
@@ -62,8 +62,8 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>-</td>
-            <td>-</td>
+            <td>Can play the role of an <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>.</td>
+            <td>Peut jouer le rôle d'un <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>.</td>
         </tr>
     </tbody>
 </table>
