@@ -14,8 +14,8 @@ Prefered Label
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Domain</td>
+            <td>Domaine</td>
         </tr>
     </tbody>
 </table>
@@ -31,8 +31,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Enterpise function, ...</td>
+            <td>Fonction d'entreprise, ...</td>
         </tr>
     </tbody>
 </table>
