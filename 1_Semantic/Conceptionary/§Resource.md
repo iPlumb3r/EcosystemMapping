@@ -32,7 +32,7 @@ Alternative Label(s)
     <tbody>
         <tr>
             <td>"Product, Process or Service", ...</td>
-            <td>Produit, Procédé ou Service, ...</td>
+            <td>"Produit, Procédé ou Service", ...</td>
         </tr>
     </tbody>
 </table>
