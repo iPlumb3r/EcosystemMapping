@@ -12,8 +12,8 @@ Prefered Label
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Objective</td>
+            <td>Objectif</td>
         </tr>
     </tbody>
 </table>
@@ -29,8 +29,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
     </tbody>
 </table>
