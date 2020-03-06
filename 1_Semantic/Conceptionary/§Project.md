@@ -83,22 +83,18 @@ Some examples :
     </thead>
     <tbody>
         <tr>
-            <td>W3C</td>
-            <td>An Organization / Consortium</td>
-        </tr>
-        <tr>
-            <td>Holo.Host</td>
-            <td>An Organization / Company</td>
-        </tr>
-        <tr>
-            <td>Tim Berner Lee</td>
-            <td>A Person</td>
+            <td>Toward the Semantic Web</td>
+            <td>Inititive</td>
         </tr>
         <tr>
             <td>The InfoCentral Project</td>
-            <td>A Project</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Meta-Currency Project</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
 
-Some more examples : <a href="https://www.topincs.com/iPlumb3rSandBox/.index?tt=1219">Samples in the SandBox EBR</a>
+Some more examples : <a href="https://www.topincs.com/iPlumb3rSandBox/.index?tt=1479">Samples in the SandBox EBR</a>
