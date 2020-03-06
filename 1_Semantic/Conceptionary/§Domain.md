@@ -31,7 +31,7 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Enterpise function, ...</td>
+            <td>Enterprise function, ...</td>
             <td>Fonction d'entreprise, ...</td>
         </tr>
     </tbody>
