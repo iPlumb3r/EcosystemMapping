@@ -13,8 +13,8 @@ Prefered Label
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Goal</td>
+            <td>But</td>
         </tr>
     </tbody>
 </table>
@@ -30,8 +30,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Finality, Purpose, ...</td>
+            <td>Finalité, ...</td>
         </tr>
     </tbody>
 </table>
