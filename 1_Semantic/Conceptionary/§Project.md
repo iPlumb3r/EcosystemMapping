@@ -46,8 +46,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Set of actions realized (or to be realized) for a specific purpose. Can play the role of an <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>.</td>
-            <td>Ensemble d'action réalisées (ou à réaliser) dans un but précis. Peut jouer le rôle d'un <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>.</td>
+            <td>Set of actions realized (or to be realized) for a specific purpose.</td>
+            <td>Ensemble d'action réalisées (ou à réaliser) dans un but précis.</td>
         </tr>
     </tbody>
 </table>
@@ -63,8 +63,8 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>-</td>
-            <td>-</td>
+            <td>Can play the role of an <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>.</td>
+            <td>Peut jouer le rôle d'un <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>.</td>
         </tr>
     </tbody>
 </table>
