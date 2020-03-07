@@ -4,7 +4,7 @@ OWL Ontology of the Ecosystem Mapping Model (E2M) :
 
 Intentional Module Graph (Complete)
 -
-<a href="hhttp://hubject.net/iPlumb3r/E2M/OWL-Ontology/index-en.html">here</a>
+ <a href="http://hubject.net/iPlumb3r/E2M/OWL-Ontology/index-en.html">here</a>
 
 Intentional Module Specificiation (Simplified)
 -
