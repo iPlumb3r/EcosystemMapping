@@ -3,16 +3,20 @@ OWL Ontology
 OWL Ontology of the Ecosystem Mapping Model (E2M) :
 * Intentional Module : <a href="http://hubject.net/iPlumb3r/E2M/OWL-Ontology/index-en.html">here</a>
 
-Intentional Facet (Simplified)
+Intentional Module Graph (Complete)
 -
-![OWL Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M-i_Simplified_2020-03-04.png)
+![Ontology](http://hubject.net/iPlumb3r/E2M/OWL-Ontology/index-en.html)
 
-
-Intentional Module (Complete)
+Intentional Module Specificiation (Simplified)
 -
-![OWL Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M-i_2020-03-04.png)
+![Specification](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M-i_Simplified_2020-03-04.png)
 
 
-Whole Ontology (Intentional + Extensional Modules)
+Intentional Module Specificiation (Complete)
 -
-![OWL Ontology](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M_2020-03-06.png)
+![Specification](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M-i_2020-03-04.png)
+
+
+Whole Ontology Specificiation (Intentional + Extensional Modules)
+-
+![Specification](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M_2020-03-06.png)
