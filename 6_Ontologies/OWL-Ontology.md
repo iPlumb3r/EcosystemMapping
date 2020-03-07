@@ -1,7 +1,6 @@
 OWL Ontology
 ==
 OWL Ontology of the Ecosystem Mapping Model (E2M) :
-* Intentional Module : <a href="http://hubject.net/iPlumb3r/E2M/OWL-Ontology/index-en.html">here</a>
 
 Intentional Module Graph (Complete)
 -
