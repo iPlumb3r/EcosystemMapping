@@ -1,3 +1,3 @@
-Functionalities
+Functions
 ==
 To Be Completed ...
