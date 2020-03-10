@@ -55,5 +55,6 @@ E2M is - intensively - used by the <a href="https://github.com/iPlumb3r/Entangle
 
 Resources
 -
+* <a href="http://hubject.net/iPlumb3r/GitHub/Meta-Map.html">Context Map</a>  
 * <a href="https://t.me/EcosystemMapping">"Public" E2M Telegram Group</a>
 
