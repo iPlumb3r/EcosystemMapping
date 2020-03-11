@@ -6,6 +6,12 @@ Intentional Module Graph (Complete)
 -
  <a href="http://hubject.net/iPlumb3r/E2M/OWL-Ontology/index-en.html">here</a>
 
+Class Hierarchies (Intentional & Extentional)
+-
+This diagram show that the _"connexion between the intentional & the extensional modules"_ MUST be donne at the __individual__ level (and NOT and __model__ level)
+
+![Specification](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/OWL-Ontology%40E2M_ClassView_2020-03-11.png)
+
 Intentional Module Specificiation (Simplified)
 -
 ![Specification](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M-i_Simplified_2020-03-04.png)
