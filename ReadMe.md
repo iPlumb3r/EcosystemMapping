@@ -41,7 +41,7 @@ Table of Content
             <td>Ontologies in both "OWL" & "Topic Maps" flavors</td>
             <td></td>
         </tr>
-        tr>
+        <tr>
             <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/8_Implementations/ReadMd.md">Implementations</a></td>
             <td>Implementation for OWL-Compliant Tools, Topincs & KeepLink</td>
             <td></td>
