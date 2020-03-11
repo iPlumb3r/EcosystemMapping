@@ -6,7 +6,7 @@ Intentional Module Graph (Complete)
 -
  <a href="http://hubject.net/iPlumb3r/E2M/OWL-Ontology/index-en.html">here</a>
 
-Class Hierarchies (Intentional & Extentional)
+Class Hierarchies (Intentional & Extentional Multi-Typing)
 -
 This diagram show that the _"connexion between intentional & extensional modules"_ MUST be done at the __individual__ level (and NOT at the __model__ level)
 
