@@ -8,7 +8,7 @@ Intentional Module Graph (Complete)
 
 Class Hierarchies (Intentional & Extentional)
 -
-This diagram show that the _"connexion between intentional & extensional modules"_ MUST be done at the __individual__ level (and NOT and __model__ level)
+This diagram show that the _"connexion between intentional & extensional modules"_ MUST be done at the __individual__ level (and NOT at the __model__ level)
 
 ![Specification](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/OWL-Ontology%40E2M_ClassView_2020-03-11.png)
 
