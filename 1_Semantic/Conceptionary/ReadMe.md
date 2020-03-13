@@ -3,7 +3,7 @@ Conceptionary
 
 About
 -
-More about the Conceptionnary <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/2_Deliverables/Conceptionary/ReadMe.mdd">here</a>
+More about the Conceptionnary <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/2_Deliverables/Conceptionary/ReadMe.md">here</a>
 
 Local Convention
 -
