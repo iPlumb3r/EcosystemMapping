@@ -16,12 +16,12 @@ This is the place where the model is described according some key ontological pa
             <td>Full feature</td>
         </tr>
          <tr>
-            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/TM-Ontology.md">Topic Maps Ontology</a></td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/TM-Ontology.md">TM Ontology</a></td>
             <td>For Topic Maps (Topincs only for now)</td>
             <td>Multi-Typing is NOT directly supported (Using a Taxonomy instead)</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/KL-Ontology.md">KL Ontology</a>1</td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/KL-Ontology.md">KL Ontology</a></td>
             <td>For the Concept Mapping applicaton KeepLink</td>
             <td>Full featured</td>
         </tr>
