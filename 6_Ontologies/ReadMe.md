@@ -13,7 +13,7 @@ This is the place where the model is described according some key ontological pa
         <tr>
             <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/OWL-Ontology.md">OWL Ontology</a></td>
             <td>For OWL-Compliant Tools</td>
-            <td>Full feature</td>
+            <td>Full featured</td>
         </tr>
          <tr>
             <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/TM-Ontology.md">TM Ontology</a></td>
