@@ -89,18 +89,17 @@ Some examples :
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
+            <td>Automotive (Automobile)</td>
             <td></td>
         </tr>
         <tr>
+            <td>Cosmetics (Cosmetiques)</td>
             <td></td>
+        </tr>
+        <tr>
+            <td>Energy (Energie)</td>
             <td></td>
         </tr>
     </tbody>
 </table>
-
 Some more examples : <a href="https://www.topincs.com/iPlumb3rSandBox/.index?tt=1500">Samples in the SandBox EBR</a>
