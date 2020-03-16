@@ -68,8 +68,8 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>Business domains are - more or less - the same for every enterprise.</td>
-            <td>Les domaines métiers sont - plus ou moins - les mêmes pour chaque entreprises.</td>
+            <td>Business domains are - more or less - the same for each enterprise.</td>
+            <td>Les domaines métiers sont - plus ou moins - les mêmes pour chaque entreprise.</td>
         </tr>
     </tbody>
 </table>
