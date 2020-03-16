@@ -51,8 +51,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Set of business activities which are sharing a common global finality.</td>
-            <td>Ensemble d'activités métiers qui partagent une même finalité globale.</td>
+            <td>Set of business activities which are sharing a common global finality. This finality is the same regardless the <a href="https://github.com/iPlumb3r/EcosystemMapping/edit/master/1_Semantic/Conceptionary/%C2%A7BranchBusiness.md">§BranchBusiness</a>.</td>
+            <td>Ensemble d'activités métiers qui partagent une même finalité globale. Cette finalité est la même quelque soit le <a href="https://github.com/iPlumb3r/EcosystemMapping/edit/master/1_Semantic/Conceptionary/%C2%A7BranchBusiness.md">§BranchBusiness</a>.</td>
         </tr>
     </tbody>
 </table>
