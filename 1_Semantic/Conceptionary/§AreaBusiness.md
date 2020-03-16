@@ -68,8 +68,8 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
