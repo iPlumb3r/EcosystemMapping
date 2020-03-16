@@ -36,8 +36,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Enterprise function, ...</td>
-            <td>Fonction d'entreprise, ...</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
