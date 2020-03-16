@@ -36,8 +36,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Industrial sector, ...</td>
-            <td>Secteur industriel, Industrie, ...</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
