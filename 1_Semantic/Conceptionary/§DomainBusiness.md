@@ -103,3 +103,9 @@ Some examples :
 </table>
 
 Some more examples : <a href="https://www.topincs.com/iPlumb3rSandBox/.index?tt=1499">Samples in the SandBox EBR</a>
+
+Illustration
+-
+This concept is strongly linkeg with the concepts of <a href="https://github.com/iPlumb3r/EcosystemMapping/edit/master/1_Semantic/Conceptionary/%C2%A7BranchBusiness.md">§BranchBusiness</a> & <a href="https://github.com/iPlumb3r/EcosystemMapping/edit/master/1_Semantic/Conceptionary/%C2%A7BranchArea.md">§BranchArea</a> (and also Organization)
+
+![alt text](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/AreaDomainBranch.png)
