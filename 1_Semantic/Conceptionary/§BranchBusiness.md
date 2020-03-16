@@ -51,8 +51,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Set of business activities related to a given type of product.</td>
-            <td>Ensemble d'activités métiers relatives à un type de produit particulier.</td>
+            <td>Set of business activities related to a given type of product. They are more described by a "noun" than by a "verb"</td>
+            <td>Ensemble d'activités métiers relatives à un type de produit particulier. Ils sont plus décrit par un "nom" que par un "verbe"</td>
         </tr>
     </tbody>
 </table>
