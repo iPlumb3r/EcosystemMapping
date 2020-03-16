@@ -51,7 +51,7 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Set of business activities which are sharing a common gloabl finality.</td>
+            <td>Set of business activities which are sharing a common global finality.</td>
             <td>Ensemble d'activités métiers qui partagent une même finalité globale.</td>
         </tr>
     </tbody>
