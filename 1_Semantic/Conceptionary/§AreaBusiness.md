@@ -105,6 +105,6 @@ Some more examples : <a href="https://www.topincs.com/iPlumb3rSandBox/.index?tt=
 
 Illustration
 -
-This concept is strongly linkeg with the concepts of <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7BranchBusiness.md">§BranchBusiness</a> & <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7AreaBusiness.md">§AreaBusiness</a> (and also Organization)
+This concept is strongly linked with the concepts of <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7BranchBusiness.md">§BranchBusiness</a> & <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7DomainBusiness.md">§DomainBusiness</a> (and also Organization)
 
 ![alt text](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/AreaDomainBranch.png)
