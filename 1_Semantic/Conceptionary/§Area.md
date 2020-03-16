@@ -2,6 +2,11 @@
 §Area
 ==
 
+Super-Class Of
+-
+* <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7AreaBusiness.md">§AreaBusiness</a>
+* §AreaIsIt
+* §AreaRepViz
 
 Prefered Label
 -
