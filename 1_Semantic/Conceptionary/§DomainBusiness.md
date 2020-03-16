@@ -51,8 +51,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Set of business activities which are sharing a common gloabl finality</td>
+            <td>Ensemble d'activités métiers qui partagent une même finalité globale</td>
         </tr>
     </tbody>
 </table>
@@ -68,8 +68,8 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Business domains are more or less the same for every enterprise.</td>
+            <td>Les domaines métiers sont plus ou mois les mêmes pour toutes les entreprises</td>
         </tr>
     </tbody>
 </table>
@@ -78,25 +78,26 @@ Individuals
 -
 
 Some examples : 
+
 <table>
     <thead>
         <tr>
-            <th>Individual</th>
-            <th>Type</th>
+            <th>English</th>
+            <th>French</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Design</td>
+            <td>Conception</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Industrialization</td>
+            <td>Industrialisation</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Production</td>
+            <td>Production</td>
         </tr>
     </tbody>
 </table>
