@@ -2,6 +2,11 @@
 §Domain
 ==
 
+Super-Class Of
+-
+* <a href="https://github.com/iPlumb3r/EcosystemMapping/edit/master/1_Semantic/Conceptionary/%C2%A7DomainBusiness.md">§DomainBusiness</a>
+* §DomainIsIt
+* §DomainRepViz
 
 Prefered Label
 -
