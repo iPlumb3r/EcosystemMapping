@@ -51,8 +51,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Set of business activities related to a given type of product.</td>
+            <td>Ensemble d'activités métiers relatives à un type de produit particulier.</td>
         </tr>
     </tbody>
 </table>
@@ -68,37 +68,46 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Business branches are specifics for each enterprise (in the same industral sector)</td>
+            <td>Les branches métiers sont spécifiques à chaque entreprise (du même secteur industriel)</td>
         </tr>
     </tbody>
 </table>
+
 
 Individuals
 -
 
 Some examples : 
+
 <table>
     <thead>
         <tr>
-            <th>Individual</th>
-            <th>Type</th>
+            <th>English</th>
+            <th>French</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Automotive</td>
+            <td>Automobile</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Cosmetics</td>
+            <td>Cosmetiques</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Energy</td>
+            <td>Energie</td>
         </tr>
     </tbody>
 </table>
 
 Some more examples : <a href="https://www.topincs.com/iPlumb3rSandBox/.index?tt=1500">Samples in the SandBox EBR</a>
+
+Illustration
+-
+This concept is strongly linkeg with the concepts of <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7DomainBusiness.md">§DomainBusiness</a> & <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7AreaBusiness.md">§AreaBusiness</a> (and also Organization)
+
+![alt text](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/AreaDomainBranch.png)
+
