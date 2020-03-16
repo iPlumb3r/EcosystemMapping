@@ -2,6 +2,11 @@
 §Branch
 ==
 
+Super-Class Of
+-
+* <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7BranchBusiness.md">§BranchBusiness</a>
+* §BranchIsIt
+* §BranchRepViz
 
 Prefered Label
 -
