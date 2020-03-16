@@ -51,8 +51,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Set of business activities at the - exact - intersection of a <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7DomainBusiness.md">§DomainBusiness</a>and a <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7BranchBusiness.md">§BranchBusiness</a></td>
-            <td>Ensemble d'activité métier à l'exacte intersection entre un <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7DomainBusiness.md">§DomainBusiness</a> et une <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7BranchBusiness.md">§BranchBusiness</a></td>
+            <td>Set of business activities at the - exact - intersection of a <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7DomainBusiness.md">§DomainBusiness</a> and a <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7BranchBusiness.md">§BranchBusiness</a>.</td>
+            <td>Ensemble d'activité métier à l'exacte intersection entre un <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7DomainBusiness.md">§DomainBusiness</a> et une <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7BranchBusiness.md">§BranchBusiness</a>.</td>
         </tr>
     </tbody>
 </table>
