@@ -89,15 +89,15 @@ Some examples :
     </thead>
     <tbody>
         <tr>
-            <td>Automotive (Automobile)</td>
+            <td>/td>
             <td></td>
         </tr>
         <tr>
-            <td>Cosmetics (Cosmetiques)</td>
+            <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>Energy (Energie)</td>
+            <td></td>
             <td></td>
         </tr>
     </tbody>
