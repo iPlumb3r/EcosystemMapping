@@ -17,8 +17,8 @@ Prefered Label
     </thead>
     <tbody>
         <tr>
-            <td>Area</td>
-            <td>Aire</td>
+            <td>Business Area</td>
+            <td>Métier</td>
         </tr>
     </tbody>
 </table>
@@ -34,8 +34,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Zone</td>
-            <td>Métier, Zone, ...</td>
+            <td>Business Zone, ...</td>
+            <td>Zone métier, ...</td>
         </tr>
     </tbody>
 </table>
