@@ -51,8 +51,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Set of business activities at the - exact - intersection of a <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7DomainBusiness.md">§DomainBusiness</a>and a <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7BranchBusiness.md">§BranchBusiness</a></td>
+            <td>Ensemble d'activité métier à l'exacte intersection entre un <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7DomainBusiness.md">§DomainBusiness</a> et une <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7BranchBusiness.md">§BranchBusiness</a></td>
         </tr>
     </tbody>
 </table>
@@ -81,24 +81,30 @@ Some examples :
 <table>
     <thead>
         <tr>
-            <th>Individual</th>
-            <th>Type</th>
+            <th>English</th>
+            <th>French</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Automotive Design</td>
+            <td>Conception d'automobile</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Consmetics Industrialization</td>
+            <td>Industrialisation de cosmetiques</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Energy Production</td>
+            <td>Production d'énergie</td>
         </tr>
     </tbody>
 </table>
 
 Some more examples : <a href="https://www.topincs.com/iPlumb3rSandBox/.index?tt=1501">Samples in the SandBox EBR</a>
+
+Illustration
+-
+This concept is strongly linkeg with the concepts of <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7BranchBusiness.md">§BranchBusiness</a> & <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7AreaBusiness.md">§AreaBusiness</a> (and also Organization)
+
+![alt text](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/AreaDomainBranch.png)
