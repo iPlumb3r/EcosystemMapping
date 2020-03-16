@@ -68,8 +68,8 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>Business branches are specifics for each enterprise (in the same industral sector)</td>
-            <td>Les branches métiers sont spécifiques à chaque entreprise (du même secteur industriel)</td>
+            <td>Business branches are specifics for each enterprise (or at least in the same industral sector)</td>
+            <td>Les branches métiers sont spécifiques à chaque entreprise (ou du moins au même secteur industriel)</td>
         </tr>
     </tbody>
 </table>
