@@ -31,8 +31,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Zone</td>
-            <td>Métier, Zone, ...</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
