@@ -18,7 +18,7 @@ Prefered Label
     <tbody>
         <tr>
             <td>Business Branch</td>
-            <td>Branche métier</td>
+            <td>Branche Métier</td>
         </tr>
     </tbody>
 </table>
