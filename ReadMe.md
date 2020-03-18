@@ -58,3 +58,6 @@ Resources
 * <a href="http://hubject.net/iPlumb3r/GitHub/Meta-Map.html">Context Map</a>  
 * <a href="https://t.me/EcosystemMapping">"Public" E2M Telegram Group</a>
 
+Illustration
+-
+![Illustration](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/EcosystemMapping_Communication.png)
