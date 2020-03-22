@@ -17,7 +17,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
         <tr>
             <th>Initiative</th>
             <td>Ecosystem Mapping</td>
-            <td><a href="https://www.topincs.com/EntangledBootstrap/1677">#1677</a></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1675">#1675</a></td>
         </tr>
         <tr>
             <th>Deliverable</th>
