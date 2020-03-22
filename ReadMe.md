@@ -1,5 +1,50 @@
 Ecosystem Mapping Model (E2M)
 ==
+
+Initiative ID Card
+-
+_Note : EBR ID allows to semantically navigate in the <a href="https://www.topincs.com/EntangledBootstrap/">Topincs-powered "Entangled Bootstrap" Repository</a>_
+
+<table>
+    <thead>
+        <tr>
+            <th>What ?</th>
+            <th>Label</th>
+            <th>EBR ID</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Initiative</th>
+            <td>Th3Sr1b3Pr0j3ct</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1677">#1677</a></td>
+        </tr>
+        <tr>
+            <th>Deliverable</th>
+            <td>Ecosystem Mapping Model (E2M)</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <th>Domain</th>
+            <td>Semantic Cartography of Ecosystems</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <th>Uses</th>
+            <td><a href="https://github.com/iPlumb3r/Prism">Prism</a> (Semantic Cartography)</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1676">#1676</a></td>
+        </tr>
+        <tr>
+            <th>Big Picture</th>
+            <td><a href="https://github.com/iPlumb3r/BigPicture">SEAMLESS</a>. See <a href="http://hubject.net/iPlumb3r/GitHub/BigPicture.html">Overview</a></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1671">#1671</a></td>
+        </tr>
+    </tbody>
+</table>
+
+Introduction
+-
+
 A Model for answering __key questions__ about any Ecosystem :    
 WHO ? Does WHAT ? HOW ? For WHAT ? & WHY ?
 
