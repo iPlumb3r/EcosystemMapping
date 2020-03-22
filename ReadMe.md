@@ -30,6 +30,11 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
             <td>N/A</td>
         </tr>
         <tr>
+            <th>Used By</th>
+            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap">EntangledBootstrap</a> (#DistributedWeb & #SemanticTechnologies)</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1674">#1674</a></td>
+        </tr>
+        <tr>
             <th>Uses</th>
             <td><a href="https://github.com/iPlumb3r/Prism">Prism</a> (Semantic Cartography)</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1676">#1676</a></td>
