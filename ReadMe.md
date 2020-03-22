@@ -22,7 +22,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
         <tr>
             <th>Deliverable</th>
             <td>Ecosystem Mapping Model (E2M)</td>
-            <td>N/A</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1427">#1427</a></td>
         </tr>
         <tr>
             <th>Domain</th>
