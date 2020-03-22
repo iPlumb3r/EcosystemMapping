@@ -1,4 +1,4 @@
-Ecosystem Mapping Model (E2M)
+Ecosystem Mapping
 ==
 
 Initiative ID Card
@@ -16,7 +16,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
     <tbody>
         <tr>
             <th>Initiative</th>
-            <td>Th3Sr1b3Pr0j3ct</td>
+            <td>Ecosystem Mapping</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1677">#1677</a></td>
         </tr>
         <tr>
