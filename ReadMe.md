@@ -99,10 +99,6 @@ Table of Content
     </tbody>
 </table>
 
-Where Used
--
-E2M is - intensively - used by the <a href="https://github.com/iPlumb3r/EntangledBootstrap">"Entangled Bootstrap" Repository</a> initiative
-
 Resources
 -
 * <a href="http://hubject.net/iPlumb3r/GitHub/Meta-Map.html">Context Map</a>  
