@@ -46,8 +46,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Quantified expression of a goal pursued by an organization, a product, ...</td>
+            <td>Expression quantifié d'un but recherché par une organisation, un produit, ...</td>
         </tr>
     </tbody>
 </table>
