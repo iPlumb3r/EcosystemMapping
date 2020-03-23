@@ -53,8 +53,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Business, IS-IT or Representation-Visualization set of activities related to a given finalité</td>
-            <td>Ensemble d'activités métier, IS-IT ou liés à la Representation-Visualisation d'information et associé à une finalité particulière</td>
+            <td>Business, IS-IT or Representation-Visualization set of activities related to a given finality.</td>
+            <td>Ensemble d'activités métier, IS-IT ou liés à la Representation-Visualisation d'information et associé à une finalité particulière.</td>
         </tr>
     </tbody>
 </table>
