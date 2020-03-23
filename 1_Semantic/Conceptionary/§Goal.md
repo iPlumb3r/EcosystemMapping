@@ -47,8 +47,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Global finality (not quantified) sought by an organization, a product, ... </td>
+            <td>Finalité globale (non chiffré) recherché par une organisation, un produit, ...</td>
         </tr>
     </tbody>
 </table>
@@ -64,8 +64,8 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
     </tbody>
 </table>
