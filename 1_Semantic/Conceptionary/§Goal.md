@@ -64,8 +64,8 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>-</td>
-            <td>-</td>
+            <td>They can be qualified by <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7Objective.md">§Objective</a>.</td>
+            <td>Ils peuvent être qualifié par des <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7Objective.md">§Objective</a>.</td>
         </tr>
     </tbody>
 </table>
