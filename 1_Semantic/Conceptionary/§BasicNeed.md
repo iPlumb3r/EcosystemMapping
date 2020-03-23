@@ -47,8 +47,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>A need to provide for the essential functions of human beings.</td>
+            <td>Besoin permettant subvenir aux fonctions essentielles des être humains.</td>
         </tr>
     </tbody>
 </table>
@@ -64,8 +64,8 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>They can be quantified by <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7Goal.md">§Goal</a> and/or qualified by <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7Objective.md">§Objective</a>.</td>
+            <td>Ils peuvent être quantifié par des <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7Goal.md">§Goal</a> et/ou qualifié par des <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7Objective.md">§Objective</a>.</td>
         </tr>
     </tbody>
 </table>
