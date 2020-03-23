@@ -2,9 +2,13 @@ OWL Ontology
 ==
 OWL Ontology of the Ecosystem Mapping Model (E2M) :
 
-Intentional Module Graph (Complete)
+OWL Classes + Graph (Intentional)
 -
- <a href="http://hubject.net/iPlumb3r/E2M/OWL-Ontology/index-en.html">here</a>
+ <a href="http://hubject.net/iPlumb3r/Ontologies/E2M-i/index-en.html">here</a>
+ 
+OWL Classes + Graph (Intentional + Extensional)
+-
+ <a href="http://hubject.net/iPlumb3r/Ontologies/E2M/index-en.html">here</a>
 
 Class Hierarchies (Intentional & Extentional Multi-Typing)
 -
