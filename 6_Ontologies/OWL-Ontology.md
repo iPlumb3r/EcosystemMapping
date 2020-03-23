@@ -6,9 +6,9 @@ OWL Classes + Graph (Intentional)
 -
  <a href="http://hubject.net/iPlumb3r/Ontologies/E2M-i/index-en.html">here</a>
  
-OWL Classes + Graph (Intentional + Extensional)
+OWL Classes + Graph (Extensional)
 -
- <a href="http://hubject.net/iPlumb3r/Ontologies/E2M/index-en.html">here</a>
+ <a href="http://hubject.net/iPlumb3r/Ontologies/E2M-e/index-en.html">here</a>
 
 Class Hierarchies (Intentional & Extentional Multi-Typing)
 -
