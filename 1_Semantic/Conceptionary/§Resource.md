@@ -48,8 +48,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Tangible or intangible element that could be produced and/or consumed in the context of buisness processes</td>
-            <td>Elément tangible ou intangible succeptible d'être produit et/ou consommé dans le context de processus métiers</td>
+            <td>Tangible or intangible element that could be produced and/or consumed in the context of buisness processes.</td>
+            <td>Elément tangible ou intangible succeptible d'être produit et/ou consommé dans le context de processus métiers.</td>
         </tr>
     </tbody>
 </table>
@@ -65,8 +65,8 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Resources could be both <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a> et/ou des <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Technology.md">@Technology</a></td>
+            <td>Les ressources peuvent être des <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a> et/ou des <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%40Technology.md">@Technology</a></td>
         </tr>
     </tbody>
 </table>
