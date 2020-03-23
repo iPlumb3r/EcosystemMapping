@@ -53,8 +53,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Exact intersection between a <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7Branch.md">§Branch</a> and a <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7Domain.md">§Domain</a>.</td>
+            <td>Exacte intersection entre une <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7Branch.md">§Branch</a> et un <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7Domain.md">§Domain</a>.</td>
         </tr>
     </tbody>
 </table>
@@ -70,8 +70,8 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
     </tbody>
 </table>
@@ -89,15 +89,15 @@ Some examples :
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
+            <td>Food x Design</td>
             <td></td>
         </tr>
         <tr>
+            <td>Message x Broadcasting</td>
             <td></td>
+        </tr>
+        <tr>
+            <td>Node x Pruning</td>
             <td></td>
         </tr>
     </tbody>
