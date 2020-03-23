@@ -46,8 +46,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Quantified expression of a goal pursued by an organization, a product, ...</td>
-            <td>Expression quantifié d'un but recherché par une organisation, un produit, ...</td>
+            <td>Quantified expression of a <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7Goal.md">§Goal</a> pursued by an organization, a product, ...</td>
+            <td>Expression quantifié d'un <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7Goal.md">§Goal</a> recherché par une organisation, un produit, ...</td>
         </tr>
     </tbody>
 </table>
