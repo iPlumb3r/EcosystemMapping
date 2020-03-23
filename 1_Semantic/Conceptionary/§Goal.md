@@ -47,8 +47,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Global finality (not quantified) sought by an organization, a product, ... </td>
-            <td>Finalité globale (non chiffré) recherché par une organisation, un produit, ...</td>
+            <td>Global finality (not quantified) sought by an organization, a product, ... (with the intention of responding to a <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7BasicNeed.md">§BasicNeed</a>)</td>
+            <td>Finalité globale (non chiffré) recherché par une organisation, un produit, ... (dans l’intention de répondre à un <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7BasicNeed.md">§BasicNeed</a>)</td>
         </tr>
     </tbody>
 </table>
