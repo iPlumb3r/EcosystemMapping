@@ -15,7 +15,7 @@ Prefered Label
     <tbody>
         <tr>
             <td>Resource</td>
-            <td>Resource</td>
+            <td>Ressource</td>
         </tr>
     </tbody>
 </table>
@@ -48,8 +48,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Tangible or intangible element that could be produced and/or consumed in the context of buisness processes</td>
+            <td>Elément tangible ou intangible succeptible d'être produit et/ou consommé dans le context de processus métiers</td>
         </tr>
     </tbody>
 </table>
