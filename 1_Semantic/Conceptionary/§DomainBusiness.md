@@ -102,7 +102,7 @@ Some examples :
     </tbody>
 </table>
 
-Some more examples : <a href="https://www.topincs.com/EntangledBootstrap/1502">Topincs-powered EBR</a>
+Some more examples : <a href="https://www.topincs.com/EntangledBootstrap/.index?tt=1502">Topincs-powered EBR</a>
 
 Illustration
 -
