@@ -99,4 +99,4 @@ Some examples :
     </tbody>
 </table>
 
-Some more examples : <a href="https://www.topincs.com/iPlumb3rSandBox/.index?tt=1356">Samples in the SandBox EBR</a>
+Some more examples : <a href="https://www.topincs.com/EntangledBootstrap/1356">Topincs-powered EBR</a>
