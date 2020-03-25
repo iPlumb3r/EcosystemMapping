@@ -102,4 +102,5 @@ Some examples :
         </tr>
     </tbody>
 </table>
-Some more examples : <a href="https://www.topincs.com/iPlumb3rSandBox/.index?tt=1500">Samples in the SandBox EBR</a>
+
+Some more examples : <a href="https://www.topincs.com/EntangledBootstrap/1500">Topincs-powered EBR</a>
