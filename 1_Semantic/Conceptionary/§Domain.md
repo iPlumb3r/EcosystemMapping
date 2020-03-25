@@ -103,4 +103,4 @@ Some examples :
     </tbody>
 </table>
 
-Some more examples : <a href="https://www.topincs.com/EntangledBootstrap/1499">Topincs-powered EBR</a>
+Some more examples : <a href="https://www.topincs.com/EntangledBootstrap/.index?tt=1499">Topincs-powered EBR</a>
