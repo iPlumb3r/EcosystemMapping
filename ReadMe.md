@@ -109,7 +109,3 @@ Table of Content
         </tr>
     </tbody>
 </table>
-
-Illustration
--
-![Illustration](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/EcosystemMapping_Communication.png)
