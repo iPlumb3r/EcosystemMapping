@@ -26,7 +26,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
         </tr>
         <tr>
             <th>Tags</th>
-            <td>#EcosystemMapping <a href="https://www.topincs.com/EntangledBootstrap/2192">#SemanticCartography</a> #MapYourEnvironment #EffectuationMethodology #CompetitiveWatch #ProductWatch #MarketWatch #TechnologyWatch #ProductLifecycleManagement</td>
+            <td>#EcosystemMapping <a href="https://www.topincs.com/EntangledBootstrap/1667">#SemanticCartography</a> #MapYourEnvironment #EffectuationMethodology #CompetitiveWatch #ProductWatch #MarketWatch #TechnologyWatch #ProductLifecycleManagement</td>
             <td>N/A</td>
         </tr>
         <tr>
