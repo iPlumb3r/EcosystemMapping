@@ -1,4 +1,4 @@
-Ecosystem Mapping
+The "Ecosystem Mapping" Initiative
 ==
 
 Initiative ID Card
@@ -14,9 +14,14 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
         </tr>
     </thead>
     <tbody>
+    <tr>
+            <th>Name</th>
+            <td>The "Ecosystem Mapping" Initiative</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1675">#1675</a></td>
+        </tr>
         <tr>
-            <th>Initiative</th>
-            <td>Ecosystem Mapping</td>
+            <th>Description</th>
+            <td>Propose a Model for answering __key questions__ about any Ecosystem : WHO ? Does WHAT ? HOW ? For WHAT ? & WHY ?</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1675">#1675</a></td>
         </tr>
         <tr>
@@ -52,7 +57,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
     </tbody>
 </table>
 
-Introduction
+Illustration
 -
 
 A Model for answering __key questions__ about any Ecosystem :    
