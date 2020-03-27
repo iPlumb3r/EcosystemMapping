@@ -28,4 +28,4 @@ Intentional Module Specificiation (Complete)
 
 Whole Ontology Specificiation (Intentional + Extensional Modules)
 -
-![Specification](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M_2020-03-24.png)
+![Specification](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M_2020-03-27.png)
