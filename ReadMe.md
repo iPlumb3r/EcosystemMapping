@@ -22,7 +22,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
         <tr>
             <th>Description</th>
             <td>Propose a Model for answering __key questions__ about any Ecosystem : WHO ? Does WHAT ? HOW ? For WHAT ? & WHY ?</td>
-            <td><a href="https://www.topincs.com/EntangledBootstrap/1675">#1675</a></td>
+            <td>N/A</td>
         </tr>
         <tr>
             <th>Deliverable</th>
@@ -48,6 +48,11 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
             <th>Uses</th>
             <td><a href="https://github.com/iPlumb3r/Prism">Prism</a> (Semantic Cartography)</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1676">#1676</a></td>
+        </tr>
+        <tr>
+            <th>Telegram</th>
+            <td><a href="https://t.me/EcosystemMapping">https://t.me/EcosystemMapping</a></td>
+            <td>N/A</td>
         </tr>
         <tr>
             <th>Big Picture</th>
@@ -104,11 +109,6 @@ Table of Content
         </tr>
     </tbody>
 </table>
-
-Resources
--
-* <a href="http://hubject.net/iPlumb3r/GitHub/Meta-Map.html">Context Map</a>  
-* <a href="https://t.me/EcosystemMapping">"Public" E2M Telegram Group</a>
 
 Illustration
 -
