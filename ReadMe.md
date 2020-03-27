@@ -72,8 +72,10 @@ _Answers_ :
 
 Motivation
 -
-Mapping your environment allows you to have both a global and detailed vision of it ...   
-... in order to be able to better act on it
+Mapping the environment in which we are currently evolving (or the one in which we wish to evolve in the future) allow us :
+* to have both a global and detailed vision about it 
+* to be able to better act on it 
+
 
 Mantra 
 -
