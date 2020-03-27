@@ -85,6 +85,9 @@ Content
 -
 __Note__ : This GitHub repository is organized accorging this <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/Template/FolderHierarchy.md">Template for GitHub Folder Hierarchy</a>
 
+Icon
+-
+![Icon](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/icon%40EcosystemMapping.png)
 
 Licence 
 -
