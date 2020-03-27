@@ -70,16 +70,6 @@ _Questions_ :
 _Answers_ :   
 ![Answers](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/ConceptualModel%40E2M_2020-03-04.png)
 
-Mantras
--
-> "Essentially, all models are __wrong__, but some are __useful__" - Georges Box
-
->> The __"Separation Of Concerns"__ principle is your friend   
-_(And the <a href="https://github.com/iPlumb3r/Dicho-Scope/blob/master/Introduction_EN.md">Dicho-Scope</a> is your favorite - conceptual - tool)_
-
->>> The __"intention"__ is more important than the __"extension"__   
-_(The reason why a thing is in the map is more important than the nature of this thing)_   
-More about that here : <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/ReasonWhyA2-LevelModel_EN.md">Reason Why for a 2-Level Model</a>
 
 Motivation
 -
