@@ -86,26 +86,11 @@ Motivation
 Mapping your environment allows you to have both a global and detailed vision of it ...   
 ... in order to be able to better act on it
 
-Table of Content
+Content
 -
-<table>
-    <thead>
-        <tr>
-            <th>Section</th>
-            <th>Description</th>
-            <th>Comment</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/tree/master/6_Ontologies">Ontologies</a></td>
-            <td>Ontologies in both "OWL" & "Topic Maps" flavors</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/8_Implementations/ReadMd.md">Implementations</a></td>
-            <td>Implementation for OWL-Compliant Tools, Topincs & KeepLink</td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
+__Note 2__ : This GitHub repository is organized accorging this <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/Template/FolderHierarchy.md">Template for GitHub Folder Hierarchy</a>
+
+
+Licence 
+-
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
