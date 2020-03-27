@@ -3,8 +3,6 @@ The "Ecosystem Mapping" Initiative
 
 Initiative ID Card
 -
-_Note : EBR ID allows to <a href="https://github.com/iPlumb3r/BigPicture/blob/master/HowTo/Navigate_EN.md">semantically navigate" Repository</a>semantically navigate in the <a href="https://www.topincs.com/EntangledBootstrap/">Topincs-powered "Entangled Bootstrap" Repository</a>_
-
 <table>
     <thead>
         <tr>
@@ -61,6 +59,8 @@ _Note : EBR ID allows to <a href="https://github.com/iPlumb3r/BigPicture/blob/ma
         </tr>
     </tbody>
 </table>
+
+_Note : EBR ID allows to <a href="https://github.com/iPlumb3r/BigPicture/blob/master/HowTo/Navigate_EN.md">semantically navigate" Repository</a>semantically navigate in the <a href="https://www.topincs.com/EntangledBootstrap/">Topincs-powered "Entangled Bootstrap" Repository</a>_
 
 Illustration
 -
