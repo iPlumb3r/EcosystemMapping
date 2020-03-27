@@ -2,6 +2,16 @@ Semantic
 ==
 This is the place for explaining "What are we  - exactly - talking about ?"
 
+Reminders
+-
+Useful general "mantras" and citations to have in mind during modeling activities : <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/1_Activities/AboutModelization__EN.md">here</a>
+
+A more specific "matra" in the context of Ecosystem Mappins activities :
+> The __"intention"__ is more important than the __"extension"__   
+_(The reason why a thing is in the map is more important than the nature of this thing)_   
+More about that here : <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/ReasonWhyA2-LevelModel_EN.md">Reason Why for a 2-Level Model</a>
+Content
+
 Generality
 -
 This section is about the 2-level modeling approach for an Ecosytem Mapping Model :
