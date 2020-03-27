@@ -75,6 +75,12 @@ Motivation
 Mapping your environment allows you to have both a global and detailed vision of it ...   
 ... in order to be able to better act on it
 
+Mantra 
+-
+> "When the __Map__ and the __Territory__ disagree ; believe the __Territory__" - Swiss Army Manual
+
+Content
+-
 __Note__ : This GitHub repository is organized accorging this <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/Template/FolderHierarchy.md">Template for GitHub Folder Hierarchy</a>
 
 
