@@ -87,7 +87,7 @@ __Note__ : This GitHub repository is organized accorging this <a href="https://g
 
 Icon
 -
-![Icon](https://github.com/iPlumb3r/pEAr4pEEr/blob/master/images/icon%40EcosystemMapping.jpg)
+![Icon](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/icon%40EcosytemMapping.jpg)
 
 Licence 
 -
