@@ -64,11 +64,12 @@ _Note : EBR ID allows to <a href="https://github.com/iPlumb3r/BigPicture/blob/ma
 
 Illustration
 -
-Questions
+_Questions_ :   
 ![Questions](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/Who-DoesWhat-How-ForWhat-Why.png)
 
-Answers
+_Answers_ :   
 ![Answers](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/ConceptualModel%40E2M_2020-03-04.png)
+
 Mantras
 -
 > "Essentially, all models are __wrong__, but some are __useful__" - Georges Box
