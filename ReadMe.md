@@ -70,14 +70,11 @@ _Questions_ :
 _Answers_ :   
 ![Answers](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/ConceptualModel%40E2M_2020-03-04.png)
 
-
 Motivation
 -
 Mapping your environment allows you to have both a global and detailed vision of it ...   
 ... in order to be able to better act on it
 
-Content
--
 __Note__ : This GitHub repository is organized accorging this <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/Template/FolderHierarchy.md">Template for GitHub Folder Hierarchy</a>
 
 
