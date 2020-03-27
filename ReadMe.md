@@ -25,6 +25,11 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
             <td><a href="https://www.topincs.com/EntangledBootstrap/1427">#1427</a></td>
         </tr>
         <tr>
+            <th>Tags</th>
+            <td>#EcosystemMapping <a href="https://www.topincs.com/EntangledBootstrap/2192">#SemanticCartography</a> #MapYourEnvironment #EffectuationMethodology #CompetitiveWatch #ProductWatch #MarketWatch #TechnologyWatch #ProductLifecycleManagement</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
             <th>Domain</th>
             <td>Semantic Cartography of Ecosystems</td>
             <td>N/A</td>
@@ -70,10 +75,6 @@ Motivation
 -
 Mapping your environment allows you to have both a global and detailed vision of it ...   
 ... in order to be able to better act on it
-
-Tags
--
-#EcosystemMapping <a href="https://www.topincs.com/EntangledBootstrap/2192">#SemanticCartography</a> #MapYourEnvironment #EffectuationMethodology #CompetitiveWatch #ProductWatch #MarketWatch #TechnologyWatch #ProductLifecycleManagement 
 
 Table of Content
 -
