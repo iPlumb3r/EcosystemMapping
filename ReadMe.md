@@ -38,14 +38,19 @@ Initiative ID Card
             <td>N/A</td>
         </tr>
         <tr>
-            <th>Used By</th>
+            <th>Used By (model)</th>
             <td><a href="https://github.com/iPlumb3r/EntangledBootstrap">Entangled Bootstrap</a> (#DistributedWeb & #SemanticTechnologies)</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1674">#1674</a></td>
         </tr>
         <tr>
-            <th>Uses</th>
+            <th>Uses (model)</th>
             <td><a href="https://github.com/iPlumb3r/Prism">Prism</a> (Semantic Cartography)</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1676">#1676</a></td>
+        </tr>
+        <tr>
+            <th>Uses (model)</th>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct">Th3Sr1b3Pr0j3ct</a> (Onto-Terminology)</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1677">#1677</a></td>
         </tr>
         <tr>
             <th>Telegram</th>
