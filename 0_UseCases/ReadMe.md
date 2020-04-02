@@ -1,4 +1,4 @@
-Use Case
+Use Cases
 ==
 This is the place for describing common use cases when trying to map a given Ecosystem
 
