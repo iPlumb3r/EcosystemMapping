@@ -9,7 +9,7 @@ Case of SEAMLESS (Dogfooding at Works !)
 
 How can we use the "Intention VS Extension" dichomony in order to map its related ecosystem ?
 
-To Be Completed...
+![UC_SEAMLESS](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/UC_SEAMLESS_2020-04-02.png)
 
 
 Case of Holochain
