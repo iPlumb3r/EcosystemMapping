@@ -10,7 +10,7 @@ Case of SEAMLESS (Dogfooding at Works !)
 What are the "ingredients" of this use case ?
 * The model is coming from <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/6_Ontologies/OWL-Ontology.md">E2M (Ecosystem Mapping Model)</a> extended by this specific <a href="https://github.com/iPlumb3r/EntangledBootstrap/tree/master/6_Ontologies">model</a>
 * The methodology is roughly described in this <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/ReasonWhyA2-LevelModel_EN.md">page</a>
-* the data are coming from the <a href="https://github.com/iPlumb3r/SEAMLESS">SEAMLESS</a> initiative
+* The data are coming from the <a href="https://github.com/iPlumb3r/SEAMLESS">SEAMLESS</a> initiative
 
 ![UC_SEAMLESS](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/UC_SEAMLESS_2020-04-02.jpg)
 
