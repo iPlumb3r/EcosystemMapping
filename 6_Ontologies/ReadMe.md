@@ -17,7 +17,7 @@ This is the place where the model is described according some key ontological pa
         </tr>
          <tr>
             <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/TM-Ontology.md">TM Ontology</a></td>
-            <td>For Topic Maps (Topincs only for now)</td>
+            <td>For Topic Maps (<a href="https://www.topincs.com/">Topincs</a> only for now)</td>
             <td>Multi-Typing is NOT directly supported (Using a Taxonomy instead)</td>
         </tr>
         <tr>
