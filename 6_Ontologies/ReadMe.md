@@ -22,7 +22,7 @@ This is the place where the model is described according some key ontological pa
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/6_Ontologies/KL-Ontology.md">KL Ontology</a></td>
-            <td>For the Concept Mapping applicaton KeepLink</td>
+            <td>For the Concept Mapping application KeepLink</td>
             <td>Full featured</td>
         </tr>
     </tbody>
