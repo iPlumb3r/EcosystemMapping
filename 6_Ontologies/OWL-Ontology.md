@@ -16,16 +16,21 @@ This diagram show that the _"connexion between intentional & extensional modules
 
 ![Specification](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/OWL-Ontology%40E2M_ClassView_2020-03-24.png)
 
-Intentional Module Specificiation (Simplified)
+Intentional Module Specification (Simplified)
 -
 ![Specification](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M-i_Simplified_2020-03-04.png)
 
 
-Intentional Module Specificiation (Complete)
+Intentional Module Specification (Complete)
 -
 ![Specification](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M-i_2020-03-04.png)
 
 
-Whole Ontology Specificiation (Intentional + Extensional Modules)
+Whole Ontology Specification (Intentional + Extensional Modules)
 -
 ![Specification](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M_2020-03-27.png)
+
+
+Extensional Module Specification (Proposal)
+-
+![Specification](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M-e_2020-04-14.png)
