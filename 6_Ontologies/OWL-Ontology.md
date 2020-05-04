@@ -28,7 +28,7 @@ Intentional Module Specification (Complete)
 
 Whole Ontology Specification (Intentional + Extensional Modules)
 -
-![Specification](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M_2020-03-27.png)
+![Specification](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/OWL-Ontology%40E2M_2020-05-04.png)
 
 
 Extensional Module Specification for "Resources" (Proposal)
