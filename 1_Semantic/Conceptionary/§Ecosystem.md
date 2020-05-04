@@ -29,8 +29,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>-</td>
-            <td>-</td>
+            <td>Economy, Industry, ...</td>
+            <td>Economie, Industrie, ...</td>
         </tr>
     </tbody>
 </table>
