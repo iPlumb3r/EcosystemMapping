@@ -13,7 +13,7 @@ Prefered Label
     <tbody>
         <tr>
             <td>Ecosystem</td>
-            <td>Ecosytème</td>
+            <td>Ecosystème</td>
         </tr>
     </tbody>
 </table>
