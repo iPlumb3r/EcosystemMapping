@@ -36,8 +36,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Sector, ...</td>
+            <td>Secteur, ...</td>
         </tr>
     </tbody>
 </table>
