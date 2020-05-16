@@ -10,7 +10,7 @@ La réponse à chacune de ces questions peut avantageusement être apportée via
 * Un 2nd niveau qui fait appel à des concepts __"Extensionels"__ (relatifs à la __nature__ de la chose)
 
 Modèle simplifié :
-![Basic Model](https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/images/ConceptualModel%40E2M_2020-02-28.png)
+![Basic Model](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/ConceptualModel%40E2M_2020-03-04.png)
 
 
 Par exemple, la réponse à la question "QUI ?"   
