@@ -3,7 +3,7 @@ Pourquoi un modèle à 2 niveaux ?
 
 Généralités
 -
-La cartographie d'un __écosystème__ consiste essentiellement à identifier __"QUI ? fait QUOI ?, COMMENT ? Pour QUOI ? et POURQUOI ?"__
+La cartographie d'un __écosystème__ consiste essentiellement à identifier __"QUI ? fait QUOI ?, COMMENT ? pour QUOI ? et POURQUOI ?"__
 
 La réponse à chacune de ces questions peut avantageusement être apportée via un __modèle "à 2 niveaux"__ :
 * Un 1er niveau qui fait appel à des concepts __"Intentionels"__ (relatifs à la __finalité__ de la chose)
