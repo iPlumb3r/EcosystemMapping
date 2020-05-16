@@ -79,25 +79,20 @@ Some examples :
     <thead>
         <tr>
             <th>Individual</th>
-            <th>Type</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td>To Drink & To Eat</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>To Rest & To Sleep</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>To Move & To Travel</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>To Take Care Of Yourself</td>
         </tr>
     </tbody>
 </table>
