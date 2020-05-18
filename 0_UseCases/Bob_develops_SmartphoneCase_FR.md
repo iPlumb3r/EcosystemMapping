@@ -82,7 +82,7 @@ __Exemple avec les Concepts répondant au questionnement "What ?"__
             <td>Logiciel</td>
         </tr>
         <tr>
-            <td>Specifications techniques du modèle A de coque de l'iPhone X</td>
+            <td>Spécifications techniques du modèle A de coque de l'iPhone X</td>
             <td>Défini des contraintes dimensionelles. Potentiellement documenté dans une "Spécification Technique"</td>
             <td>As To Be Built</td>
             <td>Product</td>
