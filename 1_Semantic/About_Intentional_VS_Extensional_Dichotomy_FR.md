@@ -12,4 +12,4 @@ Il n’y a PAS des ITEMS/Individus intentionnels ET des ITEMS/individus extensio
 … MAIS UNIQUEMENT des ITEMS/Individus qui ont un ASPECT intentionnel ET un ASPECT extensionnel
 
 De ce fait, les modèles intentionnel et extensionnels sont des modèles ORTHOGONAUX qui accueille les PROJECTIONS des ASPECTS correspondants ...   
-... et qui permettent de gérer les relations et les caractéristiques qui sont propre à chaque ASPECT.
+... et qui permettent de gérer les caractéristiques et les relations qui sont propre à chaque ASPECT.
