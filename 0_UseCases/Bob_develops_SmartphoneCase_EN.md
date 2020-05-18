@@ -107,6 +107,7 @@ __Example with "What ?" Concepts__
         </tr>
     </tbody>
 </table>
+
 __Schema__ :
 ![alt text](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/UC_Bob_develops_SmartphoneCase.png)
 
