@@ -21,3 +21,8 @@ Les principaux avantages de la dichomie "Intention VS Extention" sont les suivan
 * Permet de rationaliser la gestion des propriétés et des relations
 * Permet d'éviter l'explosion combinatoire des classe à gérer (En particulier pour "Deliverable")
 * Permet de faciliter le passage de l'informel au formel (En particulier pour "Market" et "Finality")
+
+Ressources
+==
+Un cas d'usage emblematique : https://github.com/iPlumb3r/EcosystemMapping/blob/master/0_UseCases/Bob_develops_SmartphoneCase_FR.md
+Un article sur les Invariants Métiers : https://www.linkedin.com/pulse/les-invariants-m%C3%A9tiers-du-plm-bernard-chabot/
