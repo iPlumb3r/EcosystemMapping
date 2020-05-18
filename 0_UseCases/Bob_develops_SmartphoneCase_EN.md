@@ -16,9 +16,9 @@ The dichotomy "Intention VS Extension" being easier to understand for the "Who?"
 
 Description
 ==
-The use case is centered on "Bob", a person who develops smartphone shells.   
-To do so, he uses the "requirements" defined by the "NormPlus" organization to determine the dimensional dimensions he has to meet and the "Blender" software to develop his own shell models.   
-"Bob" then transmits the "specifications" of each hull model to the "FL-Print" organization which will manufacture the hulls using a "3D Printer" and "Bio-Plate Filament".
+The use case is centered on "Bob", a person who develops smartphone cases.   
+To do so, he uses the "requirements" defined by the "NormPlus" organization to determine the dimensions he has to meet and "Blender", a CAD software to develop his own case models.   
+"Bob" then transmits the "specifications" of each case model to the "FL-Print" organization which will manufacture the case using a "3D Printer" and "Bio-Plastic Filament".
 
 Analysis
 ==
@@ -77,7 +77,7 @@ __Example with "What ?" Concepts__
         </tr>
         <tr>
             <td>Blender</td>
-            <td>Logiciel de conception</td>         
+            <td>CAD Software</td>         
             <td>As To Be Built</td>
             <td>Logiciel</td>
         </tr>
