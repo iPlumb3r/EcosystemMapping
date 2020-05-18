@@ -113,6 +113,5 @@ __Schema__ :
 
 Note
 ==
-In the case of the "Who?", there is only one intentional Concept that is Agent, but in the case of the "What?" there are several that correspond to the different levels of abstraction of a Product/Service. 
+In the case of the "Who?", there is only one intentional Concept that is Agent, but in the case of the "What?" there are several Concepts that correspond to the different levels of abstraction of a Product/Service. 
 The most concrete level corresponds to the "physical" product (or the "realized" service), the other levels embody the main stages necessary to be able to realize them.
-More than
