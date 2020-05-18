@@ -12,7 +12,7 @@ De ce fait, les modèles INT et EXT sont des modèles ORTHOGONAUX qui accueille 
 
 Périmètre
 ==
-La dichotomie "Intention VS Extension" étant plus facile à comprendre pour le "Who ?" et e "What ?", le cas d'usage se limitera à la mise en connection des concepts relatifs à ces 2 questionnements !
+La dichotomie "Intention VS Extension" étant plus facile à comprendre pour le "Who ?" et le "What ?", le cas d'usage se limitera à la mise en connection des concepts relatifs à ces 2 questionnements !
 
 Description
 ==
@@ -22,6 +22,7 @@ Pour ce faire, il se sert des "exigences" définies par l'organisation "NormPlus
 
 Analyse
 ==
+Lorsqu'on s'intéresse aux Concepts sous-jacents à ce cas d'usage, on contaste qu'ils peuvent être structurés d'une part en fonction du questionemment aux ils répondent, mais également 
 
 
 
