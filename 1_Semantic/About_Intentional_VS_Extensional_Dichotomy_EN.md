@@ -47,8 +47,8 @@ Indeed, in this context the THINGS identified in the mapping have 2 different an
 
 __Note__ :  
 If there was only one thing to remember, it would be this :   
-There are NO intentional ITEMS/individuals AND ITEMS/extensional individuals...   
-... BUT ONLY ITEMS/Individuals who have an intentional ASPECT AND an extensional ASPECT
+There are NO intentional ITEMS/individuals AND ITEMS/extensional individuals ...   
+... BUT ONLY ITEMS/Individuals who have BOTH an intentional ASPECT AND an extensional ASPECT
 
 
 What's that for?
