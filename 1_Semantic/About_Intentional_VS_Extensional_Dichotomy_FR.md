@@ -1,6 +1,6 @@
 Introduction
 ==
-Pour exploiter au mieux l'ontologie E2M il est crucial de bien comprendre les tenants et les aboutissants de la dichotomie "Intention VS Extension" : 
+Pour exploiter au mieux l'ontologie E2M il est crucial de bien comprendre __les tenants et les aboutissants__ de la dichotomie "Intention VS Extension" : 
 * Qu’est-ce que c’est ?
 * A quoi ça sert ?
 * Quels en sont les avantages ?
@@ -13,24 +13,28 @@ La dichotomie "Intention VS Extension" est une technique de modélisation qui a 
 > exemples : PAIR, Petit Débrouillards, Alternatiba, DFC, dWeb x SW …
 
 La raison en est que tous les modèles de ces cartographies d’écosystème sont « monolithiques » au sens où chaque ITEM/Individu de la carte ne peux appartenir qu’à 1 et 1 seul TYPE/Classe ...   
-...et chaque modèle doit « jongler » avec des TYPES/Classes qui ne sont pas très homogènes entre-eux.
+... et chaque modèle doit "jongler" avec des TYPES/Classes qui ne sont pas très homogènes entre-eux !
+
 En effet, parfois les TYPES/Classes utilisés sont :
-* Orientés par rapport au "rôle joué"» (=> Ce qu’ils "FONT") : ex. "Client", "Produit Fourni"
+* Orientés par rapport au "rôle joué"» (=> Ce qu’ils "FONT"). Exemples : "Client", "Produit Fourni"
 Ou bien
-* Orientés par rapport à leur "nature" (=> Ce qu’il "SONT") : ex. "Organisation", "Logiciel"
+* Orientés par rapport à leur "nature" (=> Ce qu’il "SONT") : Exemples : "Organisation", "Logiciel"
 
 Et cela pose un problème car un ITEM/Individu donné peut être "en même temps" : 
-* un « Client » 
-* ET une « Organisation » (ou un « Client » ET une « Personne »), ...
+* un "Client" ET une "Organisation" 
+OU
+* un "Client" ET une "Personne"
 
-De la même manière, un ITEM/Individu donné peut être « en même temps » : 
-un « Produit Fourni » ET un « Logiciel » (ou un « Produit Spécifié » et un « Logiciel »)
+De la même manière, un ITEM/Individu donné peut être "en même temps" : 
+* un "Produit Fourni" ET "Logiciel" 
+OU
+* un "Produit Spécifié" ET un "Logiciel"
 
-Par conséquent, on se trouve « de facto » dans une situation ou la modélisation basée sur du MONO-typing touche à ses limites.
-Il nous faut un nouveau paradigme de modélisation plus souple, plus expressif, …
- … bref qui « colle » mieux à la réalité du terrain !
+Par conséquent, on se trouve « de facto » dans une situation ou la modélisation basée sur du MONO-TYPE touche à ses limites.
+Il nous faut un nouveau paradigme de modélisation plus souple, plus expressif, ...
+> En bref, qui "colle" mieux à la réalité du terrain !
 
-C’est là qu’intervient la dichotomie « INT » vs « EXT » …
+C’est là qu’intervient la dichotomie "Intention VS Extension".
 
 Qu'est-ce que c'est ?
 ==
