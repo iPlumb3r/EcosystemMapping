@@ -10,8 +10,13 @@ S’il n’y avait qu’une seule chose à retenir ça serait que :
 De ce fait, les modèles INT et EXT sont des modèles ORTHOGONAUX qui accueille les PROJECTIONS des ASPECTS correspondants ...      
 ... et qui permettent de gérer les relations et les caractéristiques qui sont propre à chaque ASPECT.
 
-Contexte
-=
+Périmètre
+==
+La dichotomie "Intention VS Extension" étant plus facile à comprendre pour le "Who ?" et e "What ?", le cas d'usage se limitera à la mise en connection des concepts relatifs à ces 2 questionnements !
+
+Description
+==
+Le cas d'usage est centré sur Bob, un Agent/Person qui developper des 
 
 Avantages
 ==
