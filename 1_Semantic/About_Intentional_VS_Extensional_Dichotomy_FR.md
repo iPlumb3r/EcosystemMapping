@@ -71,6 +71,14 @@ Cette approche est plus pertinente que l’héritage multiple (qui une mécaniqu
 
 Cf : https://github.com/iPlumb3r/KeQuarks/blob/master/Features/Multi-Typing_FR.md
 
+Pourquoi l'approche "classique" ne peux pas marcher !
+==
+Dans une cartographie d’écosystème les CHOSES « SONT » et « FONT » tout à la fois, ...   
+... Et seul le principe de « SEPARATION of CONCERNS » nous permet de traiter cette « schizophrénie » dans 2 PLANS complémentaires ORTHOGONAUX entre-eux.
+
+Autrement dit, essayer de tout traiter sur un UNIQUE PLAN mélangerais forcement des notions qui n’on rien à voir entre-elles.
+
+
 Ressources
 ==
 
