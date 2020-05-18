@@ -29,7 +29,7 @@ De la même manière, un ITEM/Individu donné peut être "en même temps" :
 OU   
 * un "Produit Spécifié" ET un "Logiciel"
 
-Par conséquent, on se trouve « de facto » dans une situation où la modélisation basée sur une approche "Mono-TYPE" touche à ses limites.
+Par conséquent, on se trouve "de facto" dans une situation où la modélisation basée sur une approche "Mono-TYPE" touche à ses limites.
 Il nous faut un nouveau paradigme de modélisation plus souple, plus expressif, ...
 > En bref, qui "colle" mieux à la réalité du terrain !
 
@@ -41,8 +41,8 @@ La dichotomie "Intention VS Extension" est une technique de modélisation.
 Elle s'appuie sur le principe de "Separation Of Concerns" appliqué dans le contexte d'une cartographie d'écosystème. 
 
 En effet, dans ce contexte, les CHOSES indentifées dans la cartographie ont 2 ASPECTS différents et complémentaires : 
-* L’ASPECT « Intentionnel » d’un ITEM/Individu est relatif à la raison pour laquelle il apparaît dans la carte, au rôle qu’il y joue, à ce qu’il « FAIT » (INDEPENDAMMENT de sa "nature"),
-* L’ASPECT « Extensionnel » d’un ITEM/Individu est relatif à sa « nature » profonde, à ce qu’il « EST » (INDEPENDAMMENT du "rôle qu’il joue")
+* L’ASPECT "Intentionnel" d’un ITEM/Individu est relatif à la raison pour laquelle il apparaît dans la carte, au rôle qu’il y joue, à ce qu’il "FAIT" (INDEPENDAMMENT de sa "nature"),
+* L’ASPECT "Extensionnel" d’un ITEM/Individu est relatif à sa "nature" profonde, à ce qu’il "EST" (INDEPENDAMMENT du "rôle qu’il joue")
 
 
 __Remarque__:
@@ -73,8 +73,8 @@ Cf : https://github.com/iPlumb3r/KeQuarks/blob/master/Features/Multi-Typing_FR.m
 
 Pourquoi l'approche "classique" ne peux pas marcher !
 ==
-Dans une cartographie d’écosystème les CHOSES « SONT » et « FONT » tout à la fois, ...   
-... Et seul le principe de « SEPARATION of CONCERNS » nous permet de traiter cette « schizophrénie » dans 2 PLANS complémentaires ORTHOGONAUX entre-eux.
+Dans une cartographie d’écosystème les CHOSES "SONT" et "FONT" tout à la fois, ...   
+... Et seul le principe de "SEPARATION of CONCERNS" nous permet de traiter cette "schizophrénie" dans 2 PLANS complémentaires ORTHOGONAUX entre-eux.
 
 Autrement dit, essayer de tout traiter sur un UNIQUE PLAN mélangerais forcement des notions qui n’on rien à voir entre-elles.
 
