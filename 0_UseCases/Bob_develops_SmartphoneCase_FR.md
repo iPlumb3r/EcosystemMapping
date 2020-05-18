@@ -85,19 +85,25 @@ __Exemple avec les Concepts répondant au questionnement "What ?"__
             <td>Specifications techniques du modèle A de coque de l'iPhone X</td>
             <td>Défini des contraintes dimensionelles. Potentiellement documenté dans une "Spécification Technique"</td>
             <td>As To Be Built</td>
-            <td>Product (Coque de smartphone)</td>
+            <td>Product</td>
         </tr>
         <tr>
             <td>MakerBot</td>
             <td>Imprimante 3D/td>
             <td>As Built</td>
-            <td>Product (Imprimante 3D)</td>
+            <td>Product</td>
         </tr>
         <tr>
             <td>Exemplaire 1 du modèle A de coque de l'iPhone X</td>
             <td>Coque de smartphone "physique"</td>
             <td>As Built</td>
             <td>Product</td>
+        </tr>
+        <tr>
+            <td>BioPlastic Filament</td>
+            <td>Matière pour fabrique les coques de smartphone</td>
+            <td>As Built</td>
+            <td>Matter</td>
         </tr>
     </tbody>
 </table>
