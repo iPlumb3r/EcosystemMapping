@@ -13,3 +13,11 @@ Il n’y a PAS des ITEMS/Individus intentionnels ET des ITEMS/individus extensio
 
 De ce fait, les modèles intentionnel et extensionnels sont des modèles ORTHOGONAUX qui accueille les PROJECTIONS des ASPECTS correspondants ...   
 ... et qui permettent de gérer les caractéristiques et les relations qui sont propre à chaque ASPECT.
+
+
+Avantages
+==
+Les principaux avantages de la dichomie "Intention VS Extention" sont les suivants :
+* Permet de rationaliser la gestion des propriétés et des relations
+* Permet d'éviter l'explosion combinatoire des classe à gérer (En particulier pour "Deliverable")
+* Permet de faciliter le passage de l'informel au formel (En particulier pour "Market" et "Finality")
