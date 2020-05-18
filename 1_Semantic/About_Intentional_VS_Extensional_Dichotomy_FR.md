@@ -41,8 +41,8 @@ La dichotomie "Intention VS Extension" est une technique de modélisation.
 Elle s'appuie sur le principe de "Separation Of Concerns" appliqué dans le contexte d'une cartographie d'écosystème. 
 
 En effet, dans ce contexte, les CHOSES indentifées dans la cartographie ont 2 ASPECTS différents et complémentaires : 
-* L’ASPECT « Intentionnel » d’un ITEM/Individu est relatif à la raison pour laquelle il apparaît dans la carte (INDEPENDAMMENT de sa « nature »), au rôle qu’il y joue, à ce qu’il « FAIT »
-* L’ASPECT « Extensionnel » d’un ITEM/Individu est relatif à sa « nature » profonde, à ce qu’il « EST » (INDEPENDAMMENT du rôle qu’il joue)
+* L’ASPECT « Intentionnel » d’un ITEM/Individu est relatif à la raison pour laquelle il apparaît dans la carte, au rôle qu’il y joue, à ce qu’il « FAIT » (INDEPENDAMMENT de sa "nature"),
+* L’ASPECT « Extensionnel » d’un ITEM/Individu est relatif à sa « nature » profonde, à ce qu’il « EST » (INDEPENDAMMENT du "rôle qu’il joue")
 
 
 __Remarque__:
