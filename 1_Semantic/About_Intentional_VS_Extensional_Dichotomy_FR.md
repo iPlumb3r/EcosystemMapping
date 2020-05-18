@@ -38,21 +38,24 @@ C’est là qu’intervient la dichotomie "Intention VS Extension".
 Qu'est-ce que c'est ?
 ==
 La dichotomie "Intention VS Extension" est une technique de modélisation.    
-Elle s'appuie sur le principe de "Separation Of Concerns" appliqué dans le contexte d'une cartographie d'écosystème.   
+Elle s'appuie sur le principe de "Separation Of Concerns" appliqué dans le contexte d'une cartographie d'écosystème. 
+
 En effet, dans ce contexte les CHOSES indentifées dans la cartographie ont 2 ASPECTS différents et complémentaires : 
-* L'un étant lié à ce qu'elles "FONT"
-* L'autre étant lié à ce qu'elles "SONT"
+* L’ASPECT « Intentionnel » d’un ITEM/Individu est relatif à la raison pour laquelle il apparaît dans la carte (INDEPENDAMMENT de sa « nature »), au rôle qu’il y joue, à ce qu’il « FAIT »
+* L’ASPECT « Extensionnel » d’un ITEM/Individu est relatif à sa « nature » profonde, à ce qu’il « EST » (INDEPENDAMMENT du rôle qu’il joue)
+
 
 __Remarque__:
 S’il n’y avait qu’une seule chose à retenir ça serait que :
 Il n’y a PAS des ITEMS/Individus intentionnels ET des ITEMS/individus extensionnels ...
 ... MAIS UNIQUEMENT des ITEMS/Individus qui ont un ASPECT intentionnel ET un ASPECT extensionnel
 
-De ce fait, les modèles intentionnel et extensionnels sont des modèles ORTHOGONAUX qui accueille les PROJECTIONS des ASPECTS correspondants ...   
-... et qui permettent de gérer les caractéristiques et les relations qui sont propre à chaque ASPECT.
 
 A quoi ça sert ?
 ==
+Les modèles intentionnel et extensionnels sont des modèles ORTHOGONAUX qui accueille les PROJECTIONS des ASPECTS correspondants. Ils permettent de gérer les caractéristiques et les relations qui sont propres à chaque ASPECT.
+
+Cette approche sert surtout à ne pas mélanger des éléments qui ne relève pas de la même logique.
 
 Quels en sont les avantages ?
 ==
@@ -61,9 +64,12 @@ Les principaux avantages de la dichomie "Intention VS Extention" sont les suivan
 * Permet d'éviter l'explosion combinatoire des classe à gérer (En particulier pour "Deliverable")
 * Permet de faciliter le passage de l'informel au formel (En particulier pour "Market" et "Finality")
 
-
 Comment ça marche ?
 ==
+Techniquement cela est rendu par le typage multiple (c’est une mécanique de modélisation de niveau « ITEM/Individu)
+Cette approche est plus pertinente que l’héritage multiple (qui une mécanique de modélisation de niveau « TYPE/Classe) qui lui ne permet pas d’éviter l’explosion combinatoire des TYPES/Classes)
+
+Cf : https://github.com/iPlumb3r/KeQuarks/blob/master/Features/Multi-Typing_FR.md
 
 Ressources
 ==
