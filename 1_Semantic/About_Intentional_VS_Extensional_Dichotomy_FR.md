@@ -59,7 +59,7 @@ Cette approche sert surtout à ne pas mélanger des éléments qui ne relève pa
 
 Quels en sont les avantages ?
 ==
-Les principaux avantages de la dichomie "Intention VS Extention" sont les suivants :
+Les principaux avantages de la dichotomie "Intention VS Extention" sont les suivants :
 * Permet de rationaliser la gestion des propriétés et des relations
 * Permet d'éviter l'explosion combinatoire des classe à gérer (En particulier pour "Deliverable")
 * Permet de faciliter le passage de l'informel au formel (En particulier pour "Market" et "Finality")
