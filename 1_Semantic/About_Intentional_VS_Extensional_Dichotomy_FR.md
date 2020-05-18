@@ -20,13 +20,13 @@ Ou bien
 * Orientés par rapport à leur "nature" (=> Ce qu’il "SONT") : Exemples : "Organisation", "Logiciel"
 
 Et cela pose un problème car un ITEM/Individu donné peut être "en même temps" : 
-* un "Client" ET une "Organisation" 
-OU
+* un "Client" ET une "Organisation"   
+OU   
 * un "Client" ET une "Personne"
 
 De la même manière, un ITEM/Individu donné peut être "en même temps" : 
-* un "Produit Fourni" ET "Logiciel" 
-OU
+* un "Produit Fourni" ET "Logiciel"   
+OU   
 * un "Produit Spécifié" ET un "Logiciel"
 
 Par conséquent, on se trouve « de facto » dans une situation ou la modélisation basée sur du MONO-TYPE touche à ses limites.
