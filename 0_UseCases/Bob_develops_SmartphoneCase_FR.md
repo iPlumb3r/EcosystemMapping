@@ -108,6 +108,9 @@ __Exemple avec les Concepts répondant au questionnement "What ?"__
     </tbody>
 </table>
 
+__Schema__ :
+![alt text](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/UC_Bob_develops_SmartphoneCase.png)
+
 Avantages
 ==
 
