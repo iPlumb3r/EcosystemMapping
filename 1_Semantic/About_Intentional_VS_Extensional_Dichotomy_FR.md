@@ -29,7 +29,7 @@ De la même manière, un ITEM/Individu donné peut être "en même temps" :
 OU   
 * un "Produit Spécifié" ET un "Logiciel"
 
-Par conséquent, on se trouve « de facto » dans une situation ou la modélisation basée sur du MONO-TYPE touche à ses limites.
+Par conséquent, on se trouve « de facto » dans une situation où la modélisation basée sur du MONO-TYPE touche à ses limites.
 Il nous faut un nouveau paradigme de modélisation plus souple, plus expressif, ...
 > En bref, qui "colle" mieux à la réalité du terrain !
 
