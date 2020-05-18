@@ -82,5 +82,5 @@ Resources
 ==
 
 An emblematic use case: https://github.com/iPlumb3r/EcosystemMapping/blob/master/0_UseCases/Bob_develops_SmartphoneCase_EN.md   
-An article about Business Invariants: https://www.linkedin.com/pulse/les-invariants-m%C3%A9tiers-du-plm-bernard-chabot/
+An article about Business Invariants: https://www.linkedin.com/pulse/les-invariants-m%C3%A9tiers-du-plm-bernard-chabot/ (Could be translated with https://www.deepl.com/translator)
 
