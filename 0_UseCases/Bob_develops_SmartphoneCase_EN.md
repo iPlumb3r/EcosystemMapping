@@ -30,7 +30,7 @@ __Example with "Who ?" Concepts__
 <table>
     <thead>
         <tr>
-            <th>ITEM/Individual/th> 
+            <th>ITEM/Individual</th> 
             <th>Commentaire</th>   
             <th>Intensional TYPE/Class</th>
             <th>Extentional TYPE/Class</th>
@@ -62,7 +62,7 @@ __Example with "What ?" Concepts__
 <table>
     <thead>
         <tr>
-            <th>ITEM/Individual/th> 
+            <th>ITEM/Individual</th> 
             <th>Commentaire</th>   
             <th>Intensional TYPE/Class</th>
             <th>Extentional TYPE/Class</th>
@@ -70,10 +70,10 @@ __Example with "What ?" Concepts__
     </thead>
     <tbody>
         <tr>
-            <td>Exigences "à respecter" pour la coque de l'iPhone X</td>
-            <td>Défini des contraintes dimensionelles. Potentiellement documenté dans un "Cahier des Charges"</td>
+            <td>Requirement "to be respected" for the iPhone X case</td>
+            <td>Define dimentional constraint. Potentially documented by a technical specification</td>
             <td>As Designed</td>
-            <td>Coque de smartphone</td>
+            <td>Product</td>
         </tr>
         <tr>
             <td>Blender</td>
@@ -82,26 +82,26 @@ __Example with "What ?" Concepts__
             <td>Logiciel</td>
         </tr>
         <tr>
-            <td>Spécifications techniques du modèle A de coque de l'iPhone X</td>
-            <td>Défini des contraintes dimensionelles. Potentiellement documenté dans une "Spécification Technique"</td>
+            <td>Technical dimention of model A for iPhone X case</td>
+            <td>Défini des contraintes dimensionelles. Potentially documented by a technical sheet</td>
             <td>As To Be Built</td>
             <td>Product</td>
         </tr>
         <tr>
             <td>MakerBot</td>
-            <td>Imprimante 3D</td>
+            <td>3D Printer </td>
             <td>As Built</td>
             <td>Product</td>
         </tr>
         <tr>
-            <td>Exemplaire 1 du modèle A de coque de l'iPhone X</td>
-            <td>Coque de smartphone "physique"</td>
+            <td>Exemplar 1 of model A for iPhone X case</td>
+            <td>"Physical" Smartphone case</td>
             <td>As Built</td>
             <td>Product</td>
         </tr>
         <tr>
             <td>BioPlastic Filament</td>
-            <td>Matière pour fabrique les coques de smartphone</td>
+            <td>BioPlastic for smartphone case</td>
             <td>As Built</td>
             <td>Matter</td>
         </tr>
