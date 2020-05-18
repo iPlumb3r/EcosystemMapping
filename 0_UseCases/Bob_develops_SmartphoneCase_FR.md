@@ -31,6 +31,7 @@ __Exemple avec les Concepts répondant au questionnement "Who ?"__
     <thead>
         <tr>
             <th>ITEM/Individu</th>
+            <th>Commentaire</th>            
             <th>TYPE Intentionnel</th>
             <th>TYPE Extensionnel</th>
         </tr>
@@ -38,16 +39,19 @@ __Exemple avec les Concepts répondant au questionnement "Who ?"__
     <tbody>
         <tr>
             <td>Bob</td>
+            <td>Developpe des coques de smartphone</td>
             <td>Agent</td>
             <td>Person</td>
         </tr>
         <tr>
             <td>NormPlus</td>
+            <td>Specifie des exigences à respecter pour les coques de smartphone</td>         
             <td>Agent</td>
             <td>Organization</td>
         </tr>
         <tr>
             <td>FL-Print</td>
+            <td>Fabrique des coques de smartphone en impression 3D</td> 
             <td>Agent</td>
             <td>Organization</td>
         </tr>
