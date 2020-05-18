@@ -26,8 +26,33 @@ Lorsqu'on s'intéresse aux Concepts sous-jacents à ce cas d'usage, on contaste 
 * d'une part qu'ils peuvent être structurés d'une part en fonction du questionemment aux ils répondent, 
 * d'autre part que chaque Concept dispose d'un ASPECT intentionnel (par rapport à ce qu'il "fait") ET d'un aspect extensionnel (par rapport à ce qu'il "est")
 
-
-
+__Exemple avec les Concepts répondant au questionnement "Who ?"__
+<table>
+    <thead>
+        <tr>
+            <th>ITEM/Individu</th>
+            <th>TYPE Intentionnel</th>
+            <th>TYPE Extensionnel</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Bob</td>
+            <td>Agent</td>
+            <td>Person</td>
+        </tr>
+        <tr>
+            <td>NormPlus</td>
+            <td>Agent</td>
+            <td>Organization</td>
+        </tr>
+        <tr>
+            <td>FL-Print</td>
+            <td>Agent</td>
+            <td>Organization</td>
+        </tr>
+    </tbody>
+</table>
 
 
 Avantages
