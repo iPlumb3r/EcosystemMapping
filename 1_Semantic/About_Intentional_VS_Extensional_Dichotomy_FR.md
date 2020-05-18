@@ -15,7 +15,7 @@ La dichotomie "Intention VS Extension" est une technique de modélisation qui a 
 Après analyse, il s'avère que la raison de cet échec est essentiellement lié au caractère "monolithiques" des modèles qui ont été développés. Monolithique dans le sens où chaque ITEM/Individu de la carte ne peux appartenir qu’à 1 et 1 seul TYPE/Classe et chaque modèle doit "jongler" avec des TYPES/Classes qui ne sont pas très homogènes entre-eux car relevant de logique diamétralement opposées (MAIS totalement complémentaires).
 
 En effet, parfois les TYPES/Classes utilisés sont :
-* Orientés par rapport au "rôle joué"» (=> Ce qu’ils "FONT"). Exemples : "Client", "Produit Fourni"
+* Orientés par rapport au "rôle joué"» (=> Ce qu’ils "FONT"). Exemples : "Client", "Produit Fourni"   
 Ou bien
 * Orientés par rapport à leur "nature" (=> Ce qu’il "SONT") : Exemples : "Organisation", "Logiciel"
 
