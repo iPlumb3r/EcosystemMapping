@@ -1,6 +1,6 @@
 Introduction
 ==
-Use case is not intended to be "totally fair", ...   
+Use case is not intended to be "totally correct", ...   
 ... but only to try to bring the principle of "Separation Of Concerns" applied to the dichotomy "Intention VS Extension" into play.
 
 If there was only one thing to remember, it would be this:
