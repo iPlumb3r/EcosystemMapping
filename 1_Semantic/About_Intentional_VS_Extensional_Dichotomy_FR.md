@@ -7,7 +7,7 @@ Pour exploiter au mieux l'ontologie E2M il est crucial de bien comprendre __les 
 * Comment ça marche ?
 * Pourquoi l'approche "classique" ne peux pas marcher !
 
-Contexte
+Préambule / Contexte
 ==
 La dichotomie "Intention VS Extension" est une technique de modélisation qui a été développé suite au constat de la difficulté à faire émerger un "tronc commun" entre différentes cartographies d’écosystème alors même qu’il aurait été tout à fait logique de pouvoir en faire émerger un !
 > exemples : PAIR, Petit Débrouillards, Alternatiba, DFC, dWeb x SW …
