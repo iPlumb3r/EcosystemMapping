@@ -1,11 +1,11 @@
 Introduction
 ==
 To make the most of the E2M ontology, it is crucial to understand __the ins and outs of the "Intent VS Extension" dichotomy: 
-* What is it?
-* What is it for?
-* What are the benefits?
-* How does it work?
-* Why can't the "classic" approach work!
+* What is it ?
+* What is it for ?
+* What are the benefits ?
+* How does it work ?
+* Why can't the "classic" approach work !
 
 Preamble / Background
 ==
