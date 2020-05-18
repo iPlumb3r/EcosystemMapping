@@ -12,8 +12,7 @@ Préambule / Contexte
 La dichotomie "Intention VS Extension" est une technique de modélisation qui a été développée suite au constat de la difficulté à faire émerger un "tronc commun" entre différentes cartographies d’écosystème alors même qu’il aurait été tout à fait logique de pouvoir en faire émerger un !
 > exemples : PAIR, Petit Débrouillards, Alternatiba, DFC, dWeb x SW …
 
-La raison en est que tous les modèles de ces cartographies d’écosystème sont « monolithiques » au sens où chaque ITEM/Individu de la carte ne peux appartenir qu’à 1 et 1 seul TYPE/Classe ...   
-... et chaque modèle doit "jongler" avec des TYPES/Classes qui ne sont pas très homogènes entre-eux !
+Après analyse, il s'avère que la raison de cet échec est essentiellement lié au caractère « monolithiques » des modèles qui ont été développ&é. Monolithique dans le sens où chaque ITEM/Individu de la carte ne peux appartenir qu’à 1 et 1 seul TYPE/Classe et chaque modèle doit "jongler" avec des TYPES/Classes qui ne sont pas très homogènes entre-eux car relevant de logique diamétralement opposées.
 
 En effet, parfois les TYPES/Classes utilisés sont :
 * Orientés par rapport au "rôle joué"» (=> Ce qu’ils "FONT"). Exemples : "Client", "Produit Fourni"
