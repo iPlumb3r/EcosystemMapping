@@ -32,8 +32,8 @@ __Exemple avec les Concepts répondant au questionnement "Who ?"__
         <tr>
             <th>ITEM/Individu</th>
             <th>Commentaire</th>            
-            <th>TYPE Intentionnel</th>
-            <th>TYPE Extensionnel</th>
+            <th>TYPE/Classe Intentionnel</th>
+            <th>TYPE/Classe Extensionnel</th>
         </tr>
     </thead>
     <tbody>
@@ -64,8 +64,8 @@ __Exemple avec les Concepts répondant au questionnement "What ?"__
         <tr>
             <th>ITEM/Individu</th>
             <th>Commentaire</th>            
-            <th>TYPE Intentionnel</th>
-            <th>TYPE Extensionnel</th>
+            <th>TYPE/Classe Intentionnel</th>
+            <th>TYPE/Classe Extensionnel</th>
         </tr>
     </thead>
     <tbody>
