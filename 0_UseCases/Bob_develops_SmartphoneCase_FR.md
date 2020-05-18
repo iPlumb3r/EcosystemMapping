@@ -73,7 +73,7 @@ __Exemple avec les Concepts répondant au questionnement "What ?"__
             <td>Exigences "à respecter" pour la coque de l'iPhone X</td>
             <td>Défini des contraintes dimensionelles. Potentiellement documenté dans un "Cahier des Charges"</td>
             <td>As Designed</td>
-            <td>Coque de smartphone</td>
+            <td>Product</td>
         </tr>
         <tr>
             <td>Blender</td>
