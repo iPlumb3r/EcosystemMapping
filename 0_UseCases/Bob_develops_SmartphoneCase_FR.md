@@ -89,7 +89,7 @@ __Exemple avec les Concepts répondant au questionnement "What ?"__
         </tr>
         <tr>
             <td>MakerBot</td>
-            <td>Imprimante 3D/td>
+            <td>Imprimante 3D</td>
             <td>As Built</td>
             <td>Product</td>
         </tr>
