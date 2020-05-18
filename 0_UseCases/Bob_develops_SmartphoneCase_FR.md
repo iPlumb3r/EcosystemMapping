@@ -71,21 +71,33 @@ __Exemple avec les Concepts répondant au questionnement "What ?"__
     <tbody>
         <tr>
             <td>Exigences "à respecter" pour la coque de l'iPhone X</td>
-            <td>Défini des contraintes dimensionelles. Potentielelement documenté dans un "Cahier des Charges"</td>
+            <td>Défini des contraintes dimensionelles. Potentiellement documenté dans un "Cahier des Charges"</td>
             <td>As Designed</td>
             <td>Coque de smartphone</td>
         </tr>
         <tr>
             <td>Blender</td>
             <td>Logiciel de conception</td>         
-            <td>As To Be Build</td>
+            <td>As To Be Built</td>
             <td>Logiciel</td>
         </tr>
         <tr>
-            <td>FL-Print</td>
-            <td>Fabrique des coques de smartphone en impression 3D</td> 
-            <td>Agent</td>
-            <td>Organization</td>
+            <td>Specifications techniques du modèle A de coque de l'iPhone X</td>
+            <td>Défini des contraintes dimensionelles. Potentiellement documenté dans une "Spécification Technique"</td>
+            <td>As To Be Built</td>
+            <td>Product (Coque de smartphone)</td>
+        </tr>
+        <tr>
+            <td>MakerBot</td>
+            <td>Imprimante 3D/td>
+            <td>As Built</td>
+            <td>Product (Imprimante 3D)</td>
+        </tr>
+        <tr>
+            <td>Exemplaire 1 du modèle A de coque de l'iPhone X</td>
+            <td>Coque de smartphone "physique"</td>
+            <td>As Built</td>
+            <td>Product</td>
         </tr>
     </tbody>
 </table>
