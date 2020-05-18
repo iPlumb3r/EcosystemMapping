@@ -45,9 +45,9 @@ Indeed, in this context the THINGS identified in the mapping have 2 different an
 * The "Extensional" ASPECT of an ITEM/Individual is relative to its deep "nature", to what it "IS" (INDEPENDENT of the role it plays).
 
 
-__Note__:
+__Note__ :
 If there was only one thing to remember, it would be this:
-There are NO intentional ITEMS/individuals AND ITEMS/extensional individuals...
+There are NO intentional ITEMS/individuals AND ITEMS/extensional individuals...   
 ... BUT ONLY ITEMS/Individuals who have an intentional ASPECT AND an extensional ASPECT
 
 
