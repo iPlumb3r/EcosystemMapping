@@ -26,90 +26,89 @@ When we look at the Concepts underlying this use case, we dispute :
 * on the one hand that they can be structured according to a particular question they answer, 
 * on the other hand that each ITEM/Individual has an intentional ASPECT (in relation to what he "does") AND an extensional ASPECT (in relation to what he "is") with each time a particular Concept to embody this or that ASPECT.
 
-__Example with Concepts answering the question "Who?"__
-<Table.
-    <Head.
-        <I don't know.
-            <ITEM/Individual.
-            <Commentary.            
-            <Intentional type/class.
-            <TYPE/extension class.
-        </I don't know.
+__Example with "Who ?" Concepts__
+<table>
+    <thead>
+        <tr>
+            <th>ITEM/Individual/th> 
+            <th>Commentaire</th>   
+            <th>Intensional TYPE/Class</th>
+            <th>Extentional TYPE/Class</th>
+        </tr>
     </thead>
-    <Body.
-        <I don't know.
-            <Bob's a dick.
-            <smartphone shell development.
-            <Agent.
-            <Person.
-        </I don't know.
-        <I don't know.
-            <StandardPlus.
-            <td>Specifies requirements for smartphone shells</td>         
-            <Agent.
-            <Organization.
-        </I don't know.
-        <I don't know.
-            <FFL-Print.
-            <td>Making smartphone shells in 3D printing</td> 
-            <Agent.
-            <Organization.
-        </I don't know.
+    <tbody>
+        <tr>
+            <td>Bob</td>
+            <td>Develops smartphone case</td>
+            <td>Agent</td>
+            <td>Person</td>
+        </tr>
+        <tr>
+            <td>NormPlus</td>
+            <td>Specify requirement to respect for smartphone case</td>         
+            <td>Agent</td>
+            <td>Organization</td>
+        </tr>
+        <tr>
+            <td>FL-Print</td>
+            <td>Build smartphone case using 3D printing</td> 
+            <td>Agent</td>
+            <td>Organization</td>
+        </tr>
     </tbody>
-</Table.
+</table>
 
-__Example with Concepts answering the question "What?"__
-<Table.
-    <Head.
-        <I don't know.
-            <ITEM/Individual.
-            <Commentary.            
-            <Intentional type/class.
-            <TYPE/extension class.
-        </I don't know.
+__Example with "What ?" Concepts__
+<table>
+    <thead>
+        <tr>
+            <th>ITEM/Individual/th> 
+            <th>Commentaire</th>   
+            <th>Intensional TYPE/Class</th>
+            <th>Extentional TYPE/Class</th>
+        </tr>
     </thead>
-    <Body.
-        <I don't know.
-            <d> "Must meet" requirements for the iPhone X</td> shell.
-            <d>Define dimensional constraints. Potentially documented in a "Specification".
-            <As Designed.
-            <Smartphone shell.
-        </I don't know.
-        <I don't know.
-            <Blender.
-            <design software.         
-            <As To Be Built.
-            <Software.
-        </I don't know.
-        <I don't know.
-            <Technical specifications of the iPhone X </td> shell model A technical specifications
-            <d>Define dimensional constraints. Potentially documented in a "Technical Specification".
-            <As To Be Built.
-            <d>Product</td>
-        </I don't know.
-        <I don't know.
-            <Dd>MakerBot.
-            <3D printer.
-            <As Built.
-            <d>Product</td>
-        </I don't know.
-        <I don't know.
-            <td> Copy 1 of the iPhone X</td> shell model A
-            <"Physical" smartphone shell.
-            <As Built.
-            <d>Product</td>
-        </I don't know.
-        <I don't know.
-            <BioPlastic Filament.
-            <Material for making smartphone shells.
-            <As Built.
-            <Matter.
-        </I don't know.
+    <tbody>
+        <tr>
+            <td>Exigences "à respecter" pour la coque de l'iPhone X</td>
+            <td>Défini des contraintes dimensionelles. Potentiellement documenté dans un "Cahier des Charges"</td>
+            <td>As Designed</td>
+            <td>Coque de smartphone</td>
+        </tr>
+        <tr>
+            <td>Blender</td>
+            <td>Logiciel de conception</td>         
+            <td>As To Be Built</td>
+            <td>Logiciel</td>
+        </tr>
+        <tr>
+            <td>Spécifications techniques du modèle A de coque de l'iPhone X</td>
+            <td>Défini des contraintes dimensionelles. Potentiellement documenté dans une "Spécification Technique"</td>
+            <td>As To Be Built</td>
+            <td>Product</td>
+        </tr>
+        <tr>
+            <td>MakerBot</td>
+            <td>Imprimante 3D</td>
+            <td>As Built</td>
+            <td>Product</td>
+        </tr>
+        <tr>
+            <td>Exemplaire 1 du modèle A de coque de l'iPhone X</td>
+            <td>Coque de smartphone "physique"</td>
+            <td>As Built</td>
+            <td>Product</td>
+        </tr>
+        <tr>
+            <td>BioPlastic Filament</td>
+            <td>Matière pour fabrique les coques de smartphone</td>
+            <td>As Built</td>
+            <td>Matter</td>
+        </tr>
     </tbody>
-</Table.
-
-:
-! [alt text](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/UC_Bob_develops_SmartphoneCase.png)
+</table>
+__Schema__ :
+![alt text](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/UC_Bob_develops_SmartphoneCase.png)
 
 Note
 ==
