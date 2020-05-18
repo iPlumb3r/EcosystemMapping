@@ -59,7 +59,7 @@ This approach serves above all to avoid mixing elements that are not part of the
 
 What are the advantages?
 ==
-The main advantages of the "Intention VS Extention" dichotomy are the following:
+The main advantages of the "Intention VS Extension" dichotomy are the following:
 * Allows to streamline the management of properties and relationships
 * Avoids combinatorial explosion of the classes to be managed (Especially for "Deliverable")
 * Facilitates the transition from the informal to the formal (Especially for "Market" and "Finality")
