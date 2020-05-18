@@ -58,6 +58,37 @@ __Exemple avec les Concepts répondant au questionnement "Who ?"__
     </tbody>
 </table>
 
+__Exemple avec les Concepts répondant au questionnement "What ?"__
+<table>
+    <thead>
+        <tr>
+            <th>ITEM/Individu</th>
+            <th>Commentaire</th>            
+            <th>TYPE Intentionnel</th>
+            <th>TYPE Extensionnel</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Exigences "à respecter" pour la coque de l'iPhone X</td>
+            <td>Défini des contraintes dimensionelles. Potentielelement documenté dans un "Cahier des Charges"</td>
+            <td>As Designed</td>
+            <td>Coque de smartphone</td>
+        </tr>
+        <tr>
+            <td>Blender</td>
+            <td>Logiciel de conception</td>         
+            <td>As To Be Build</td>
+            <td>Logiciel</td>
+        </tr>
+        <tr>
+            <td>FL-Print</td>
+            <td>Fabrique des coques de smartphone en impression 3D</td> 
+            <td>Agent</td>
+            <td>Organization</td>
+        </tr>
+    </tbody>
+</table>
 
 Avantages
 ==
