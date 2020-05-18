@@ -22,7 +22,11 @@ Pour ce faire, il se sert des "exigences" définies par l'organisation "NormPlus
 
 Analyse
 ==
-Lorsqu'on s'intéresse aux Concepts sous-jacents à ce cas d'usage, on contaste qu'ils peuvent être structurés d'une part en fonction du questionemment aux ils répondent, mais également 
+Lorsqu'on s'intéresse aux Concepts sous-jacents à ce cas d'usage, on contaste :
+* d'une part qu'ils peuvent être structurés d'une part en fonction du questionemment aux ils répondent, 
+* d'autre part que chaque Concept dispose d'un ASPECT intentionnel (par rapport à ce qu'il "fait") ET d'un aspect extensionnel (par rapport à ce qu'il "est")
+
+
 
 
 
