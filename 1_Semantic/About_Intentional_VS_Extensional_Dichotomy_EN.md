@@ -1,6 +1,6 @@
 Introduction
 ==
-To make the most of the E2M ontology, it is crucial to understand __the ins and outs of the "Intent VS Extension" dichotomy: 
+To make the most of the E2M ontology, it is crucial to understand __the ins and outs__ of the "Intention VS Extension" dichotomy : 
 * What is it ?
 * What is it for ?
 * What are the benefits ?
@@ -9,10 +9,10 @@ To make the most of the E2M ontology, it is crucial to understand __the ins and 
 
 Preamble / Background
 ==
-The "Intention VS Extension" dichotomy is a modeling technique that was developed following the observation of the difficulty of making a "common core" emerge between different ecosystem mappings even though it would have been quite logical to be able to make one emerge!
+The "Intention VS Extension" dichotomy is a modeling technique that was developed following the observation of the difficulty of making a "common core" emerge between different ecosystem mappings even though it would have been quite logical to be able to make one emerge !
 > examples: PAIR, Petit Débrouillards, Alternatiba, DFC, dWeb x SW ...
 
-After analysis, it appears that the reason for this failure is essentially linked to the "monolithic" nature of the models that were developed. Monolithic in the sense that each ITEM/Individual on the map can only belong to 1 and only 1 TYPE/Class and each model has to "juggle" with TYPES/CLASSES which are not very homogeneous between them because they are based on diametrically opposed logic (BUT totally complementary).
+After analysis, it appears that the reason for this failure is essentially linked to the "monolithic" nature of the models that were developed. Monolithic in the sense that each ITEM/Individual on the map can only belong to 1 and only 1 TYPE/Class and each model has to deal with TYPES/Classes which are not very homogeneous between them because they are based on diametrically opposed logic (BUT totally complementary).
 
 Indeed, sometimes the TYPES/Classes used are :
 * Oriented in relation to the "role played"". (=> What they "ARE"). Examples: "Customer", "Product Supplied".
@@ -31,7 +31,7 @@ OR
 
 Consequently, we find ourselves "de facto" in a situation where modelling based on MONO-TYPE is reaching its limits.
 We need a new modeling paradigm that is more flexible, more expressive, ...
-> In short, one that "sticks" better to the reality on the ground!
+> In short, one that "sticks" better to the reality on the ground !
 
 This is where the "Intention VS Extension" dichotomy comes in.
 
@@ -69,13 +69,18 @@ How does it work?
 Technically this is rendered by multiple typing (it is a modeling mechanic at the "ITEM/Individual" level).
 This approach is more relevant than multiple inheritance (which a modeling mechanics of level " TYPE/Class " which does not allow it to avoid the combinatorial explosion of TYPES/CLASSes)
 
-Cf: https://github.com/iPlumb3r/KeQuarks/blob/master/Features/Multi-Typing_FR.md
+Cf: https://github.com/iPlumb3r/KeQuarks/blob/master/Features/Multi-Typing_EN.md
+
+Why can't the "classic" approach work!
+==
+In an ecosystem cartography the THINGS "ARE" and "ARE" at the same time, ...   
+... And only the principle of "SEPARATION of CONCERNS" allows us to treat this "schizophrenia" in 2 complementary ORTHOGONAL PLANS.
+
+In other words, trying to treat everything on a SINGLE PLAN would necessarily mix up notions that have nothing to do with each other.
 
 Resources
 ==
 
 An emblematic use case: https://github.com/iPlumb3r/EcosystemMapping/blob/master/0_UseCases/Bob_develops_SmartphoneCase_FR.md   
-An article on Trade Invariants: https://www.linkedin.com/pulse/les-invariants-m%C3%A9tiers-du-plm-bernard-chabot/
+An article about Business Invariants: https://www.linkedin.com/pulse/les-invariants-m%C3%A9tiers-du-plm-bernard-chabot/
 
-
-Translated with www.DeepL.com/Translator (free version)
