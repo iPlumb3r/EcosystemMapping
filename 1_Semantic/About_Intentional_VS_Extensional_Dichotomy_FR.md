@@ -25,5 +25,5 @@ Les principaux avantages de la dichomie "Intention VS Extention" sont les suivan
 Ressources
 ==
 
-Un cas d'usage embleéatique : https://github.com/iPlumb3r/EcosystemMapping/blob/master/0_UseCases/Bob_develops_SmartphoneCase_FR.md   
+Un cas d'usage emblématique : https://github.com/iPlumb3r/EcosystemMapping/blob/master/0_UseCases/Bob_develops_SmartphoneCase_FR.md   
 Un article sur les Invariants Métiers : https://www.linkedin.com/pulse/les-invariants-m%C3%A9tiers-du-plm-bernard-chabot/
