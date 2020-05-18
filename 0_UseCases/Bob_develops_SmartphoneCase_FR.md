@@ -111,8 +111,13 @@ __Exemple avec les Concepts répondant au questionnement "What ?"__
 __Schema__ :
 ![alt text](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/UC_Bob_develops_SmartphoneCase.png)
 
-Avantages
+Remarques
 ==
+Dans le cas du "Who ?", il n'y a qu'un seul Concept intentionel qui est Agent, mais dans le cas du "What ?" il y en a plusieurs qui correspondent aux différents niveaux d'abstraction d'un Produit/Service. 
+Le niveau le plus concret correspondant au produit "physique" (ou au service "réalisé"), les autres niveaux incarnant les principaux stades nécessaires pour être en capacité de réaliser ces derniers.
+Plus d'information dans cet article sur les "invariant métiers" : https://www.linkedin.com/pulse/les-invariants-m%C3%A9tiers-du-plm-bernard-chabot/
+
+
 
 Conclusion
 ==
