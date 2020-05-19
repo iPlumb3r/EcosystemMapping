@@ -7,7 +7,7 @@ C'est à dire :
 
 Concept Intentionel
 ==
-Dans un cartographie d'écosystème, celui qui agit est par définition le concept d'<a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>.
+Dans une cartographie d'écosystème, celui qui agit est par définition le concept d'<a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>.
 
 > C'est ce concept qui incarne ce que "FONT" les ITEMS/Individus de cette catégorie.
 
