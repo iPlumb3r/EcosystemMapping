@@ -7,11 +7,21 @@ C'est à dire :
 
 Concept Intentionel
 ==
-Dans un cartographie d'écosystème, les choses manipulées sont par définition des <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a>.
+Dans une cartographie d'écosystème, les choses manipulées sont par définition des <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a>.
 
 > C'est ce concept qui incarne ce que "FONT" les ITEMS/Individus de cette catégorie.
 
-Ce sont des "choses" (généralement des produits ou des services) qui définissent par « ce qu’ils font », par la finalité qu’ils incarne, comme par exemple le produit « tel que requis », le produit « tel que conçu », le produit « tel qu’à fabriquer », le produit « tel qu’à vendre », … bref tous les types de produit qui correspondent au livrable principal des grandes activités du processus de gestion du cycle vie produit (Définition, Conception, Industrialisation, Production, Distribution, Vente, …).
+Ce sont des "choses" (généralement des produits ou des services) qui définissent par « ce qu’ils font », par la finalité qu’ils incarne. 
+Leur "intentionnalité" se mesure par rapport au niveau de maturité entre :
+* le stade où "le produit n'en est pas encore un", mais c'est juste une "idée" (d'un besoin à fatisfaire ou d'une fonction à remplir)
+ET
+* le stade où le produit existe "physiquement" et/ou le service est "en cours d'execution"
+
+Ces différents niveaux sont classiquement les suivants :
+![Ladder](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/Intention_Ladder.png)
+
+
+comme par exemple le produit « tel que requis », le produit « tel que conçu », le produit « tel qu’à fabriquer », le produit « tel qu’à vendre », … bref tous les types de produit qui correspondent au livrable principal des grandes activités du processus de gestion du cycle vie produit (Définition, Conception, Industrialisation, Production, Distribution, Vente, …).
 
 Remarque : L'avantage de la terminologie retenu par E2M ("As Defined", As Designed", "As To Be Built", "As Built") est quelle n'a pas besoin de dire de quoi il agit (et que donc cela peut s'appliquer à une vaste diversité de "choses" (Produit, Procédé, Méthodologie, Service, ...)
 
