@@ -67,8 +67,8 @@ Cela permet de ne gérer dans chaque modèle que caractéristiques et les relati
 
 > D'une certaine manière, cette approche sert à ne pas mélanger des éléments qui ne relève pas de la même logique.
 
-Globalement le modèle intentionnel à un caractère hautement générique qui lui perment d'être pertinent dans le contexte d'une grande variété d'écosystème.   
-A contrarion, les modèles extentionnels sont plutôt spécifiques, ceux qui permet à chaque cartographie d'écosystème d'utiliser un modèle qui "colle" bien à la réalité du terrain.
+Globalement le modèle intentionnel à un caractère hautement générique qui lui perment d'être pertinent dans le contexte d'une grande variété d'écosystèmes.   
+A contrario, les modèles extentionnels sont plutôt spécifiques, ce qui permet à chaque cartographie d'écosystème d'utiliser un modèle qui "colle" bien à la réalité du terrain.
 
 Quels en sont les avantages ?
 ==
