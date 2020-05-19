@@ -1,6 +1,6 @@
 Questionnement
 ==
-Il s'agit globalement de répondre à la question clef "QUI ?"
+Il s'agit globalement de répondre à la question clef "QUI ?".   
 C'est à dire :
 * Qui agit ? 
 * Qui s'implique ?
