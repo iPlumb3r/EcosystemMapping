@@ -1,6 +1,6 @@
 Setting in context
 ==
-In the context of E2M we have:
+In the context of E2M we have :
 * Question = "Who?"
 * Precision = Who acts? Who is involved?
 * Corresponding intentional concept: <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>
