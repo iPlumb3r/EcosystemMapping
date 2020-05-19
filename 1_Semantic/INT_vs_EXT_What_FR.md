@@ -22,9 +22,9 @@ Ces différents niveaux correspondent en fait au livrable principal des grandes 
 Ces différents niveaux sont classiquement les suivants :
 ![Ladder](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/Intention_Ladder_2020-05_19.png)
 
-__Remarque 1 :__ Utiliser le terme "Livrable" permet d'éviter de dire à chaque fois "Produit ou Service ou Procédé ou Méthode ...")
-__Remarque 2 :__ Les 2 premiers niveau (sur la gauche) ne sont pas - encore - des Produits ni des Services ...  
-__Remarque 3 :__ Il est préférable de ne conserver dans l'appellation finale que la partie "statut" (ainsi cela peut s'appliquer à des Produits, mais également à des Services, voire à des Procédés de fabrication ou des Méthodes de travail, ...)
+__Remarque 1 :__ Utiliser le terme "Livrable" permet d'éviter de dire à chaque fois "Produit ou Service ou Procédé ou Méthode ...")   
+__Remarque 2 :__ Les 2 premiers niveau (sur la gauche) ne sont pas - encore - des Produits ni des Services ...     
+__Remarque 3 :__ Il est préférable de ne conserver dans l'appellation finale que la partie "statut" (ainsi cela peut s'appliquer à des Produits, mais également à des Services, voire à des Procédés de fabrication ou des Méthodes de travail, ...)   
 
 Voici donc les 6 <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverables</a> clefs, "purement" définis :   
 
