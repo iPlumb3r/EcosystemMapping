@@ -44,8 +44,6 @@ En effet, dans ce contexte, les CHOSES identifées dans la cartographie ont 2 AS
 * L’ASPECT "Intentionnel" d’un ITEM/Individu est relatif à la raison pour laquelle il apparaît dans la carte, au rôle qu’il y joue, à ce qu’il "FAIT" (INDEPENDAMMENT de sa "nature"),
 * L’ASPECT "Extensionnel" d’un ITEM/Individu est relatif à sa "nature" profonde, à ce qu’il "EST" (INDEPENDAMMENT du "rôle qu’il joue")
 
-
- 
 >__S’il n’y avait qu’une seule chose à retenir ça serait que :__   
 > Il n’y a PAS des ITEMS/Individus intentionnels ET des ITEMS/individus extensionnels ...   
 > ... MAIS UNIQUEMENT des ITEMS/Individus qui ont un ASPECT intentionnel ET un ASPECT extensionnel
@@ -53,14 +51,18 @@ En effet, dans ce contexte, les CHOSES identifées dans la cartographie ont 2 AS
 
 A quoi ça sert ?
 ==
-Les modèles intentionnel et extensionnels sont des modèles ORTHOGONAUX qui accueille les PROJECTIONS des ASPECTS correspondants. Ils permettent de gérer les caractéristiques et les relations qui sont propres à chaque ASPECT.
+Les modèles intentionnel et extensionnels sont des modèles ORTHOGONAUX qui accueille les PROJECTIONS des ASPECTS correspondants.
+
+Ils permettent de gérer les caractéristiques et les relations qui sont propres à chaque ASPECT.
 
 Cette approche sert surtout à ne pas mélanger des éléments qui ne relève pas de la même logique.
 
 Quels en sont les avantages ?
 ==
 Les principaux avantages de la dichotomie "Intention VS Extension" sont les suivants :
+* Permet de ne pas mélanger des notions qui n'ont rien à faire ensemble
 * Permet de rationaliser la gestion des propriétés et des relations
+* Permet de modulariser les modèles afin d'en faciliter la ré-utilisation
 * Permet d'éviter l'explosion combinatoire des classe à gérer (En particulier pour "Deliverable")
 * Permet de faciliter le passage de l'informel au formel (En particulier pour "Market" et "Finality")
 
