@@ -11,7 +11,7 @@ Dans une cartographie d'écosystème, les choses manipulées sont par définitio
 
 > C'est ce concept qui incarne ce que "FONT" les ITEMS/Individus de cette catégorie.
 
-Ce sont des "choses" (généralement des produits ou des services) qui définissent par « ce qu’ils font », par la finalité qu’ils incarne. 
+Ce sont des "choses" (généralement des produits ou des services) qui définissent par « ce qu’ils font », par la finalité qu’ils incarnent.   
 Leur "intentionnalité" se mesure sur une sorte d'échelle par rapport au niveau de maturité entre :
 * le stade où "le produit n'en est pas encore un", mais c'est juste une "idée" (d'un besoin à fatisfaire ou d'une fonction à remplir)   
 ET
