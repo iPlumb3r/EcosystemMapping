@@ -38,7 +38,7 @@ C’est là qu’intervient la dichotomie "Intention VS Extension".
 Qu'est-ce que c'est ?
 ==
 La dichotomie "Intention VS Extension" est une technique de modélisation.    
-Elle s'appuie sur le principe de "Separation Of Concerns" appliqué dans le contexte d'une cartographie d'écosystème qui se décline sur les questionnements clefs d'une cartographie d'écosystsème : 
+Elle s'appuie sur le principe de "Separation Of Concerns" appliqué dans le contexte d'une cartographie d'écosystème et se décline sur chacun de ses questionnements clefs : 
 * <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/INT_vs_EXT_Who_FR.md">Qui ?</a> (=> <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>)
 * <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/INT_vs_EXT_What_FR.md">Quoi ?</a> (=> <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a>)
 * <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/INT_vs_EXT_How_FR.md">Comment ?</a> (=> <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Technology.md">@Technology</a>)
