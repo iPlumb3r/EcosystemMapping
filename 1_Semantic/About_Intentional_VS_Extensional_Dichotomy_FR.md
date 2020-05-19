@@ -45,7 +45,7 @@ En effet, dans ce contexte, les CHOSES identifées dans la cartographie ont 2 AS
 * L’ASPECT "Extensionnel" d’un ITEM/Individu est relatif à sa "nature" profonde, à ce qu’il "EST" (INDEPENDAMMENT du "rôle qu’il joue")
 
 >__S’il n’y avait qu’une seule chose à retenir ça serait que :__   
-> Il n’y a PAS des ITEMS/Individus intentionnels ET des ITEMS/individus extensionnels ...   
+> Il n’y a PAS d'un côté des ITEMS/Individus intentionnels ET de l'autre des ITEMS/individus extensionnels ...   
 > ... MAIS UNIQUEMENT des ITEMS/Individus qui ont un ASPECT intentionnel ET un ASPECT extensionnel
 
 
