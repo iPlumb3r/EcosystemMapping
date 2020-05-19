@@ -1,8 +1,8 @@
 Mise en contexte 
 ==
 Dans le contexte d'E2M on a :
-* Question = "Quoi ?"
-* Précision = De quoi s'agit-il ? Quelle "chose" est manipulé ?
+* Question Clef = "QUOI ?"
+* Signification = De quoi s'agit-il ? Quelle "chose" est manipulé ?
 * Concept intentionnel correspondant : @Deliverable (https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Deliverable.md)
 
 Ce sont des "choses" (généralement des produits ou des services) qui définissent par « ce qu’ils font », par la finalité qu’ils incarne, comme par exemple le produit « tel que requis », le produit « tel que conçu », le produit « tel qu’à fabriquer », le produit « tel qu’à vendre », … bref tous les types de produit qui correspondent au livrable principal des grandes activités du processus de gestion du cycle vie produit (Définition, Conception, Industrialisation, Production, Distribution, Vente, …).
