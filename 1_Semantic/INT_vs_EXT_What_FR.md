@@ -95,7 +95,7 @@ Le __concept intentionel__ d'<a href="https://github.com/iPlumb3r/EcosystemMappi
 En effet, ces derniers se définissent par par leur incarnation dans l'espace-temps, comme par exemple les avions, les voitures, les ordinateurs, les vêtements, les aliments, les logiciels, les services, procédé de fabrication, les méthode de travail, ...   
 ... bref toutes les catégories (et sous-catégories) de produit que l’on trouvent dans la « nature ».
 
-Le 1er niveau de décomposition des §Resources est en réponse à la question "en quoi sont-ils fait ?" :
+Le 1er niveau de décomposition des §Resources fait écho à la question "en quoi sont-ils fait ?" :
 * Atom-Based Resource
 * Bit-Based Resource
 * Concept-Based Resource
