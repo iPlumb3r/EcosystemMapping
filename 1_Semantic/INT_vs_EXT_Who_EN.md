@@ -12,10 +12,10 @@ Classically:
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Organization.md">§Organization</a> : A set of <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Person.md">§Person</a> or <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Organization.md">§Organization</a>   
 
 But potentially it could just as well be one or the other of the following concepts:
-* §Project: Particular initiative of a §Person or §Organization
-* §Software: A software-type product (e.g. an AI instance that performs taxonomies)
-* §Product: Product of material type (ex: an autonomous "taxi" car that offers races)
-* Or something else I haven't thought of yet... *
+* §Project : Particular initiative of a §Person or §Organization
+* §Software : A software-type product (e.g. : An AI instance that performs taxonomies)
+* §Product: Product of material type (e.g. : An autonomous "taxi" car that offers ride)
+* Or something else I haven't thought of yet ... 
 
 Consequence
 ==
