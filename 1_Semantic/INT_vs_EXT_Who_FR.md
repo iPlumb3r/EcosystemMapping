@@ -12,7 +12,7 @@ Classiquement :
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Organization.md">§Organization</a> : Un ensemble de <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Person.md">§Person</a> ou d'<a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Organization.md">§Organization</a>   
 
 Mais potentiellement ce peut tout aussi bien être l'un ou l'autre des concepts suivants :
-* §Projet : Initiative particulière d'une §Person ou d'une §Organization
+* §Project : Initiative particulière d'une §Person ou d'une §Organization (Le §Project étant vu comme une §Organisation temporaire ayant un début et une fin)
 * §Software : Produit de type logiciel (ex : Une instance d'IA qui réalise des taxonomies)
 * §Product : Produit de type matériel (ex : Une voiture "taxi" autonome qui propose des courses)
 * Ou bien autre chose encore à laquelle je n'ai pas pensé ...
