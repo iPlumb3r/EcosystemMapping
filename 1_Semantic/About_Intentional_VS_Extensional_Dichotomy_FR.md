@@ -51,13 +51,13 @@ En effet, dans ce contexte, les CHOSES identifées dans la cartographie ont 2 AS
 
 >__S’il n’y avait qu’une seule chose à retenir ça serait que :__   
 > Il n’y a PAS d'un côté des ITEMS/Individus intentionnels ET de l'autre des ITEMS/individus extensionnels ...   
-> ... MAIS UNIQUEMENT des ITEMS/Individus qui ont un ASPECT intentionnel ET un ASPECT extensionnel
+> ... MAIS UNIQUEMENT des ITEMS/Individus qui ont un ASPECT intentionnel ET un ASPECT extensionnel.
 
 
 A quoi ça sert ?
 ==
-Les modèles intentionnel et extensionnels sont des modèles ORTHOGONAUX ...    
-... qui accueille les PROJECTIONS des ASPECTS correspondants.
+Les modèles intentionnel et extensionnel sont des modèles ORTHOGONAUX entre-eux ...    
+... qui accueillent les PROJECTIONS des ASPECTS correspondants.
 
 Ils permettent de gérer les caractéristiques et les relations qui sont propres à chaque ASPECT.
 
