@@ -32,10 +32,10 @@ Cela permet de mieux gérer les caractéristiques et les relations relevant de c
 Exemple
 ==
 Ainsi dans le cadre d'un écosystème relatif à l'économie circulaire, on peut imaginer que : 
-* chaque @Agent soit caractérisé par un "re-use ratio" (correspondante son taux de recyclage)
-* chaque §Person soit caractérisé par une "birth date" 
-* chaque §Organization soit caractérisé par une  "size" (correspondant aux nb de ces membres)
+* chaque @Agent soit caractérisé par un "re-use ratio" (correspondant à son taux de recyclage)
+* chaque §Person soit caractérisée par une "birth date" 
+* chaque §Organization soit caractérisée par une  "size" (correspondant aux nb de ces membres)
 
 Dans ce contexte, on aura alors :
 * L'ITEM/Individu "John Doe" qui appartiendra simultanément aux TYPES/Classes §Person ET @Agent (et sera donc caractérisé par un "re-use ratio" ET une "birth date")
-* L'ITEM/Individu "RecycleAll" qui appartiendra simultanément aux TYPES/Classes §Organization ET @Agent  (et sera donc caractérisé par un "re-use ratio" ET une "size")
+* L'ITEM/Individu "RecycleAll" qui appartiendra simultanément aux TYPES/Classes §Organization ET @Agent (et sera donc caractérisé par un "re-use ratio" ET une "size")
