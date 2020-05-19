@@ -24,7 +24,8 @@ Il n'y a donc PAS d'un côté des ITEMS/Individus qui soient des <a href="https:
 
 Avantages
 ==
-Cela permet de mieux gérer les caractéristiques et les relations relevant de chaque Concept, car chaque ITEM/Individu peut être vue :
+Cela permet de mieux gérer les caractéristiques et les relations relevant de chaque Concept, ...   
+... Car chaque ITEM/Individu peut être vue :
 * soit par rapport "à ce qu'il fait" (=> en tant que @Agent)
 * soit par rapport "à ce qu'il est" (=> en tant que §Person ou §Organization, voire §Project ou §Product)
 
