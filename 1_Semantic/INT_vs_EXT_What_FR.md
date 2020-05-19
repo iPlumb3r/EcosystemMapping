@@ -13,13 +13,15 @@ Dans une cartographie d'écosystème, les choses manipulées sont par définitio
 
 Ce sont des "choses" (généralement des produits ou des services) qui définissent par « ce qu’ils font », par la finalité qu’ils incarne. 
 Leur "intentionnalité" se mesure sur une sorte d'échelle par rapport au niveau de maturité entre :
-* le stade où "le produit n'en est pas encore un", mais c'est juste une "idée" (d'un besoin à fatisfaire ou d'une fonction à remplir)
+* le stade où "le produit n'en est pas encore un", mais c'est juste une "idée" (d'un besoin à fatisfaire ou d'une fonction à remplir)   
 ET
 * le stade où le produit existe "physiquement" et/ou le service est "en cours d'execution"
 
 Ces différents niveaux sont classiquement les suivants :
 ![Ladder](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/Intention_Ladder.png)
 
+Remarque 1 : Les 2 premiers niveau (sur la gauche) ne sont pas - encore - des Produit
+Remarque 2 : Il est préférable de ne conserver dans l'appellation que le partie "statut" (ainsi cela peut s'appliquer à des Produit, mais également à des Services, voire à des Procédés de fabrication ou des Méthodes de travail, ...)
 
 comme par exemple le produit « tel que requis », le produit « tel que conçu », le produit « tel qu’à fabriquer », le produit « tel qu’à vendre », … bref tous les types de produit qui correspondent au livrable principal des grandes activités du processus de gestion du cycle vie produit (Définition, Conception, Industrialisation, Production, Distribution, Vente, …).
 
