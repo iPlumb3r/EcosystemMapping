@@ -1,11 +1,11 @@
 Setting in context
 ==
 In the context of E2M we have :
-* Question = "Who?"
-* Precision = Who acts? Who is involved?
-* Corresponding intentional concept: <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>
+* Big Question = "WHO ?"
+* Meaning = Who acts ? Who is involved ?
+* Corresponding intentional concept : <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>
 
-This intentional concept embodies a target whose role can be played by a series of extensional concepts that are :
+This __intentional concept__ embodies a "target" whose role can be played by a series of __extensional concepts__ that are :
 
 Classically:
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Person.md">§Person</a> : A particular individual
