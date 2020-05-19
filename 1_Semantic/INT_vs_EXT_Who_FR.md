@@ -7,11 +7,13 @@ C'est à dire :
 
 Concept Intentionel
 ==
-Dans un cartographie d'écosystème, celui qui agit est par définition le concept d'<a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>
+Dans un cartographie d'écosystème, celui qui agit est par définition le concept d'<a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>.
+
+> C'est ce concept qui incarne ce que "FONT" les ITEMS/Individues de cette catégorie.
 
 Concepts Extensionnels
 ==
-Ce __concept intentionel__ incarne une "cible" dont le rôle peut être joué par une série de __concept extensionnels__ que sont 
+Le __concept intentionel__ d'<a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a> incarne une "cible" dont le rôle peut être joué par une série de __concept extensionnels__ que sont 
 
 Classiquement :
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Person.md">§Person</a> : Un individu particulier
@@ -22,6 +24,8 @@ Mais potentiellement ce peut tout aussi bien être l'un ou l'autre des concepts 
 * §Software : Produit de type logiciel (ex : Une instance d'IA qui réalise des taxonomies)
 * §Product : Produit de type matériel (ex : Une voiture "taxi" autonome qui propose des courses)
 * Ou bien autre chose encore à laquelle je n'ai pas pensé ...
+
+> C'est ces concepts qui incarnent ce que "SONT" les ITEMS/Individus de cette catégorie.
 
 Exemple
 ==
