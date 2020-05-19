@@ -1,33 +1,30 @@
-Setting in context
+Question
 ==
-In the context of E2M we have :
-* Big Question = "WHO ?"
-* Meaning = Who acts ? Who is involved ?
-* Corresponding intentional concept : <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>
+It's basically about answering the key question "WHO?". More precisely :
+* Who does it ?
+* Who gets involved?
 
-This __intentional concept__ embodies a "target" whose role can be played by a series of __extensional concepts__ that are :
+Intentional Concept
+==
+In ecosystem mapping, the one who acts is by definition the concept of <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>.
 
-Classically:
+> It is this concept that embodies what "DOES" ITEMS/Individuals in this category.
+
+Extentional Concepts
+==
+The __intentional __concept__ of <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a> embodies a "target" whose role can be played by a series of __extensional __concepts__ which are 
+
+Classic:
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Person.md">§Person</a> : A particular individual
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Organization.md">§Organization</a> : A set of <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Person.md">§Person</a> or <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Organization.md">§Organization</a>   
 
 But potentially it could just as well be one or the other of the following concepts:
-* §Project : Particular initiative of a §Person or §Organization (The §Project being seen as temporary §Organization with a beginning and an end)
-* §Software : A software-type product (e.g. : An AI instance that performs taxonomies)
-* §Product: Product of material type (e.g. : An autonomous "taxi" car that offers ride)
-* Or something else I haven't thought of yet ... 
+* §Project: A particular initiative of a §Person or §Organization (The §Project being seen as a temporary §Organization with a beginning and an end)
+* §Software: A software-type product (ex: An AI instance that performs taxonomies)
+* §Product: Product of material type (ex: A self-contained "taxi" car that offers shopping)
+* Or something else I haven't thought of yet... *
 
-Consequence
-==
-So there is NOT on one side of ITEMS/Individuals who are <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a> and on the other side of ITEMS/Individuals who are <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Person.md">§Person</a> (or <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Organization.md">§Organization</a> or other) ...   
-... BUT many ITEMS/Individuals who are SIMULTANEOUSLY both of the <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a> AND of the <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Person.md">§Person</a> (or of the <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Organization.md">§Organization</a> or other)
-
-Benefits
-==
-This makes it possible to better manage the characteristics and relationships of each Concept, ...   
-... Because each ITEM/Individual can be seen :
-* either in relation to "what it DOES" (=> as an @Agent)
-* either in relation to "what it IS" (=> as a §Person or an §Organization, or even as §Project or a §Product)
+> It is these concepts that embody what "ARE" the ITEMS/Individuals in this category.
 
 Example
 ==
