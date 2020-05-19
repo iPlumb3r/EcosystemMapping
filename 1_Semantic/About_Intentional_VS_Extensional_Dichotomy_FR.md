@@ -58,19 +58,21 @@ En effet, dans ce contexte, les CHOSES identifées dans la cartographie ont 2 AS
 
 A quoi ça sert ?
 ==
-Les modèles intentionnel et extensionnel sont des modèles ORTHOGONAUX entre-eux ...    
-... qui accueillent les PROJECTIONS des ASPECTS correspondants.
+Cette technique de modélisation permet de faciliter la modularisation et la ré-utilisation de sous-parties de modèle.
 
-Ils permettent de gérer les caractéristiques et les relations qui sont propres à chaque ASPECT.
+En effet, les modèles intentionnel et extensionnel étant ORTHOGONAUX entre-eux ...    
+... ils accueillent chacun uniquement la PROJECTION de l'ASPECT correspondant.
 
-Cette approche sert surtout à ne pas mélanger des éléments qui ne relève pas de la même logique.
+Cela permet de ne gérer dans chaque modèle que caractéristiques et les relations qui lui sont propre.
+
+> D'une certaine manière, cette approche sert à ne pas mélanger des éléments qui ne relève pas de la même logique.
 
 Quels en sont les avantages ?
 ==
 Les principaux avantages de la dichotomie "Intention VS Extension" sont les suivants :
 * Permet de ne pas mélanger des notions qui n'ont rien à faire ensemble
 * Permet de rationaliser la gestion des propriétés et des relations
-* Permet de modulariser les modèles afin d'en faciliter la ré-utilisation
+* Permet de faciliter la maintenance et l'évolution de modèles complexes
 * Permet d'éviter l'explosion combinatoire des classe à gérer (En particulier pour "Deliverable")
 * Permet de faciliter le passage de l'informel au formel (En particulier pour "Market" et "Finality")
 
