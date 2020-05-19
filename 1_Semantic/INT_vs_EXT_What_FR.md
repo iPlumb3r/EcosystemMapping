@@ -84,31 +84,25 @@ Voici donc les 6 <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/mast
     </tbody>
 </table>
 
-__Remarque 4 :__ Il est possible qu'un ITEM/Individu soit en fait "à cheval" entre 2 de ces "status", mais comme il est impossible de prévoir à l'avance toute les combinaisons possibles, le fait de se baser sur des définions "pures" permet de disposer d'invariants aussi stable que répandus ! Les cas d'ITEM/Individus "à cheval" entre 2 "status" peuvent être résolus via du multi-typing ...
+__Remarque 4 :__ Il est possible qu'un ITEM/Individu "du monde réel" soit en fait "à cheval" entre 2 de ces "status", mais comme il est impossible de prévoir à l'avance toute les combinaisons possibles, le fait de se baser sur des définions "pures" permet de disposer d'invariants aussi stable que répandus ! Les cas d'ITEM/Individus "à cheval" entre 2 "status" peuvent être résolus via du multi-typing ...
 
 Concepts Extensionnels
 ==
+Le __concept intentionel__ d'<a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a> et ses sous-types incarne des "cible" dont le rôle peut être joué par une série de __concept extensionnels__ que sont les <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Resource.md">§Resources</a> 
 
-Et c'est justement le rôle des §Resource pendant extensionnel des @Deliverable intentionnels de le faire ...
+> C'est ce concept et ses sous-types qui incarne ce que "SONT" les ITEMS/Individus de cette catégorie.
 
-En effet, ces derniers se définissent par « ce qu’ils sont », par leur incarnation dans l'espace-temps, comme par exemple les avions, les voitures, les ordinateurs, les vêtements, les livres, les aliments, les logiciels, les services … 
+En effet, ces derniers se définissent par par leur incarnation dans l'espace-temps, comme par exemple les avions, les voitures, les ordinateurs, les vêtements, les aliments, les logiciels, les services, procédé de fabrication, les méthode de travail,  … 
 ... bref toutes les catégories (et sous-catégories) de produit que l’on trouvent dans la « nature ».
 
-Et bien il s'avère que pour déterminer de manière non ambiguë « de quel produit on parle exactement», il est nécessaire de spécifier sur quelle « intersection » il se trouve. Par exemple :
+
+Remarque
+==
+Il s'avère que pour déterminer de manière non ambiguë « de quel produit on parle exactement», il est nécessaire de spécifier sur quelle « intersection » il se trouve. Par exemple :
 * Un logiciel "tel que conçu"
 * Une pizza "tel que à fabriquer"
 * Un vélo "tel que fabriqué"
 
-Conséquence
-==
-Il n'y a donc PAS d'un côté des ITEMS/Individus qui soient des @deliverable (ou des sous-TYPES de @deliverable) et de l'autre des ITEMS/Individus qui soient des §Resource (ou des sous-TYPES de §Resource)
-... mais bien des ITEMS/Individus qui sont SIMULTANEMENT des @deliverable (ou des sous-TYPES de @deliverable) ET des §Resource (ou des sous-TYPES de §Resource)
-
-Avantages
-==
-De cette manière, chaque produit « intersection » est donc caractérisé à la fois par :
- * les caractéristiques (dimension, taille, forme, texture, …) du produit "extensionnel" auquel il appartient,
-* mais également par les caractéristiques (code, label, prix, délais de livraison, …) son produit "intentionnel" de référence.
 
 Dans la fiche sur le "Typage multiple" : https://github.com/iPlumb3r/KeQuarks/blob/master/Features/Multi-Typing_FR.md
 Il y a une représentation qui montre d'où viennent les propriétés d'un produit particulier
@@ -116,3 +110,8 @@ Il y a une représentation qui montre d'où viennent les propriétés d'un produ
 Ressources
 ==
 Les différents concepts relatifs à l'ASPECT intentionel des ITEM/Individu répondant à la question "Quoi ?" sont décrit dans l'article <a href="https://www.linkedin.com/pulse/les-invariants-m%C3%A9tiers-du-plm-bernard-chabot/">Les invariants métiers du PLM</a>
+
+
+Dans la fiche sur le <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Features/Multi-Typing_FR.md">Typage Multiple</a>, il y a une représentation qui montre d'où viennent les propriétés d'un produit particulier.
+
+
