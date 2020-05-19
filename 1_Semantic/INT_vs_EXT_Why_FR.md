@@ -7,7 +7,7 @@ C'est à dire :
 
 Concept Intentionel
 ==
-Dans une cartographie d'écosystème, celui qui agit est par définition le concept d'<a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Finality.md">@Finality</a>.
+Dans une cartographie d'écosystème, le concept de<a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Finality.md">@Finality</a> permet de répondre à cette question.
 
 Concepts Extensionnels
 ==
