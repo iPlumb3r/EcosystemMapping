@@ -1,14 +1,22 @@
-Mise en contexte
+Questionnement
 ==
-Dans le contexte d'E2M on a :
-* Question Clef = "POURQUOI ?" 
-* Signification = Pour quelle raison ? Pour quelle finalité ?
-* Concept intentionnel correspondant = "Finality" (https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Finality.md)
+Il s'agit globalement de répondre à la question clef "QUI ?".   
+C'est à dire :
+* Pour quelle raison ? 
+* Pour quelle finalité ?
 
-Ce concept incarne une cible dont le rôle peut être joué par un série de concept extensionnels que sont :
-* Les "Basic Need" : https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7BasicNeed.md
-* Les "Goal" : https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7Goal.md
-* Les "Objective" : https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7Objective.md
+Concept Intentionel
+==
+Dans une cartographie d'écosystème, celui qui agit est par définition le concept d'<a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Finality.md">@Finality</a>.
+
+Concepts Extensionnels
+==
+Le __concept intentionel__ de <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Finality.md">@Finality</a> incarne une "cible" dont le rôle peut être joué par une série de __concept extensionnels__ que sont 
+
+Classiquement :
+* Les §BasicNeed : https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7BasicNeed.md
+* Les §Goal : https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7Goal.md
+* Les §Objective : https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7Objective.md
 
 Avantage
 ==
