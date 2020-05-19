@@ -20,8 +20,33 @@ ET
 Ces différents niveaux sont classiquement les suivants :
 ![Ladder](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/Intention_Ladder.png)
 
-Remarque 1 : Les 2 premiers niveau (sur la gauche) ne sont pas - encore - des Produit
-Remarque 2 : Il est préférable de ne conserver dans l'appellation que le partie "statut" (ainsi cela peut s'appliquer à des Produit, mais également à des Services, voire à des Procédés de fabrication ou des Méthodes de travail, ...)
+__Remarque 1 :__ Les 2 premiers niveau (sur la gauche) ne sont pas - encore - des Produits   
+__Remarque 2 :__ Il est préférable de ne conserver dans l'appellation que la partie "statut" (ainsi cela peut s'appliquer à des Produit, mais également à des Services, voire à des Procédés de fabrication ou des Méthodes de travail, ...)
+__Remarque 3 :__ Il est possible qu'un ITEM/Individu soit en fait "à cheval" entre 2 de ces "status"
+
+Voici donc les 6 <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a> clef, "purement" défini : 
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Terme Préféré</th>
+            <th>Terme(s) Alternatif(s)</th>
+            <th>Description</th>
+            <th>Commentaires(s)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>#1</td>
+            <td>As Required</td>
+             td>Besoin, Usage, Finalité, ...</td>
+            <td>"Produit/Service" qui se décrit uniquement par la finalité de son usage indépendament de "ce qu'il fait" pour l'obtenir</td>
+            <td>Ce n'est pas vraiement un "Produit, ni un Service", mais plutôt un ensemble d'exigence de que qu'on en attends. traditionement documenté par un "Cahier des Charges"</td>
+        </tr>
+    </tbody>
+</table>
+
 
 comme par exemple le produit « tel que requis », le produit « tel que conçu », le produit « tel qu’à fabriquer », le produit « tel qu’à vendre », … bref tous les types de produit qui correspondent au livrable principal des grandes activités du processus de gestion du cycle vie produit (Définition, Conception, Industrialisation, Production, Distribution, Vente, …).
 
