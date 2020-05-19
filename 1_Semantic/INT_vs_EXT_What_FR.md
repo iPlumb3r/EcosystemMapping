@@ -24,7 +24,8 @@ __Remarque 1 :__ Les 2 premiers niveau (sur la gauche) ne sont pas - encore - de
 __Remarque 2 :__ Il est préférable de ne conserver dans l'appellation que la partie "statut" (ainsi cela peut s'appliquer à des Produit, mais également à des Services, voire à des Procédés de fabrication ou des Méthodes de travail, ...)
 __Remarque 3 :__ Il est possible qu'un ITEM/Individu soit en fait "à cheval" entre 2 de ces "status"
 
-Voici donc les 6 <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a> clef, "purement" défini : 
+Voici donc les 6 <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverables</a> clefs, "purement" définis :   
+(Utiliser le terme "Livrable" permet d'éviter de dire à chaque fois "Produit ou Service ou Procédé ou Méthode ...")
 
 <table>
     <thead>
