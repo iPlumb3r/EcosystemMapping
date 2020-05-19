@@ -22,7 +22,7 @@ But potentially it could just as well be one or the other of the following conce
 * §Project: A particular initiative of a §Person or §Organization (The §Project being seen as a temporary §Organization with a beginning and an end)
 * §Software: A software-type product (ex: An AI instance that performs taxonomies)
 * §Product: Product of material type (ex: A self-contained "taxi" car that offers shopping)
-* Or something else I haven't thought of yet... *
+* Or something else I haven't thought of yet ... 
 
 > It is these concepts that embody what "ARE" the ITEMS/Individuals in this category.
 
