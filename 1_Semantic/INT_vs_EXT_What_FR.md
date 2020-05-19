@@ -17,15 +17,16 @@ Leur "intentionnalité" se mesure sur une sorte d'échelle par rapport au niveau
 ET
 * le stade où le produit existe "physiquement" et/ou le service est "en cours d'execution"
 
+Ces différents niveaux correspondent en fait au livrable principal des grandes activités du processus de gestion du cycle vie produit (Définition, Conception, Industrialisation, Production, Distribution, Vente, …)
+
 Ces différents niveaux sont classiquement les suivants :
 ![Ladder](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/Intention_Ladder_2020-05_19.png)
 
-__Remarque 1 :__ Les 2 premiers niveau (sur la gauche) ne sont pas - encore - des Produits   
-__Remarque 2 :__ Il est préférable de ne conserver dans l'appellation que la partie "statut" (ainsi cela peut s'appliquer à des Produit, mais également à des Services, voire à des Procédés de fabrication ou des Méthodes de travail, ...)
-__Remarque 3 :__ Il est possible qu'un ITEM/Individu soit en fait "à cheval" entre 2 de ces "status"
+__Remarque 1 :__ Utiliser le terme "Livrable" permet d'éviter de dire à chaque fois "Produit ou Service ou Procédé ou Méthode ...")
+__Remarque 2 :__ Les 2 premiers niveau (sur la gauche) ne sont pas - encore - des Produits ni des Services ...  
+__Remarque 3 :__ Il est préférable de ne conserver dans l'appellation finale que la partie "statut" (ainsi cela peut s'appliquer à des Produits, mais également à des Services, voire à des Procédés de fabrication ou des Méthodes de travail, ...)
 
 Voici donc les 6 <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverables</a> clefs, "purement" définis :   
-(Utiliser le terme "Livrable" permet d'éviter de dire à chaque fois "Produit ou Service ou Procédé ou Méthode ...")
 
 <table>
     <thead>
@@ -83,11 +84,7 @@ Voici donc les 6 <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/mast
     </tbody>
 </table>
 
-__Remarque 3 :__ Il est possible qu'un ITEM/Individu soit en fait "à cheval" entre 2 de ces "status", mais comme il est impossible de prévoir à l'avance toute les combinaisons possibles, le fait de se baser sur des définions "pures" permet de disposer d'invariant tant stable que répandus !
-
-comme par exemple le produit « tel que requis », le produit « tel que conçu », le produit « tel qu’à fabriquer », le produit « tel qu’à vendre », … bref tous les types de produit qui correspondent au livrable principal des grandes activités du processus de gestion du cycle vie produit (Définition, Conception, Industrialisation, Production, Distribution, Vente, …).
-
-Remarque : L'avantage de la terminologie retenu par E2M ("As Defined", As Designed", "As To Be Built", "As Built") est quelle n'a pas besoin de dire de quoi il agit (et que donc cela peut s'appliquer à une vaste diversité de "choses" (Produit, Procédé, Méthodologie, Service, ...)
+__Remarque 4 :__ Il est possible qu'un ITEM/Individu soit en fait "à cheval" entre 2 de ces "status", mais comme il est impossible de prévoir à l'avance toute les combinaisons possibles, le fait de se baser sur des définions "pures" permet de disposer d'invariants aussi stable que répandus ! Les cas d'ITEM/Individus "à cheval" entre 2 "status" peuvent être résolus via du multi-typing ...
 
 Concepts Extensionnels
 ==
