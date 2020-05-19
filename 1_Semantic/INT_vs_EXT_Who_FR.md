@@ -8,8 +8,8 @@ Dans le contexte d'E2M on a :
 Ce concept incarne une cible dont le rôle peut être joué par un série de concept extensionnels que sont :
 
 Classiquement :
-* §Person : Un individu particulier
-* §Organization : Un ensemble de §Person ou d'§Organization   
+* <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Person.md">§Person</a> : Un individu particulier
+* <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Organization.md">§Organization</a> : Un ensemble de <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Person.md">§Person</a> ou d'<a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Organization.md">§Organization</a>   
 
 Mais potentiellement ce peut tout aussi bien être l'un ou l'autre des concepts suivants :
 * §Projet : Initiative particulière d'une §Person ou d'une §Organization
