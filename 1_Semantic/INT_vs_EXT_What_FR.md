@@ -18,7 +18,7 @@ ET
 * le stade où le produit existe "physiquement" et/ou le service est "en cours d'execution"
 
 Ces différents niveaux sont classiquement les suivants :
-![Ladder](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/Intention_Ladder.png)
+![Ladder](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/Intention_Ladder_2020-05-19.png)
 
 __Remarque 1 :__ Les 2 premiers niveau (sur la gauche) ne sont pas - encore - des Produits   
 __Remarque 2 :__ Il est préférable de ne conserver dans l'appellation que la partie "statut" (ainsi cela peut s'appliquer à des Produit, mais également à des Services, voire à des Procédés de fabrication ou des Méthodes de travail, ...)
