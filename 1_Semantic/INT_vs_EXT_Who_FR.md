@@ -1,7 +1,7 @@
 Mise en contexte
 ==
 Dans le contexte d'E2M on a :
-* Question Clef = "Qui ?"
+* Question Clef = "QUI ?"
 * Signification = Qui agit ? Qui s'implique ?
 * Concept intentionnel correspondant : <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>
 
