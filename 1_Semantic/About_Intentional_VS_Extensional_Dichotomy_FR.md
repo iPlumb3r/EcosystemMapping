@@ -97,5 +97,6 @@ Autrement dit, essayer de tout traiter sur un UNIQUE PLAN mélangerais forcement
 Ressources
 ==
 
-Un cas d'usage emblématique : https://github.com/iPlumb3r/EcosystemMapping/blob/master/0_UseCases/Bob_develops_SmartphoneCase_FR.md   
-Un article sur les Invariants Métiers : https://www.linkedin.com/pulse/les-invariants-m%C3%A9tiers-du-plm-bernard-chabot/
+Un cas d'usage emblématique : <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/0_UseCases/Bob_develops_SmartphoneCase_FR.md ">Bob develops Smartphone Case</a> 
+Un article sur <a href="https://www.linkedin.com/pulse/les-invariants-m%C3%A9tiers-du-plm-bernard-chabot/
+">Les Invariants Métiers du PLM</a>
