@@ -19,7 +19,7 @@ Mais potentiellement ce peut tout aussi bien être l'un ou l'autre des concepts 
 
 Conséquence
 ==
-Il n'y a donc PAS d'un côté des ITEMS/Individus qui soient des @Agent et de l'autre des ITEMS/Individus qui soient des §Person (ou des §Organization ou autre)
+Il n'y a donc PAS d'un côté des ITEMS/Individus qui soient des @Agent et de l'autre des ITEMS/Individus qui soient des §Person (ou des §Organization ou autre) ...   
 ... mais bien des ITEMS/Individus qui sont SIMULTANEMENT des @Agent ET des §Person (ou des §Organization ou autre)
 
 Avantages
