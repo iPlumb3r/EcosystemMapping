@@ -3,7 +3,7 @@ Mise en contexte
 Dans le contexte d'E2M on a :
 * Question = "Qui ?"
 * Précision = Qui est impliqué ? Qui agit ?
-* Concept intentionnel correspondant : @Agent (https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md)
+* Concept intentionnel correspondant : <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>
 
 Ce concept incarne une cible dont le rôle peut être joué par un série de concept extensionnels que sont :
 
