@@ -9,7 +9,7 @@ Concept Intentionel
 ==
 Dans un cartographie d'écosystème, celui qui agit est par définition le concept d'<a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>
 
-Concept Extensionnels
+Concepts Extensionnels
 ==
 Ce __concept intentionel__ incarne une "cible" dont le rôle peut être joué par une série de __concept extensionnels__ que sont 
 
