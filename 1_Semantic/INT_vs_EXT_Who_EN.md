@@ -12,7 +12,7 @@ In ecosystem mapping, the one who acts is by definition the concept of <a href="
 
 Extentional Concepts
 ==
-The __intentional __concept__ of <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a> embodies a "target" whose role can be played by a series of __extensional __concepts__ which are 
+The __intentional concept__ of <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a> embodies a "target" whose role can be played by a series of __extensional concepts__ which are 
 
 Classic:
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Person.md">§Person</a> : A particular individual
