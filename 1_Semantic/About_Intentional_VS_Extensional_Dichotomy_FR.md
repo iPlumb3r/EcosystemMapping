@@ -51,7 +51,8 @@ En effet, dans ce contexte, les CHOSES identifées dans la cartographie ont 2 AS
 
 A quoi ça sert ?
 ==
-Les modèles intentionnel et extensionnels sont des modèles ORTHOGONAUX qui accueille les PROJECTIONS des ASPECTS correspondants.
+Les modèles intentionnel et extensionnels sont des modèles ORTHOGONAUX ...    
+... qui accueille les PROJECTIONS des ASPECTS correspondants.
 
 Ils permettent de gérer les caractéristiques et les relations qui sont propres à chaque ASPECT.
 
