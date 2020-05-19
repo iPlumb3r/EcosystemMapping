@@ -101,9 +101,9 @@ Le 1er niveau de décomposition des §Resources fait écho à la question "en qu
 * Concept-Based Resource
 * Energy-Based Resource
 
-Remarque
+Exemple
 ==
-Il s'avère que pour déterminer de manière non ambiguë « de quel produit on parle exactement», il est nécessaire de spécifier sur quelle « intersection » il se trouve. Par exemple :
+Il s'avère que pour déterminer de manière non ambiguë « de quel livrable/ressource on parle exactement», il est nécessaire de spécifier sur quelle « intersection » il se trouve. Par exemple :
 * Un logiciel "tel que conçu"
 * Une pizza "tel que à fabriquer"
 * Un vélo "tel que fabriqué"
