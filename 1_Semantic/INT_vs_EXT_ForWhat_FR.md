@@ -7,11 +7,11 @@ C'est à dire :
 
 Concept Intentionel
 ==
-Dans une cartographie d'écosystème, celui qui agit est par définition le concept d'<a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Market.md">@Market</a>.
+Dans une cartographie d'écosystème, le concept de <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Market.md">@Market</a> permet de répondre à cette question.
 
 Concepts Extensionnels
 ==
-Le __concept intentionel__ d'<a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Market.md">@Market</a> incarne une "cible" dont le rôle peut être joué par une série de __concept extensionnels__ que sont 
+Le __concept intentionel__ de <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Market.md">@Market</a> incarne une "cible" dont le rôle peut être joué par une série de __concept extensionnels__ que sont 
 
 Classiquement :
 * Les §Domain : https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%C2%A7Domain.md
