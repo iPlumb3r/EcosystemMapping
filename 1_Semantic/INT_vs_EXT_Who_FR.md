@@ -5,7 +5,7 @@ Dans le contexte d'E2M on a :
 * Précision = Qui agit ? Qui s'implique ?
 * Concept intentionnel correspondant : <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>
 
-Ce concept incarne une cible dont le rôle peut être joué par un série de concept extensionnels que sont :
+Ce concept intentionel incarne une cible dont le rôle peut être joué par une série de concept extensionnels que sont :
 
 Classiquement :
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Person.md">§Person</a> : Un individu particulier
