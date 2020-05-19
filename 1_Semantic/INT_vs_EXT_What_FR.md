@@ -40,9 +40,16 @@ Voici donc les 6 <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/mast
         <tr>
             <td>#1</td>
             <td>As Required</td>
-             td>Besoin, Usage, Finalité, ...</td>
-            <td>"Produit/Service" qui se décrit uniquement par la finalité de son usage indépendament de "ce qu'il fait" pour l'obtenir</td>
-            <td>Ce n'est pas vraiement un "Produit, ni un Service", mais plutôt un ensemble d'exigence de que qu'on en attends. traditionement documenté par un "Cahier des Charges"</td>
+             <td>Besoin, Usage, Finalité, ...</td>
+            <td>"Produit/Service/..." qui se décrit uniquement par la finalité de son usage indépendament de "ce qu'il fait" pour l'obtenir</td>
+            <td>Ce n'est pas vraiment un un "Produit" (ni un "Service"), mais plutôt un ensemble d'exigences à satisfaire. Traditionement documenté par un "Cahier des Charges"</td>
+        </tr>
+        <tr>
+            <td>#2</td>
+            <td>As Defined</td>
+             <td>Fonctionalité, Besoin fonctionel, Fontions, ...</td>
+            <td>"Produit/Service/..." qui se décrit uniquement "ce qu'il fait" indépendament de "ce qu'il est"</td>
+            <td>Ce n'est pas vraiment un "Produit" (ni un "Service"), mais plutôt un ensemble de fonctions à remplir. Traditionement documenté par un "Cahier des Charges Fonctionel"</td>
         </tr>
     </tbody>
 </table>
