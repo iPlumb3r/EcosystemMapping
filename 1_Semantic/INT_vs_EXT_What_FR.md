@@ -32,3 +32,7 @@ De cette manière, chaque produit « intersection » est donc caractérisé à l
 
 Dans la fiche sur le "Typage multiple" : https://github.com/iPlumb3r/KeQuarks/blob/master/Features/Multi-Typing_FR.md
 Il y a une représentation qui montre d'où viennent les propriétés d'un produit particulier
+
+Ressources
+==
+Les différents concepts relatifs à l'ASPECT intentionel des ITEM/Individu répondant à la question "Quoi ?" sont décrit dans l'article <a href="https://www.linkedin.com/pulse/les-invariants-m%C3%A9tiers-du-plm-bernard-chabot/">Les invariants métiers du PLM</a>
