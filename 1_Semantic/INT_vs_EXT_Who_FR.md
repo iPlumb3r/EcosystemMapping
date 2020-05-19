@@ -5,7 +5,7 @@ Dans le contexte d'E2M on a :
 * Signification = Qui agit ? Qui s'implique ?
 * Concept intentionnel correspondant : <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Agent.md">@Agent</a>
 
-Ce concept intentionel incarne une cible dont le rôle peut être joué par une série de concept extensionnels que sont :
+Ce __concept intentionel__ incarne une "cible" dont le rôle peut être joué par une série de __concept extensionnels__ que sont :
 
 Classiquement :
 * <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/1_Semantic/Conceptionary/%C2%A7Person.md">§Person</a> : Un individu particulier
@@ -13,8 +13,8 @@ Classiquement :
 
 Mais potentiellement ce peut tout aussi bien être l'un ou l'autre des concepts suivants :
 * §Projet : Initiative particulière d'une §Person ou d'une §Organization
-* §Software : Produit de type logiciel (ex : une instance d'IA qui réalise des taxonomies)
-* §Product : Produit de type matériel (ex : une voiture "taxi" autonome qui propose des courses)
+* §Software : Produit de type logiciel (ex : Une instance d'IA qui réalise des taxonomies)
+* §Product : Produit de type matériel (ex : Une voiture "taxi" autonome qui propose des courses)
 * Ou bien autre chose encore à laquelle je n'ai pas pensé ...
 
 Conséquence
@@ -26,8 +26,8 @@ Avantages
 ==
 Cela permet de mieux gérer les caractéristiques et les relations relevant de chaque Concept, ...   
 ... Car chaque ITEM/Individu peut être vue :
-* soit par rapport "à ce qu'il fait" (=> en tant que @Agent)
-* soit par rapport "à ce qu'il est" (=> en tant que §Person ou §Organization, voire §Project ou §Product)
+* soit par rapport "à ce qu'il FAIT" (=> en tant que @Agent)
+* soit par rapport "à ce qu'il EST" (=> en tant que §Person ou §Organization, voire §Project ou §Product)
 
 Exemple
 ==
