@@ -1,6 +1,6 @@
 Introduction
 ==
-To make the most of the E2M ontology, it is crucial to understand __the ins and outs__ of the "Intention VS Extension" dichotomy : 
+In order to ha a deep understanding of the E2M ontology, it is crucial to understand __the ins and outs__ of the "Intention VS Extension" dichotomy : 
 * What is it ?
 * What is it for ?
 * What are the benefits ?
