@@ -1,6 +1,6 @@
 Introduction
 ==
-In order to have a deep understanding of the E2M ontology, it is crucial to understand __the ins and outs__ of the "Intention VS Extension" dichotomy : 
+In order to have a deep understanding of the E2M ontology, it is crucial to understand __the ins and outs__ of the "Intention VS Extension" dichotomy (in other words "DO" ASPECT/Facet VS "BE" ASPECT/Facet): 
 * What is it ?
 * What is it for ?
 * What are the benefits ?
