@@ -14,7 +14,7 @@ Class Hierarchies (Intentional & Extentional Multi-Typing)
 -
 This diagram show that the _"connexion between intentional & extensional modules"_ MUST be done at the __individual__ level (and NOT at the __model__ level)
 
-![Specification](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/OWL_Ontology%40E2M_ClassView_2020-06-11.png)
+![Specification](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/OWL_Ontology%40E2M_ClassView_2020-06-12.png)
 
 Intentional Module Specification (Simplified)
 -
