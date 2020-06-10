@@ -9,10 +9,6 @@ The answer to each of these questions can advantageously be provided via a __"2-
 * A 1st level which refers to __"Intentional"__ concepts (relating to the __finality__ of the thing).
 * A 2nd level which refers to __"Extensional"__ concepts (relating to the __nature__ of the thing)
 
-Simplified use case :
-![Basic Model](https://github.com/iPlumb3r/EcosystemMapping/blob/master/0_UseCases/Bob_develops_SmartphoneCase_EN.md)
-
-
 For example, the answer to the question "WHO?"   
 is given at the 1st level by the __intentional__ concept #Agent (= "the thing that acts (whatever its nature)")
 then it is completed at the 2nd level by different __extensionals__ concepts   
