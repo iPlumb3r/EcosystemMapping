@@ -15,7 +15,7 @@ The "Intention VS Extension" dichotomy is a modeling technique that was develope
 After analysis, it appears that the reason for this failure is essentially linked to the "monolithic" nature of the models that were developed. Monolithic in the sense that each ITEM/Individual on the map can only belong to 1 and only 1 TYPE/Class and each model has to deal with TYPES/Classes which are not very homogeneous between them because they are based on diametrically opposed logic (BUT totally complementary).
 
 Indeed, sometimes the TYPES/Classes used are :
-* Oriented in relation to the "role played"". (=> What they "ARE"). Examples: "Customer", "Product Supplied".
+* Oriented in relation to the "role played"". (=> What they "DOES"). Examples: "Customer", "Product Supplied".
 Or...
 * Oriented to their "nature" (=> What they "ARE"): Examples: "Organization", "Software"
 
