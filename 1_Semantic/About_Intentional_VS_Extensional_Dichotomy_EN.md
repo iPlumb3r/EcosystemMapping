@@ -73,7 +73,7 @@ Cf: https://github.com/iPlumb3r/KeQuarks/blob/master/Features/Multi-Typing_EN.md
 
 Why can't the "classic" approach work!
 ==
-In an ecosystem cartography the THINGS "ARE" and "ARE" at the same time, ...   
+In an ecosystem cartography the THINGS "ARE" and "DO" at the same time, ...   
 ... And only the principle of "SEPARATION of CONCERNS" allows us to treat this "schizophrenia" in 2 complementary ORTHOGONAL PLANS.
 
 In other words, trying to treat everything on a SINGLE PLAN would necessarily mix up notions that have nothing to do with each other.
