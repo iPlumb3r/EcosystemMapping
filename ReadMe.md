@@ -49,7 +49,7 @@ Initiative ID Card
         </tr>
         <tr>
             <th>Uses (model)</th>
-            <td><a href="https://github.com/iPlumb3r/Rhizome">Rhizome</a></td>
+            <td><a href="https://github.com/iPlumb3r/Rhizome">Rhizome</a> (Generic Fully Distributed Semantic-Driven Application)</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1886">#1886</a></td>
         </tr>  
         <tr>
