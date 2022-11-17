@@ -52,7 +52,6 @@ Initiative ID Card
             <td><a href="https://github.com/iPlumb3r/Rhizome">Rhizome</a></td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1886">#1886</a></td>
         </tr>  
-        
         <tr>
             <th>Uses (model)</th>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct">Th3Sr1b3Pr0j3ct</a> (Onto-Terminology)</td>
