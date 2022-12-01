@@ -45,7 +45,7 @@ Elle s'appuie sur le principe de "Separation Of Concerns" appliqué dans le cont
 * <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/INT_vs_EXT_What_FR.md">Quoi ?</a> (=> <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Deliverable.md">@Deliverable</a>)
 * <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/INT_vs_EXT_How_FR.md">Comment ?</a> (=> <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Technology.md">@Technology</a>)
 * <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/INT_vs_EXT_ForWhat_FR.md">Pour Quoi ?</a> (=> <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Market.md">@Market</a>)
-* <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/INT_vs_EXT_Why_FR.md">Pouquoi ?</a> (=> <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Finality.md">@Finality</a>)
+* <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/INT_vs_EXT_Why_FR.md">Pourquoi ?</a> (=> <a href="https://github.com/iPlumb3r/EcosystemMapping/blob/master/1_Semantic/Conceptionary/%40Finality.md">@Finality</a>)
 
 En effet, dans ce contexte, les CHOSES identifées dans la cartographie ont 2 ASPECTS différents et complémentaires : 
 * L’ASPECT "Intentionnel" d’un ITEM/Individu est relatif à la raison pour laquelle il apparaît dans la carte, au rôle qu’il y joue, à ce qu’il "FAIT" (INDEPENDAMMENT de sa "nature"),
