@@ -81,8 +81,8 @@ Les principaux avantages de la dichotomie "Intention VS Extension" sont les suiv
 
 Comment ça marche ?
 ==
-Techniquement cela est rendu possible par le __typage multiple__ (qui est une mécanique de modélisation de niveau « ITEM/Individu)
-Cette approche est plus pertinente que l’héritage multiple (qui une mécanique de modélisation de niveau « TYPE/Classe) qui lui ne permet pas d’éviter l’explosion combinatoire des TYPES/Classes)
+Techniquement cela est rendu possible par le __typage multiple__ (qui est une mécanique de modélisation de niveau ITEM/Individu)
+Cette approche est plus pertinente que l’héritage multiple (qui une mécanique de modélisation de niveau TYPE/Classe) qui lui ne permet pas d’éviter l’explosion combinatoire des TYPES/Classes)
 
 Cf : https://github.com/iPlumb3r/KeQuarks/blob/master/Features/Multi-Typing_FR.md
 
