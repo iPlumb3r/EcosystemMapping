@@ -27,7 +27,7 @@ OU
 * un "Client" ET une "Personne"
 
 De la même manière, un ITEM/Individu donné peut être "en même temps" : 
-* un "Produit Fourni" ET "Logiciel"   
+* un "Produit Fourni" ET un "Logiciel"   
 OU   
 * un "Produit Spécifié" ET un "Logiciel"
 
