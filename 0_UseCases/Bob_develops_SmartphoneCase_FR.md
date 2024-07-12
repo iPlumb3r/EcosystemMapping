@@ -18,7 +18,7 @@ Description
 ==
 Le cas d'usage est centré sur "Bob", une personne qui developpe des coques de smartphone.   
 Pour ce faire, il se sert des "exigences" définies par l'organisation "NormPlus" pour déterminer les côtes dimentionelles qu'il doit respecter et du logiciel "Blender" pour réaliser le développement de ces propres modèles de coques.   
-"Bob" transmet ensuite les "specifications" de chaque modèle de coque à l'organisation "FL-Print" qui va fabriquer les coques en utilisant une "Imprimante 3D" et du "Filament Bio-Platique".
+"Bob" transmet ensuite les "specifications" de chaque modèle de coque à l'organisation "FL-Print" qui va fabriquer les coques en utilisant une "Imprimante 3D" et du "Filament Bio-Plastique".
 
 Analyse
 ==
